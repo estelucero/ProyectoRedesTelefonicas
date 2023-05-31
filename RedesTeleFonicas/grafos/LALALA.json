@@ -1,0 +1,31 @@
+{
+  "costoPorKm": 20.0,
+  "porcentajeSupera300Km": 0.2,
+  "costoDistintasProvincias": 20.0,
+  "localidades": [
+    {
+      "nombre": "Arequito",
+      "provincia": "Santa Fe",
+      "latitud": -33.15,
+      "longitud": -61.46667
+    },
+    {
+      "nombre": "Amberes",
+      "provincia": "Salta",
+      "latitud": -22.51667,
+      "longitud": -62.53333
+    },
+    {
+      "nombre": "Amapola",
+      "provincia": "Santiago del Estero",
+      "latitud": -27.36667,
+      "longitud": -64.86667
+    },
+    {
+      "nombre": "Campamento Primero",
+      "provincia": "Chubut",
+      "latitud": -45.66667,
+      "longitud": -67.63333
+    }
+  ]
+}

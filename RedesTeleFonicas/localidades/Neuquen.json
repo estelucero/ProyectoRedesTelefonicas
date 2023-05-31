@@ -1,0 +1,860 @@
+[
+  {
+    "nombre": "Achico",
+    "provincia": "Neuquen",
+    "latitud": -40.33333,
+    "longitud": -70.33333
+  },
+  {
+    "nombre": "Agua de Canale",
+    "provincia": "Neuquen",
+    "latitud": -38.2,
+    "longitud": -69.43333
+  },
+  {
+    "nombre": "Agua del Overo",
+    "provincia": "Neuquen",
+    "latitud": -39.3,
+    "longitud": -70.11667
+  },
+  {
+    "nombre": "Aguada de Castro",
+    "provincia": "Neuquen",
+    "latitud": -37.78333,
+    "longitud": -69.93333
+  },
+  {
+    "nombre": "Alumine",
+    "provincia": "Neuquen",
+    "latitud": -39.21667,
+    "longitud": -70.95
+  },
+  {
+    "nombre": "Andacollo",
+    "provincia": "Neuquen",
+    "latitud": -37.18333,
+    "longitud": -70.68333
+  },
+  {
+    "nombre": "Anelo",
+    "provincia": "Neuquen",
+    "latitud": -38.35,
+    "longitud": -68.78333
+  },
+  {
+    "nombre": "Arroyito Challaco",
+    "provincia": "Neuquen",
+    "latitud": -39.08333,
+    "longitud": -68.58333
+  },
+  {
+    "nombre": "Auca Mahuida",
+    "provincia": "Neuquen",
+    "latitud": -37.88333,
+    "longitud": -68.51667
+  },
+  {
+    "nombre": "Bajada Colorada",
+    "provincia": "Neuquen",
+    "latitud": -39.85,
+    "longitud": -69.73333
+  },
+  {
+    "nombre": "Bajada del Agrio",
+    "provincia": "Neuquen",
+    "latitud": -38.38333,
+    "longitud": -70.03333
+  },
+  {
+    "nombre": "Banos de Copahue",
+    "provincia": "Neuquen",
+    "latitud": -37.8,
+    "longitud": -71.11667
+  },
+  {
+    "nombre": "Barrancas",
+    "provincia": "Neuquen",
+    "latitud": -36.81667,
+    "longitud": -69.91667
+  },
+  {
+    "nombre": "Bote",
+    "provincia": "Neuquen",
+    "latitud": -37.0,
+    "longitud": -70.73333
+  },
+  {
+    "nombre": "Buena Esperanza",
+    "provincia": "Neuquen",
+    "latitud": -38.61667,
+    "longitud": -69.18333
+  },
+  {
+    "nombre": "Buta Mallin",
+    "provincia": "Neuquen",
+    "latitud": -37.56667,
+    "longitud": -70.73333
+  },
+  {
+    "nombre": "Buta Ranquil",
+    "provincia": "Neuquen",
+    "latitud": -37.05,
+    "longitud": -69.83333
+  },
+  {
+    "nombre": "Cajon de Almanza",
+    "provincia": "Neuquen",
+    "latitud": -38.16667,
+    "longitud": -70.5
+  },
+  {
+    "nombre": "Cajon del Manzano",
+    "provincia": "Neuquen",
+    "latitud": -38.3,
+    "longitud": -70.51667
+  },
+  {
+    "nombre": "Caleufu",
+    "provincia": "Neuquen",
+    "latitud": -40.5,
+    "longitud": -71.16667
+  },
+  {
+    "nombre": "Campana Mahuida",
+    "provincia": "Neuquen",
+    "latitud": -38.2,
+    "longitud": -70.6
+  },
+  {
+    "nombre": "Cancha Huinganco",
+    "provincia": "Neuquen",
+    "latitud": -37.01667,
+    "longitud": -70.38333
+  },
+  {
+    "nombre": "Catan Lil",
+    "provincia": "Neuquen",
+    "latitud": -39.75,
+    "longitud": -70.61667
+  },
+  {
+    "nombre": "Cayanta",
+    "provincia": "Neuquen",
+    "latitud": -37.15,
+    "longitud": -70.78333
+  },
+  {
+    "nombre": "Centenario",
+    "provincia": "Neuquen",
+    "latitud": -38.8,
+    "longitud": -68.13333
+  },
+  {
+    "nombre": "Chacaico",
+    "provincia": "Neuquen",
+    "latitud": -39.3,
+    "longitud": -70.3
+  },
+  {
+    "nombre": "Chacay Melehue",
+    "provincia": "Neuquen",
+    "latitud": -37.23333,
+    "longitud": -70.36667
+  },
+  {
+    "nombre": "Challaco",
+    "provincia": "Neuquen",
+    "latitud": -38.96667,
+    "longitud": -68.96667
+  },
+  {
+    "nombre": "Chapelco",
+    "provincia": "Neuquen",
+    "latitud": -40.11667,
+    "longitud": -71.21667
+  },
+  {
+    "nombre": "Chochoy Mallin",
+    "provincia": "Neuquen",
+    "latitud": -37.36667,
+    "longitud": -70.86667
+  },
+  {
+    "nombre": "Chos Malal",
+    "provincia": "Neuquen",
+    "latitud": -37.38333,
+    "longitud": -70.26667
+  },
+  {
+    "nombre": "Churriaca",
+    "provincia": "Neuquen",
+    "latitud": -37.9,
+    "longitud": -70.13333
+  },
+  {
+    "nombre": "Codihue",
+    "provincia": "Neuquen",
+    "latitud": -38.46667,
+    "longitud": -70.48333
+  },
+  {
+    "nombre": "Coihueco",
+    "provincia": "Neuquen",
+    "latitud": -38.06667,
+    "longitud": -70.16667
+  },
+  {
+    "nombre": "Colipilli",
+    "provincia": "Neuquen",
+    "latitud": -37.76667,
+    "longitud": -70.4
+  },
+  {
+    "nombre": "Collon Cura",
+    "provincia": "Neuquen",
+    "latitud": -40.11667,
+    "longitud": -70.73333
+  },
+  {
+    "nombre": "Collun Co",
+    "provincia": "Neuquen",
+    "latitud": -39.98333,
+    "longitud": -71.18333
+  },
+  {
+    "nombre": "Correntoso",
+    "provincia": "Neuquen",
+    "latitud": -40.75,
+    "longitud": -71.68333
+  },
+  {
+    "nombre": "Cortaderas",
+    "provincia": "Neuquen",
+    "latitud": -37.66667,
+    "longitud": -69.58333
+  },
+  {
+    "nombre": "Covunco",
+    "provincia": "Neuquen",
+    "latitud": -38.53333,
+    "longitud": -70.25
+  },
+  {
+    "nombre": "Cutral Co",
+    "provincia": "Neuquen",
+    "latitud": -38.93333,
+    "longitud": -69.23333
+  },
+  {
+    "nombre": "Cuyin Manzano",
+    "provincia": "Neuquen",
+    "latitud": -40.76667,
+    "longitud": -71.18333
+  },
+  {
+    "nombre": "Departamento de Alumine",
+    "provincia": "Neuquen",
+    "latitud": -39.16667,
+    "longitud": -71.0
+  },
+  {
+    "nombre": "Departamento de Anelo",
+    "provincia": "Neuquen",
+    "latitud": -38.16667,
+    "longitud": -69.0
+  },
+  {
+    "nombre": "Departamento de Catan Lil",
+    "provincia": "Neuquen",
+    "latitud": -39.5,
+    "longitud": -70.33333
+  },
+  {
+    "nombre": "Departamento de Chos Malal",
+    "provincia": "Neuquen",
+    "latitud": -36.91667,
+    "longitud": -70.16667
+  },
+  {
+    "nombre": "Departamento de Collon Cura",
+    "provincia": "Neuquen",
+    "latitud": -40.08333,
+    "longitud": -70.16667
+  },
+  {
+    "nombre": "Departamento de Confluencia",
+    "provincia": "Neuquen",
+    "latitud": -38.83333,
+    "longitud": -68.83333
+  },
+  {
+    "nombre": "Departamento de Huiliches",
+    "provincia": "Neuquen",
+    "latitud": -39.75,
+    "longitud": -71.33333
+  },
+  {
+    "nombre": "Departamento de Lacar",
+    "provincia": "Neuquen",
+    "latitud": -40.25,
+    "longitud": -71.2
+  },
+  {
+    "nombre": "Departamento de Loncopue",
+    "provincia": "Neuquen",
+    "latitud": -38.08333,
+    "longitud": -70.33333
+  },
+  {
+    "nombre": "Departamento de Los Lagos",
+    "provincia": "Neuquen",
+    "latitud": -40.75,
+    "longitud": -71.41667
+  },
+  {
+    "nombre": "Departamento de Minas",
+    "provincia": "Neuquen",
+    "latitud": -36.83333,
+    "longitud": -70.83333
+  },
+  {
+    "nombre": "Departamento de Norquin",
+    "provincia": "Neuquen",
+    "latitud": -37.75,
+    "longitud": -70.58333
+  },
+  {
+    "nombre": "Departamento de Pehuenches",
+    "provincia": "Neuquen",
+    "latitud": -37.5,
+    "longitud": -69.33333
+  },
+  {
+    "nombre": "Departamento de Picun Leufu",
+    "provincia": "Neuquen",
+    "latitud": -39.5,
+    "longitud": -69.5
+  },
+  {
+    "nombre": "Departamento de Picunches",
+    "provincia": "Neuquen",
+    "latitud": -38.53333,
+    "longitud": -70.25
+  },
+  {
+    "nombre": "Departamento de Zapala",
+    "provincia": "Neuquen",
+    "latitud": -39.0,
+    "longitud": -69.83333
+  },
+  {
+    "nombre": "El Chinque",
+    "provincia": "Neuquen",
+    "latitud": -37.18333,
+    "longitud": -70.66667
+  },
+  {
+    "nombre": "El Cholar",
+    "provincia": "Neuquen",
+    "latitud": -37.41667,
+    "longitud": -70.65
+  },
+  {
+    "nombre": "El Huecu",
+    "provincia": "Neuquen",
+    "latitud": -37.61667,
+    "longitud": -70.6
+  },
+  {
+    "nombre": "El Mangrullo",
+    "provincia": "Neuquen",
+    "latitud": -39.4,
+    "longitud": -68.95
+  },
+  {
+    "nombre": "El Marucho",
+    "provincia": "Neuquen",
+    "latitud": -39.45,
+    "longitud": -70.18333
+  },
+  {
+    "nombre": "Espinazo del Zorro",
+    "provincia": "Neuquen",
+    "latitud": -39.28333,
+    "longitud": -70.61667
+  },
+  {
+    "nombre": "Filo hua hum",
+    "provincia": "Neuquen",
+    "latitud": -40.48333,
+    "longitud": -71.35
+  },
+  {
+    "nombre": "Fortin Primero de Mayo",
+    "provincia": "Neuquen",
+    "latitud": -39.41667,
+    "longitud": -70.63333
+  },
+  {
+    "nombre": "Guanacos",
+    "provincia": "Neuquen",
+    "latitud": -37.28333,
+    "longitud": -70.75
+  },
+  {
+    "nombre": "Gutenberg",
+    "provincia": "Neuquen",
+    "latitud": -29.73333,
+    "longitud": -63.51667
+  },
+  {
+    "nombre": "Hualcupen",
+    "provincia": "Neuquen",
+    "latitud": -37.96667,
+    "longitud": -70.6
+  },
+  {
+    "nombre": "Huinganco",
+    "provincia": "Neuquen",
+    "latitud": -37.11667,
+    "longitud": -70.65
+  },
+  {
+    "nombre": "Huncal",
+    "provincia": "Neuquen",
+    "latitud": -37.93333,
+    "longitud": -70.33333
+  },
+  {
+    "nombre": "Invernada Vieja",
+    "provincia": "Neuquen",
+    "latitud": -36.83333,
+    "longitud": -70.68333
+  },
+  {
+    "nombre": "Junin de los Andes",
+    "provincia": "Neuquen",
+    "latitud": -39.93333,
+    "longitud": -71.08333
+  },
+  {
+    "nombre": "La Buitrera",
+    "provincia": "Neuquen",
+    "latitud": -38.55,
+    "longitud": -70.33333
+  },
+  {
+    "nombre": "La Lipela",
+    "provincia": "Neuquen",
+    "latitud": -40.81667,
+    "longitud": -71.13333
+  },
+  {
+    "nombre": "La Picaza",
+    "provincia": "Neuquen",
+    "latitud": -39.58333,
+    "longitud": -70.13333
+  },
+  {
+    "nombre": "La Salada",
+    "provincia": "Neuquen",
+    "latitud": -37.31667,
+    "longitud": -70.25
+  },
+  {
+    "nombre": "Lafontaine",
+    "provincia": "Neuquen",
+    "latitud": -37.81667,
+    "longitud": -70.95
+  },
+  {
+    "nombre": "Las Coloradas",
+    "provincia": "Neuquen",
+    "latitud": -39.55,
+    "longitud": -70.58333
+  },
+  {
+    "nombre": "Las Lajas",
+    "provincia": "Neuquen",
+    "latitud": -38.51667,
+    "longitud": -70.36667
+  },
+  {
+    "nombre": "Las Maquinas",
+    "provincia": "Neuquen",
+    "latitud": -37.23333,
+    "longitud": -70.35
+  },
+  {
+    "nombre": "Las Ovejas",
+    "provincia": "Neuquen",
+    "latitud": -37.01667,
+    "longitud": -70.75
+  },
+  {
+    "nombre": "Lileo",
+    "provincia": "Neuquen",
+    "latitud": -37.2,
+    "longitud": -70.96667
+  },
+  {
+    "nombre": "Lolog",
+    "provincia": "Neuquen",
+    "latitud": -40.08333,
+    "longitud": -71.33333
+  },
+  {
+    "nombre": "Loma Farias",
+    "provincia": "Neuquen",
+    "latitud": -39.2,
+    "longitud": -68.75
+  },
+  {
+    "nombre": "Loncopue",
+    "provincia": "Neuquen",
+    "latitud": -38.06667,
+    "longitud": -70.61667
+  },
+  {
+    "nombre": "Los Miches",
+    "provincia": "Neuquen",
+    "latitud": -37.23333,
+    "longitud": -70.86667
+  },
+  {
+    "nombre": "Los Molles",
+    "provincia": "Neuquen",
+    "latitud": -39.2,
+    "longitud": -70.26667
+  },
+  {
+    "nombre": "Malleo",
+    "provincia": "Neuquen",
+    "latitud": -39.8,
+    "longitud": -70.96667
+  },
+  {
+    "nombre": "Mallin de Toro",
+    "provincia": "Neuquen",
+    "latitud": -38.03333,
+    "longitud": -70.76667
+  },
+  {
+    "nombre": "Milla Michico",
+    "provincia": "Neuquen",
+    "latitud": -37.26667,
+    "longitud": -70.63333
+  },
+  {
+    "nombre": "Mina La Escondida",
+    "provincia": "Neuquen",
+    "latitud": -37.88333,
+    "longitud": -68.51667
+  },
+  {
+    "nombre": "Mulichinco",
+    "provincia": "Neuquen",
+    "latitud": -38.06667,
+    "longitud": -70.45
+  },
+  {
+    "nombre": "Nahuel Huapi",
+    "provincia": "Neuquen",
+    "latitud": -41.05,
+    "longitud": -71.15
+  },
+  {
+    "nombre": "Nahueve",
+    "provincia": "Neuquen",
+    "latitud": -37.06667,
+    "longitud": -70.78333
+  },
+  {
+    "nombre": "Naunauco",
+    "provincia": "Neuquen",
+    "latitud": -37.61667,
+    "longitud": -70.18333
+  },
+  {
+    "nombre": "Neuquen",
+    "provincia": "Neuquen",
+    "latitud": -38.95,
+    "longitud": -68.06667
+  },
+  {
+    "nombre": "Norquin",
+    "provincia": "Neuquen",
+    "latitud": -37.7,
+    "longitud": -70.63333
+  },
+  {
+    "nombre": "Paso de los Indios",
+    "provincia": "Neuquen",
+    "latitud": -38.53333,
+    "longitud": -69.41667
+  },
+  {
+    "nombre": "Paso Yuncon",
+    "provincia": "Neuquen",
+    "latitud": -40.25,
+    "longitud": -70.16667
+  },
+  {
+    "nombre": "Pichaihue",
+    "provincia": "Neuquen",
+    "latitud": -37.73333,
+    "longitud": -70.23333
+  },
+  {
+    "nombre": "Picun Leufu",
+    "provincia": "Neuquen",
+    "latitud": -39.51667,
+    "longitud": -69.25
+  },
+  {
+    "nombre": "Piedra del Aguila",
+    "provincia": "Neuquen",
+    "latitud": -40.05,
+    "longitud": -70.08333
+  },
+  {
+    "nombre": "Pilolil",
+    "provincia": "Neuquen",
+    "latitud": -39.65,
+    "longitud": -70.95
+  },
+  {
+    "nombre": "Pino Hachado",
+    "provincia": "Neuquen",
+    "latitud": -38.66667,
+    "longitud": -70.9
+  },
+  {
+    "nombre": "Plaza Huincul",
+    "provincia": "Neuquen",
+    "latitud": -38.91667,
+    "longitud": -69.15
+  },
+  {
+    "nombre": "Plottier",
+    "provincia": "Neuquen",
+    "latitud": -38.96667,
+    "longitud": -68.23333
+  },
+  {
+    "nombre": "Provincia del Neuquen",
+    "provincia": "Neuquen",
+    "latitud": -39.0,
+    "longitud": -70.0
+  },
+  {
+    "nombre": "Puerta del Diablo",
+    "provincia": "Neuquen",
+    "latitud": -38.96667,
+    "longitud": -70.81667
+  },
+  {
+    "nombre": "Puerto Hua Hum",
+    "provincia": "Neuquen",
+    "latitud": -40.11667,
+    "longitud": -71.66667
+  },
+  {
+    "nombre": "Puerto Huemul",
+    "provincia": "Neuquen",
+    "latitud": -41.03333,
+    "longitud": -71.41667
+  },
+  {
+    "nombre": "Puerto Manzano",
+    "provincia": "Neuquen",
+    "latitud": -40.8,
+    "longitud": -71.61667
+  },
+  {
+    "nombre": "Quemquemtreu",
+    "provincia": "Neuquen",
+    "latitud": -40.23333,
+    "longitud": -70.81667
+  },
+  {
+    "nombre": "Quilachanquil",
+    "provincia": "Neuquen",
+    "latitud": -39.06667,
+    "longitud": -70.93333
+  },
+  {
+    "nombre": "Quilaquina",
+    "provincia": "Neuquen",
+    "latitud": -40.18333,
+    "longitud": -71.45
+  },
+  {
+    "nombre": "Quili Malal",
+    "provincia": "Neuquen",
+    "latitud": -38.35,
+    "longitud": -69.81667
+  },
+  {
+    "nombre": "Rahue",
+    "provincia": "Neuquen",
+    "latitud": -39.35,
+    "longitud": -70.91667
+  },
+  {
+    "nombre": "Rahueco",
+    "provincia": "Neuquen",
+    "latitud": -37.4,
+    "longitud": -70.41667
+  },
+  {
+    "nombre": "Ramon M Castro",
+    "provincia": "Neuquen",
+    "latitud": -38.85,
+    "longitud": -69.75
+  },
+  {
+    "nombre": "Ranquilco",
+    "provincia": "Neuquen",
+    "latitud": -37.53333,
+    "longitud": -70.8
+  },
+  {
+    "nombre": "Ranquilon",
+    "provincia": "Neuquen",
+    "latitud": -37.76667,
+    "longitud": -70.51667
+  },
+  {
+    "nombre": "Rosario",
+    "provincia": "Neuquen",
+    "latitud": -37.16667,
+    "longitud": -70.61667
+  },
+  {
+    "nombre": "Sainuco",
+    "provincia": "Neuquen",
+    "latitud": -38.91667,
+    "longitud": -70.71667
+  },
+  {
+    "nombre": "San Martin de los Andes",
+    "provincia": "Neuquen",
+    "latitud": -40.16038,
+    "longitud": -71.34865
+  },
+  {
+    "nombre": "Sanico",
+    "provincia": "Neuquen",
+    "latitud": -40.11667,
+    "longitud": -70.41667
+  },
+  {
+    "nombre": "Santo Tomas",
+    "provincia": "Neuquen",
+    "latitud": -39.86667,
+    "longitud": -70.08333
+  },
+  {
+    "nombre": "Senillosa",
+    "provincia": "Neuquen",
+    "latitud": -39.0,
+    "longitud": -68.41667
+  },
+  {
+    "nombre": "Taquimilan",
+    "provincia": "Neuquen",
+    "latitud": -37.6,
+    "longitud": -70.35
+  },
+  {
+    "nombre": "Traful",
+    "provincia": "Neuquen",
+    "latitud": -40.7,
+    "longitud": -71.21667
+  },
+  {
+    "nombre": "Tralalhue",
+    "provincia": "Neuquen",
+    "latitud": -37.63333,
+    "longitud": -70.35
+  },
+  {
+    "nombre": "Tratayen",
+    "provincia": "Neuquen",
+    "latitud": -38.4,
+    "longitud": -68.6
+  },
+  {
+    "nombre": "Tres Chorros",
+    "provincia": "Neuquen",
+    "latitud": -37.5,
+    "longitud": -70.38333
+  },
+  {
+    "nombre": "Tricao Malal",
+    "provincia": "Neuquen",
+    "latitud": -37.05,
+    "longitud": -70.31667
+  },
+  {
+    "nombre": "Trompul",
+    "provincia": "Neuquen",
+    "latitud": -40.13333,
+    "longitud": -71.41667
+  },
+  {
+    "nombre": "Varvarco",
+    "provincia": "Neuquen",
+    "latitud": -36.8,
+    "longitud": -70.7
+  },
+  {
+    "nombre": "Villa El Chocon",
+    "provincia": "Neuquen",
+    "latitud": -39.23333,
+    "longitud": -68.75
+  },
+  {
+    "nombre": "Villa La Angostura",
+    "provincia": "Neuquen",
+    "latitud": -40.78333,
+    "longitud": -71.66667
+  },
+  {
+    "nombre": "Villa Traful",
+    "provincia": "Neuquen",
+    "latitud": -40.66667,
+    "longitud": -71.4
+  },
+  {
+    "nombre": "Vilu Mallin",
+    "provincia": "Neuquen",
+    "latitud": -37.45,
+    "longitud": -70.76667
+  },
+  {
+    "nombre": "Vista Alegre",
+    "provincia": "Neuquen",
+    "latitud": -38.75,
+    "longitud": -68.18333
+  },
+  {
+    "nombre": "Yumu Yumu",
+    "provincia": "Neuquen",
+    "latitud": -38.15,
+    "longitud": -70.71667
+  },
+  {
+    "nombre": "Zaina Yegua",
+    "provincia": "Neuquen",
+    "latitud": -40.18333,
+    "longitud": -70.23333
+  },
+  {
+    "nombre": "Zapala",
+    "provincia": "Neuquen",
+    "latitud": -38.9,
+    "longitud": -70.06667
+  }
+]

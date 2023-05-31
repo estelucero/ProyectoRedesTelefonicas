@@ -1,0 +1,1664 @@
+[
+  {
+    "nombre": "Acambuco",
+    "provincia": "Salta",
+    "latitud": -22.18333,
+    "longitud": -63.95
+  },
+  {
+    "nombre": "Acoite",
+    "provincia": "Salta",
+    "latitud": -22.28333,
+    "longitud": -65.01667
+  },
+  {
+    "nombre": "Acosta",
+    "provincia": "Salta",
+    "latitud": -25.5,
+    "longitud": -65.23333
+  },
+  {
+    "nombre": "Agua Sucia",
+    "provincia": "Salta",
+    "latitud": -24.45,
+    "longitud": -63.83333
+  },
+  {
+    "nombre": "Aguaray",
+    "provincia": "Salta",
+    "latitud": -22.26667,
+    "longitud": -63.73333
+  },
+  {
+    "nombre": "Aguas Blancas",
+    "provincia": "Salta",
+    "latitud": -22.73333,
+    "longitud": -64.36667
+  },
+  {
+    "nombre": "Aguas Muertas",
+    "provincia": "Salta",
+    "latitud": -24.2,
+    "longitud": -62.68333
+  },
+  {
+    "nombre": "Aguilar",
+    "provincia": "Salta",
+    "latitud": -22.36667,
+    "longitud": -65.18333
+  },
+  {
+    "nombre": "Alemania",
+    "provincia": "Salta",
+    "latitud": -25.6,
+    "longitud": -65.63333
+  },
+  {
+    "nombre": "Almona",
+    "provincia": "Salta",
+    "latitud": -25.96667,
+    "longitud": -64.51667
+  },
+  {
+    "nombre": "Alto de la Sierra",
+    "provincia": "Salta",
+    "latitud": -22.73333,
+    "longitud": -62.5
+  },
+  {
+    "nombre": "Alto del Mistol",
+    "provincia": "Salta",
+    "latitud": -25.28333,
+    "longitud": -64.11667
+  },
+  {
+    "nombre": "Amberes",
+    "provincia": "Salta",
+    "latitud": -22.51667,
+    "longitud": -62.53333
+  },
+  {
+    "nombre": "Ampascachi",
+    "provincia": "Salta",
+    "latitud": -25.33333,
+    "longitud": -65.53333
+  },
+  {
+    "nombre": "Angastaco",
+    "provincia": "Salta",
+    "latitud": -25.63333,
+    "longitud": -66.18333
+  },
+  {
+    "nombre": "Angostura",
+    "provincia": "Salta",
+    "latitud": -25.48333,
+    "longitud": -66.23333
+  },
+  {
+    "nombre": "Animana",
+    "provincia": "Salta",
+    "latitud": -25.98333,
+    "longitud": -65.96667
+  },
+  {
+    "nombre": "Animas",
+    "provincia": "Salta",
+    "latitud": -25.11667,
+    "longitud": -65.61667
+  },
+  {
+    "nombre": "Anta",
+    "provincia": "Salta",
+    "latitud": -24.91667,
+    "longitud": -64.46667
+  },
+  {
+    "nombre": "Antilla",
+    "provincia": "Salta",
+    "latitud": -26.11667,
+    "longitud": -64.6
+  },
+  {
+    "nombre": "Antonio Quijarro",
+    "provincia": "Salta",
+    "latitud": -22.83333,
+    "longitud": -63.85
+  },
+  {
+    "nombre": "Apeadero Cochabamba",
+    "provincia": "Salta",
+    "latitud": -26.05,
+    "longitud": -64.63333
+  },
+  {
+    "nombre": "Apolinario Saravia",
+    "provincia": "Salta",
+    "latitud": -24.41667,
+    "longitud": -64.03333
+  },
+  {
+    "nombre": "Arenal",
+    "provincia": "Salta",
+    "latitud": -25.91667,
+    "longitud": -65.11667
+  },
+  {
+    "nombre": "Artigal",
+    "provincia": "Salta",
+    "latitud": -22.18333,
+    "longitud": -64.91667
+  },
+  {
+    "nombre": "Azulcuesta",
+    "provincia": "Salta",
+    "latitud": -22.55,
+    "longitud": -65.11667
+  },
+  {
+    "nombre": "Balboa",
+    "provincia": "Salta",
+    "latitud": -25.86667,
+    "longitud": -64.8
+  },
+  {
+    "nombre": "Banda Grande",
+    "provincia": "Salta",
+    "latitud": -25.41667,
+    "longitud": -66.23333
+  },
+  {
+    "nombre": "Barrial",
+    "provincia": "Salta",
+    "latitud": -25.96667,
+    "longitud": -65.91667
+  },
+  {
+    "nombre": "Betania",
+    "provincia": "Salta",
+    "latitud": -24.68333,
+    "longitud": -65.13333
+  },
+  {
+    "nombre": "Brealito",
+    "provincia": "Salta",
+    "latitud": -25.26667,
+    "longitud": -66.35
+  },
+  {
+    "nombre": "Cabeza de Buey",
+    "provincia": "Salta",
+    "latitud": -24.78333,
+    "longitud": -65.01667
+  },
+  {
+    "nombre": "Cachi Adentro",
+    "provincia": "Salta",
+    "latitud": -25.08333,
+    "longitud": -66.23333
+  },
+  {
+    "nombre": "Cachinal",
+    "provincia": "Salta",
+    "latitud": -24.25,
+    "longitud": -66.06667
+  },
+  {
+    "nombre": "Cachipampa",
+    "provincia": "Salta",
+    "latitud": -25.18333,
+    "longitud": -65.86667
+  },
+  {
+    "nombre": "Cafayate",
+    "provincia": "Salta",
+    "latitud": -26.08333,
+    "longitud": -65.96667
+  },
+  {
+    "nombre": "Campichuelo",
+    "provincia": "Salta",
+    "latitud": -23.1,
+    "longitud": -64.01667
+  },
+  {
+    "nombre": "Campo del Trigal",
+    "provincia": "Salta",
+    "latitud": -23.06667,
+    "longitud": -64.83333
+  },
+  {
+    "nombre": "Campo Duran",
+    "provincia": "Salta",
+    "latitud": -22.23333,
+    "longitud": -63.7
+  },
+  {
+    "nombre": "Campo Quijano",
+    "provincia": "Salta",
+    "latitud": -24.91667,
+    "longitud": -65.65
+  },
+  {
+    "nombre": "Canani",
+    "provincia": "Salta",
+    "latitud": -22.31667,
+    "longitud": -64.88333
+  },
+  {
+    "nombre": "Cangrejillos",
+    "provincia": "Salta",
+    "latitud": -23.81667,
+    "longitud": -66.05
+  },
+  {
+    "nombre": "Capitan Juan Page",
+    "provincia": "Salta",
+    "latitud": -23.68333,
+    "longitud": -62.38333
+  },
+  {
+    "nombre": "Cedro Solo",
+    "provincia": "Salta",
+    "latitud": -23.26667,
+    "longitud": -64.41667
+  },
+  {
+    "nombre": "Ceibal",
+    "provincia": "Salta",
+    "latitud": -26.16667,
+    "longitud": -64.6
+  },
+  {
+    "nombre": "Ceibalito",
+    "provincia": "Salta",
+    "latitud": -25.08333,
+    "longitud": -64.31667
+  },
+  {
+    "nombre": "Chaguaral",
+    "provincia": "Salta",
+    "latitud": -24.05,
+    "longitud": -64.01667
+  },
+  {
+    "nombre": "Chanar Muyo",
+    "provincia": "Salta",
+    "latitud": -25.06667,
+    "longitud": -64.26667
+  },
+  {
+    "nombre": "Chicoana",
+    "provincia": "Salta",
+    "latitud": -25.1,
+    "longitud": -65.55
+  },
+  {
+    "nombre": "Chiyuyoc",
+    "provincia": "Salta",
+    "latitud": -22.71667,
+    "longitud": -65.2
+  },
+  {
+    "nombre": "Chorro",
+    "provincia": "Salta",
+    "latitud": -22.28333,
+    "longitud": -64.93333
+  },
+  {
+    "nombre": "Chorroarin",
+    "provincia": "Salta",
+    "latitud": -25.15,
+    "longitud": -64.35
+  },
+  {
+    "nombre": "Cobos",
+    "provincia": "Salta",
+    "latitud": -24.71667,
+    "longitud": -65.1
+  },
+  {
+    "nombre": "Cobres",
+    "provincia": "Salta",
+    "latitud": -23.68333,
+    "longitud": -66.23333
+  },
+  {
+    "nombre": "Conchas",
+    "provincia": "Salta",
+    "latitud": -25.45,
+    "longitud": -64.96667
+  },
+  {
+    "nombre": "Copo Quile",
+    "provincia": "Salta",
+    "latitud": -26.01667,
+    "longitud": -64.66667
+  },
+  {
+    "nombre": "Coronel Cornejo",
+    "provincia": "Salta",
+    "latitud": -22.73333,
+    "longitud": -63.83333
+  },
+  {
+    "nombre": "Coronel Juan Sola",
+    "provincia": "Salta",
+    "latitud": -23.46667,
+    "longitud": -62.88333
+  },
+  {
+    "nombre": "Coronel Mollinedo",
+    "provincia": "Salta",
+    "latitud": -24.51667,
+    "longitud": -64.13333
+  },
+  {
+    "nombre": "Coronel Vidt",
+    "provincia": "Salta",
+    "latitud": -24.93333,
+    "longitud": -64.21667
+  },
+  {
+    "nombre": "Coropampa",
+    "provincia": "Salta",
+    "latitud": -25.5,
+    "longitud": -65.51667
+  },
+  {
+    "nombre": "Correra",
+    "provincia": "Salta",
+    "latitud": -25.86667,
+    "longitud": -65.13333
+  },
+  {
+    "nombre": "Costa del Tunal",
+    "provincia": "Salta",
+    "latitud": -25.41667,
+    "longitud": -65.58333
+  },
+  {
+    "nombre": "Cruz Quemada",
+    "provincia": "Salta",
+    "latitud": -25.01667,
+    "longitud": -64.96667
+  },
+  {
+    "nombre": "Delicias",
+    "provincia": "Salta",
+    "latitud": -23.93333,
+    "longitud": -63.33333
+  },
+  {
+    "nombre": "Departamento de Anta",
+    "provincia": "Salta",
+    "latitud": -24.91667,
+    "longitud": -64.0
+  },
+  {
+    "nombre": "Departamento de Cachi",
+    "provincia": "Salta",
+    "latitud": -25.0,
+    "longitud": -66.25
+  },
+  {
+    "nombre": "Departamento de Cafayate",
+    "provincia": "Salta",
+    "latitud": -26.08333,
+    "longitud": -65.83333
+  },
+  {
+    "nombre": "Departamento de Caldera",
+    "provincia": "Salta",
+    "latitud": -24.58333,
+    "longitud": -65.41667
+  },
+  {
+    "nombre": "Departamento de Cerrillos",
+    "provincia": "Salta",
+    "latitud": -25.0,
+    "longitud": -65.41667
+  },
+  {
+    "nombre": "Departamento de Chicoana",
+    "provincia": "Salta",
+    "latitud": -25.16667,
+    "longitud": -65.58333
+  },
+  {
+    "nombre": "Departamento de Guachipas",
+    "provincia": "Salta",
+    "latitud": -25.66667,
+    "longitud": -65.5
+  },
+  {
+    "nombre": "Departamento de Iruya",
+    "provincia": "Salta",
+    "latitud": -22.8,
+    "longitud": -64.91667
+  },
+  {
+    "nombre": "Departamento de La Poma",
+    "provincia": "Salta",
+    "latitud": -24.16667,
+    "longitud": -66.16667
+  },
+  {
+    "nombre": "Departamento de La Vina",
+    "provincia": "Salta",
+    "latitud": -25.5,
+    "longitud": -65.66667
+  },
+  {
+    "nombre": "Departamento de Los Andes",
+    "provincia": "Salta",
+    "latitud": -24.5,
+    "longitud": -67.33333
+  },
+  {
+    "nombre": "Departamento de Metan",
+    "provincia": "Salta",
+    "latitud": -25.5,
+    "longitud": -64.66667
+  },
+  {
+    "nombre": "Departamento de Molinos",
+    "provincia": "Salta",
+    "latitud": -25.58333,
+    "longitud": -66.41667
+  },
+  {
+    "nombre": "Departamento de Oran",
+    "provincia": "Salta",
+    "latitud": -23.33333,
+    "longitud": -64.25
+  },
+  {
+    "nombre": "Departamento de Rosario de la Frontera",
+    "provincia": "Salta",
+    "latitud": -25.91667,
+    "longitud": -64.83333
+  },
+  {
+    "nombre": "Departamento de Rosario Lerma",
+    "provincia": "Salta",
+    "latitud": -24.58333,
+    "longitud": -65.83333
+  },
+  {
+    "nombre": "Departamento de Santa Victoria",
+    "provincia": "Salta",
+    "latitud": -22.41667,
+    "longitud": -64.91667
+  },
+  {
+    "nombre": "Departamento General JoseSanMartin",
+    "provincia": "Salta",
+    "latitud": -22.83333,
+    "longitud": -63.75
+  },
+  {
+    "nombre": "Departamento GeneralMartin MiguelGuemes",
+    "provincia": "Salta",
+    "latitud": -24.83333,
+    "longitud": -65.0
+  },
+  {
+    "nombre": "Destileria Chachapoyas",
+    "provincia": "Salta",
+    "latitud": -24.75,
+    "longitud": -65.38333
+  },
+  {
+    "nombre": "Doctor Facundo Zuviria",
+    "provincia": "Salta",
+    "latitud": -25.08333,
+    "longitud": -65.48333
+  },
+  {
+    "nombre": "Dragones",
+    "provincia": "Salta",
+    "latitud": -23.25,
+    "longitud": -63.35
+  },
+  {
+    "nombre": "El Alisal",
+    "provincia": "Salta",
+    "latitud": -24.85,
+    "longitud": -65.68333
+  },
+  {
+    "nombre": "El Bordo",
+    "provincia": "Salta",
+    "latitud": -25.81667,
+    "longitud": -64.63333
+  },
+  {
+    "nombre": "El Botin",
+    "provincia": "Salta",
+    "latitud": -23.75,
+    "longitud": -62.71667
+  },
+  {
+    "nombre": "El Carril",
+    "provincia": "Salta",
+    "latitud": -25.08333,
+    "longitud": -65.46667
+  },
+  {
+    "nombre": "El Ceibalito",
+    "provincia": "Salta",
+    "latitud": -24.96667,
+    "longitud": -65.36667
+  },
+  {
+    "nombre": "El Cevillar",
+    "provincia": "Salta",
+    "latitud": -25.61667,
+    "longitud": -65.46667
+  },
+  {
+    "nombre": "El Churcal",
+    "provincia": "Salta",
+    "latitud": -25.36667,
+    "longitud": -66.23333
+  },
+  {
+    "nombre": "El Destierro",
+    "provincia": "Salta",
+    "latitud": -24.11667,
+    "longitud": -62.46667
+  },
+  {
+    "nombre": "El Encon",
+    "provincia": "Salta",
+    "latitud": -24.85,
+    "longitud": -65.55
+  },
+  {
+    "nombre": "El Gritado",
+    "provincia": "Salta",
+    "latitud": -23.9,
+    "longitud": -62.73333
+  },
+  {
+    "nombre": "El Pajeal",
+    "provincia": "Salta",
+    "latitud": -22.03333,
+    "longitud": -63.6
+  },
+  {
+    "nombre": "El Potrero",
+    "provincia": "Salta",
+    "latitud": -26.05,
+    "longitud": -64.61667
+  },
+  {
+    "nombre": "El Pucara",
+    "provincia": "Salta",
+    "latitud": -24.93333,
+    "longitud": -65.58333
+  },
+  {
+    "nombre": "El Quimilar",
+    "provincia": "Salta",
+    "latitud": -23.31667,
+    "longitud": -63.95
+  },
+  {
+    "nombre": "El Rey",
+    "provincia": "Salta",
+    "latitud": -24.66667,
+    "longitud": -64.6
+  },
+  {
+    "nombre": "El Trigal",
+    "provincia": "Salta",
+    "latitud": -24.66667,
+    "longitud": -66.2
+  },
+  {
+    "nombre": "El Tunal",
+    "provincia": "Salta",
+    "latitud": -25.25,
+    "longitud": -64.41667
+  },
+  {
+    "nombre": "El Vallecito",
+    "provincia": "Salta",
+    "latitud": -25.21667,
+    "longitud": -66.25
+  },
+  {
+    "nombre": "El Yacon",
+    "provincia": "Salta",
+    "latitud": -23.11667,
+    "longitud": -62.96667
+  },
+  {
+    "nombre": "El Yeso",
+    "provincia": "Salta",
+    "latitud": -25.03333,
+    "longitud": -64.45
+  },
+  {
+    "nombre": "Embarcacion",
+    "provincia": "Salta",
+    "latitud": -23.21667,
+    "longitud": -64.1
+  },
+  {
+    "nombre": "Escalchi",
+    "provincia": "Salta",
+    "latitud": -25.13333,
+    "longitud": -66.18333
+  },
+  {
+    "nombre": "Escoipe",
+    "provincia": "Salta",
+    "latitud": -25.16667,
+    "longitud": -65.76667
+  },
+  {
+    "nombre": "Esquina de Quisto",
+    "provincia": "Salta",
+    "latitud": -24.56667,
+    "longitud": -64.71667
+  },
+  {
+    "nombre": "Establecimiento La Candelaria",
+    "provincia": "Salta",
+    "latitud": -24.76667,
+    "longitud": -65.36667
+  },
+  {
+    "nombre": "Establecimiento La Lagunilla",
+    "provincia": "Salta",
+    "latitud": -24.73333,
+    "longitud": -65.28333
+  },
+  {
+    "nombre": "Establecimiento Las Costas",
+    "provincia": "Salta",
+    "latitud": -24.75,
+    "longitud": -65.46667
+  },
+  {
+    "nombre": "Establecimiento Las Higuerillas",
+    "provincia": "Salta",
+    "latitud": -24.8,
+    "longitud": -65.28333
+  },
+  {
+    "nombre": "Esteban de Urizar",
+    "provincia": "Salta",
+    "latitud": -23.56667,
+    "longitud": -64.13333
+  },
+  {
+    "nombre": "Esteco",
+    "provincia": "Salta",
+    "latitud": -25.43333,
+    "longitud": -64.85
+  },
+  {
+    "nombre": "Gaona",
+    "provincia": "Salta",
+    "latitud": -25.2,
+    "longitud": -64.08333
+  },
+  {
+    "nombre": "General Alvarado",
+    "provincia": "Salta",
+    "latitud": -24.85,
+    "longitud": -65.46667
+  },
+  {
+    "nombre": "General Ballivian",
+    "provincia": "Salta",
+    "latitud": -22.93333,
+    "longitud": -63.86667
+  },
+  {
+    "nombre": "General Martin Miguel de Guemes",
+    "provincia": "Salta",
+    "latitud": -24.66667,
+    "longitud": -65.05
+  },
+  {
+    "nombre": "General Pizarro",
+    "provincia": "Salta",
+    "latitud": -24.21667,
+    "longitud": -64.01667
+  },
+  {
+    "nombre": "Gobernador Manuel Sola",
+    "provincia": "Salta",
+    "latitud": -24.56667,
+    "longitud": -65.83333
+  },
+  {
+    "nombre": "Gonzalez",
+    "provincia": "Salta",
+    "latitud": -24.91667,
+    "longitud": -64.65
+  },
+  {
+    "nombre": "Guachipas",
+    "provincia": "Salta",
+    "latitud": -25.51667,
+    "longitud": -65.53333
+  },
+  {
+    "nombre": "Guayacan",
+    "provincia": "Salta",
+    "latitud": -22.96667,
+    "longitud": -63.46667
+  },
+  {
+    "nombre": "Hickmann",
+    "provincia": "Salta",
+    "latitud": -23.2,
+    "longitud": -63.56667
+  },
+  {
+    "nombre": "Higuera",
+    "provincia": "Salta",
+    "latitud": -22.73333,
+    "longitud": -65.11667
+  },
+  {
+    "nombre": "Horcones",
+    "provincia": "Salta",
+    "latitud": -25.71667,
+    "longitud": -64.9
+  },
+  {
+    "nombre": "Huaitiquina",
+    "provincia": "Salta",
+    "latitud": -23.73333,
+    "longitud": -67.23333
+  },
+  {
+    "nombre": "Ingeniero Maury",
+    "provincia": "Salta",
+    "latitud": -24.66667,
+    "longitud": -65.75
+  },
+  {
+    "nombre": "Iruya",
+    "provincia": "Salta",
+    "latitud": -22.76667,
+    "longitud": -65.23333
+  },
+  {
+    "nombre": "Jasimana",
+    "provincia": "Salta",
+    "latitud": -25.98333,
+    "longitud": -66.45
+  },
+  {
+    "nombre": "Jeronimo Matorras",
+    "provincia": "Salta",
+    "latitud": -23.68333,
+    "longitud": -64.11667
+  },
+  {
+    "nombre": "Joaquin V Gonzalez",
+    "provincia": "Salta",
+    "latitud": -25.08333,
+    "longitud": -64.18333
+  },
+  {
+    "nombre": "Juntas de San Antonio",
+    "provincia": "Salta",
+    "latitud": -22.85,
+    "longitud": -64.33333
+  },
+  {
+    "nombre": "Juramento",
+    "provincia": "Salta",
+    "latitud": -25.15,
+    "longitud": -64.95
+  },
+  {
+    "nombre": "La Caldera",
+    "provincia": "Salta",
+    "latitud": -24.6,
+    "longitud": -65.38333
+  },
+  {
+    "nombre": "La Calderilla",
+    "provincia": "Salta",
+    "latitud": -24.65,
+    "longitud": -65.36667
+  },
+  {
+    "nombre": "La Canada El Nato",
+    "provincia": "Salta",
+    "latitud": -22.3,
+    "longitud": -62.83333
+  },
+  {
+    "nombre": "La Candelaria",
+    "provincia": "Salta",
+    "latitud": -26.1,
+    "longitud": -65.1
+  },
+  {
+    "nombre": "La Corzuela",
+    "provincia": "Salta",
+    "latitud": -23.6,
+    "longitud": -63.2
+  },
+  {
+    "nombre": "La Entrada",
+    "provincia": "Salta",
+    "latitud": -23.71667,
+    "longitud": -62.78333
+  },
+  {
+    "nombre": "La Paya",
+    "provincia": "Salta",
+    "latitud": -25.15,
+    "longitud": -66.23333
+  },
+  {
+    "nombre": "La Poma",
+    "provincia": "Salta",
+    "latitud": -24.71667,
+    "longitud": -66.21667
+  },
+  {
+    "nombre": "La Quesera",
+    "provincia": "Salta",
+    "latitud": -24.88333,
+    "longitud": -65.3
+  },
+  {
+    "nombre": "La Rosita",
+    "provincia": "Salta",
+    "latitud": -24.86667,
+    "longitud": -65.38333
+  },
+  {
+    "nombre": "La Silleta",
+    "provincia": "Salta",
+    "latitud": -24.86667,
+    "longitud": -65.58333
+  },
+  {
+    "nombre": "La Soledad",
+    "provincia": "Salta",
+    "latitud": -23.23333,
+    "longitud": -63.91667
+  },
+  {
+    "nombre": "La Trampa",
+    "provincia": "Salta",
+    "latitud": -24.88333,
+    "longitud": -64.86667
+  },
+  {
+    "nombre": "Las Capillas",
+    "provincia": "Salta",
+    "latitud": -24.61667,
+    "longitud": -66.03333
+  },
+  {
+    "nombre": "Las Conchas",
+    "provincia": "Salta",
+    "latitud": -25.96667,
+    "longitud": -65.75
+  },
+  {
+    "nombre": "Las Flacas",
+    "provincia": "Salta",
+    "latitud": -24.4,
+    "longitud": -63.93333
+  },
+  {
+    "nombre": "Las Lajitas",
+    "provincia": "Salta",
+    "latitud": -24.68333,
+    "longitud": -64.25
+  },
+  {
+    "nombre": "Las Llaves",
+    "provincia": "Salta",
+    "latitud": -24.08333,
+    "longitud": -62.68333
+  },
+  {
+    "nombre": "Las Tablillas",
+    "provincia": "Salta",
+    "latitud": -22.63333,
+    "longitud": -63.85
+  },
+  {
+    "nombre": "Las Tortugas",
+    "provincia": "Salta",
+    "latitud": -24.26667,
+    "longitud": -64.08333
+  },
+  {
+    "nombre": "Las Tres Marias",
+    "provincia": "Salta",
+    "latitud": -23.63333,
+    "longitud": -62.95
+  },
+  {
+    "nombre": "Las Vinas",
+    "provincia": "Salta",
+    "latitud": -25.83333,
+    "longitud": -66.01667
+  },
+  {
+    "nombre": "Lavayen",
+    "provincia": "Salta",
+    "latitud": -24.46667,
+    "longitud": -64.85
+  },
+  {
+    "nombre": "Lechuza",
+    "provincia": "Salta",
+    "latitud": -25.86667,
+    "longitud": -65.03333
+  },
+  {
+    "nombre": "Lipeo",
+    "provincia": "Salta",
+    "latitud": -22.43333,
+    "longitud": -64.73333
+  },
+  {
+    "nombre": "Los Banos",
+    "provincia": "Salta",
+    "latitud": -25.83333,
+    "longitud": -64.9
+  },
+  {
+    "nombre": "Los Blancos",
+    "provincia": "Salta",
+    "latitud": -23.6,
+    "longitud": -62.6
+  },
+  {
+    "nombre": "Los Mogotes",
+    "provincia": "Salta",
+    "latitud": -26.03333,
+    "longitud": -65.2
+  },
+  {
+    "nombre": "Los Patos",
+    "provincia": "Salta",
+    "latitud": -24.2,
+    "longitud": -66.26667
+  },
+  {
+    "nombre": "Luis Burela",
+    "provincia": "Salta",
+    "latitud": -24.36667,
+    "longitud": -64.03333
+  },
+  {
+    "nombre": "Lumbrera",
+    "provincia": "Salta",
+    "latitud": -25.2,
+    "longitud": -64.91667
+  },
+  {
+    "nombre": "Luna Muerta",
+    "provincia": "Salta",
+    "latitud": -23.33333,
+    "longitud": -63.66667
+  },
+  {
+    "nombre": "Luracatao",
+    "provincia": "Salta",
+    "latitud": -25.23333,
+    "longitud": -66.45
+  },
+  {
+    "nombre": "Macapillo",
+    "provincia": "Salta",
+    "latitud": -25.36667,
+    "longitud": -64.01667
+  },
+  {
+    "nombre": "Madariaga",
+    "provincia": "Salta",
+    "latitud": -25.91667,
+    "longitud": -64.66667
+  },
+  {
+    "nombre": "Manuel Elordi",
+    "provincia": "Salta",
+    "latitud": -23.26667,
+    "longitud": -64.13333
+  },
+  {
+    "nombre": "Martinez del Tineo",
+    "provincia": "Salta",
+    "latitud": -23.9,
+    "longitud": -64.05
+  },
+  {
+    "nombre": "Mecoyita",
+    "provincia": "Salta",
+    "latitud": -22.11667,
+    "longitud": -64.9
+  },
+  {
+    "nombre": "Meseta",
+    "provincia": "Salta",
+    "latitud": -24.46667,
+    "longitud": -65.86667
+  },
+  {
+    "nombre": "Metan",
+    "provincia": "Salta",
+    "latitud": -25.48333,
+    "longitud": -64.95
+  },
+  {
+    "nombre": "Metan Viejo",
+    "provincia": "Salta",
+    "latitud": -25.53333,
+    "longitud": -64.96667
+  },
+  {
+    "nombre": "Mision Chaquena",
+    "provincia": "Salta",
+    "latitud": -23.25,
+    "longitud": -63.71667
+  },
+  {
+    "nombre": "Mision Zenta",
+    "provincia": "Salta",
+    "latitud": -23.13333,
+    "longitud": -64.36667
+  },
+  {
+    "nombre": "Mojotoro",
+    "provincia": "Salta",
+    "latitud": -24.7,
+    "longitud": -65.3
+  },
+  {
+    "nombre": "Molinos",
+    "provincia": "Salta",
+    "latitud": -25.41667,
+    "longitud": -66.31667
+  },
+  {
+    "nombre": "Monteverde",
+    "provincia": "Salta",
+    "latitud": -25.7,
+    "longitud": -66.05
+  },
+  {
+    "nombre": "Morenillo",
+    "provincia": "Salta",
+    "latitud": -26.2,
+    "longitud": -64.85
+  },
+  {
+    "nombre": "Munano",
+    "provincia": "Salta",
+    "latitud": -24.25,
+    "longitud": -66.2
+  },
+  {
+    "nombre": "Nuestra Senora de Talavera",
+    "provincia": "Salta",
+    "latitud": -25.43333,
+    "longitud": -63.8
+  },
+  {
+    "nombre": "Ojo de Huancar",
+    "provincia": "Salta",
+    "latitud": -23.78333,
+    "longitud": -66.01667
+  },
+  {
+    "nombre": "Osma",
+    "provincia": "Salta",
+    "latitud": -25.2,
+    "longitud": -65.5
+  },
+  {
+    "nombre": "Ovando",
+    "provincia": "Salta",
+    "latitud": -25.8,
+    "longitud": -65.1
+  },
+  {
+    "nombre": "Padre Lozano",
+    "provincia": "Salta",
+    "latitud": -23.2,
+    "longitud": -63.83333
+  },
+  {
+    "nombre": "Palermo Oeste",
+    "provincia": "Salta",
+    "latitud": -24.93333,
+    "longitud": -66.18333
+  },
+  {
+    "nombre": "Palmarcito",
+    "provincia": "Salta",
+    "latitud": -24.36667,
+    "longitud": -62.35
+  },
+  {
+    "nombre": "Paltoroa",
+    "provincia": "Salta",
+    "latitud": -22.4,
+    "longitud": -65.11667
+  },
+  {
+    "nombre": "Parani",
+    "provincia": "Salta",
+    "latitud": -23.23333,
+    "longitud": -64.9
+  },
+  {
+    "nombre": "Payogasta",
+    "provincia": "Salta",
+    "latitud": -25.03333,
+    "longitud": -66.1
+  },
+  {
+    "nombre": "Payogastilla",
+    "provincia": "Salta",
+    "latitud": -25.71667,
+    "longitud": -66.0
+  },
+  {
+    "nombre": "Pericotes",
+    "provincia": "Salta",
+    "latitud": -24.4,
+    "longitud": -63.93333
+  },
+  {
+    "nombre": "Pichanal",
+    "provincia": "Salta",
+    "latitud": -23.31667,
+    "longitud": -64.21667
+  },
+  {
+    "nombre": "Piedras Moradas",
+    "provincia": "Salta",
+    "latitud": -25.25,
+    "longitud": -65.46667
+  },
+  {
+    "nombre": "Piquete Cabado",
+    "provincia": "Salta",
+    "latitud": -24.78333,
+    "longitud": -64.23333
+  },
+  {
+    "nombre": "Piquirenda",
+    "provincia": "Salta",
+    "latitud": -22.33333,
+    "longitud": -63.78333
+  },
+  {
+    "nombre": "Playa Ancha",
+    "provincia": "Salta",
+    "latitud": -22.11667,
+    "longitud": -63.73333
+  },
+  {
+    "nombre": "Pluma del Pato",
+    "provincia": "Salta",
+    "latitud": -23.38333,
+    "longitud": -63.1
+  },
+  {
+    "nombre": "Poblacion",
+    "provincia": "Salta",
+    "latitud": -25.43333,
+    "longitud": -64.06667
+  },
+  {
+    "nombre": "Pocoy",
+    "provincia": "Salta",
+    "latitud": -22.75,
+    "longitud": -64.0
+  },
+  {
+    "nombre": "Porongal",
+    "provincia": "Salta",
+    "latitud": -22.6,
+    "longitud": -64.68333
+  },
+  {
+    "nombre": "Pozo Bravo",
+    "provincia": "Salta",
+    "latitud": -23.46667,
+    "longitud": -63.35
+  },
+  {
+    "nombre": "Pozo Cercado",
+    "provincia": "Salta",
+    "latitud": -23.01667,
+    "longitud": -62.36667
+  },
+  {
+    "nombre": "Pozo de la Esquina",
+    "provincia": "Salta",
+    "latitud": -23.61667,
+    "longitud": -63.88333
+  },
+  {
+    "nombre": "Pozo de los Ranchos",
+    "provincia": "Salta",
+    "latitud": -22.78333,
+    "longitud": -62.48333
+  },
+  {
+    "nombre": "Pozo del Zorro",
+    "provincia": "Salta",
+    "latitud": -23.65,
+    "longitud": -63.36667
+  },
+  {
+    "nombre": "Profesor Salvador Mazza",
+    "provincia": "Salta",
+    "latitud": -22.06667,
+    "longitud": -63.71667
+  },
+  {
+    "nombre": "Provincia de Salta",
+    "provincia": "Salta",
+    "latitud": -24.75806,
+    "longitud": -65.43457
+  },
+  {
+    "nombre": "Puente de Plata",
+    "provincia": "Salta",
+    "latitud": -25.95,
+    "longitud": -64.71667
+  },
+  {
+    "nombre": "Puerta de Diaz",
+    "provincia": "Salta",
+    "latitud": -22.83333,
+    "longitud": -63.0
+  },
+  {
+    "nombre": "Puerta Tastil",
+    "provincia": "Salta",
+    "latitud": -24.5,
+    "longitud": -65.86667
+  },
+  {
+    "nombre": "Puerto La Paz",
+    "provincia": "Salta",
+    "latitud": -22.45,
+    "longitud": -62.35
+  },
+  {
+    "nombre": "Pulares",
+    "provincia": "Salta",
+    "latitud": -25.08333,
+    "longitud": -65.58333
+  },
+  {
+    "nombre": "Quenoal",
+    "provincia": "Salta",
+    "latitud": -23.11667,
+    "longitud": -64.86667
+  },
+  {
+    "nombre": "Resbalito",
+    "provincia": "Salta",
+    "latitud": -23.93333,
+    "longitud": -62.71667
+  },
+  {
+    "nombre": "Rio Pescado",
+    "provincia": "Salta",
+    "latitud": -22.88333,
+    "longitud": -64.45
+  },
+  {
+    "nombre": "Rio Piedras",
+    "provincia": "Salta",
+    "latitud": -25.3,
+    "longitud": -64.9
+  },
+  {
+    "nombre": "Rodeopampa",
+    "provincia": "Salta",
+    "latitud": -22.25,
+    "longitud": -65.06667
+  },
+  {
+    "nombre": "Rosario de la Frontera",
+    "provincia": "Salta",
+    "latitud": -25.8,
+    "longitud": -64.96667
+  },
+  {
+    "nombre": "Rosario de Lerma",
+    "provincia": "Salta",
+    "latitud": -24.98333,
+    "longitud": -65.58333
+  },
+  {
+    "nombre": "Rosario del Dorado",
+    "provincia": "Salta",
+    "latitud": -24.51667,
+    "longitud": -64.16667
+  },
+  {
+    "nombre": "Salamanca",
+    "provincia": "Salta",
+    "latitud": -26.2,
+    "longitud": -64.78333
+  },
+  {
+    "nombre": "Salar de Pocitos",
+    "provincia": "Salta",
+    "latitud": -24.33333,
+    "longitud": -67.01667
+  },
+  {
+    "nombre": "Salta",
+    "provincia": "Salta",
+    "latitud": -24.78333,
+    "longitud": -65.41667
+  },
+  {
+    "nombre": "San Antonio de los Cobres",
+    "provincia": "Salta",
+    "latitud": -24.18333,
+    "longitud": -66.35
+  },
+  {
+    "nombre": "San Jose de Escalchi",
+    "provincia": "Salta",
+    "latitud": -25.2,
+    "longitud": -66.2
+  },
+  {
+    "nombre": "San Jose de la Horqueta",
+    "provincia": "Salta",
+    "latitud": -25.28333,
+    "longitud": -64.1
+  },
+  {
+    "nombre": "San Lucas",
+    "provincia": "Salta",
+    "latitud": -25.96667,
+    "longitud": -66.0
+  },
+  {
+    "nombre": "San Ramon de la Nueva Oran",
+    "provincia": "Salta",
+    "latitud": -23.13223,
+    "longitud": -64.32598
+  },
+  {
+    "nombre": "Santa Anna",
+    "provincia": "Salta",
+    "latitud": -25.45,
+    "longitud": -65.6
+  },
+  {
+    "nombre": "Santa Gertrudis",
+    "provincia": "Salta",
+    "latitud": -25.11667,
+    "longitud": -65.51667
+  },
+  {
+    "nombre": "Santa Rosa de Pastos Grandes",
+    "provincia": "Salta",
+    "latitud": -24.45,
+    "longitud": -66.7
+  },
+  {
+    "nombre": "Santa Rosa de Tastil",
+    "provincia": "Salta",
+    "latitud": -24.43333,
+    "longitud": -65.95
+  },
+  {
+    "nombre": "Santa Rosita",
+    "provincia": "Salta",
+    "latitud": -22.18333,
+    "longitud": -64.83333
+  },
+  {
+    "nombre": "Santa Rufina",
+    "provincia": "Salta",
+    "latitud": -24.51667,
+    "longitud": -65.41667
+  },
+  {
+    "nombre": "Saucelito",
+    "provincia": "Salta",
+    "latitud": -23.43333,
+    "longitud": -64.35
+  },
+  {
+    "nombre": "Schneidewind",
+    "provincia": "Salta",
+    "latitud": -25.43333,
+    "longitud": -64.91667
+  },
+  {
+    "nombre": "Seclantas",
+    "provincia": "Salta",
+    "latitud": -25.3,
+    "longitud": -66.25
+  },
+  {
+    "nombre": "Seclantas Adentro",
+    "provincia": "Salta",
+    "latitud": -25.28333,
+    "longitud": -66.26667
+  },
+  {
+    "nombre": "Senda Hachada",
+    "provincia": "Salta",
+    "latitud": -23.05,
+    "longitud": -63.95
+  },
+  {
+    "nombre": "Solasuti",
+    "provincia": "Salta",
+    "latitud": -22.85,
+    "longitud": -64.45
+  },
+  {
+    "nombre": "Suri Pintado",
+    "provincia": "Salta",
+    "latitud": -23.55,
+    "longitud": -62.6
+  },
+  {
+    "nombre": "Tabacal",
+    "provincia": "Salta",
+    "latitud": -23.26667,
+    "longitud": -64.25
+  },
+  {
+    "nombre": "Tabaco Cimarron",
+    "provincia": "Salta",
+    "latitud": -23.26667,
+    "longitud": -63.63333
+  },
+  {
+    "nombre": "Tacuara",
+    "provincia": "Salta",
+    "latitud": -24.43333,
+    "longitud": -65.83333
+  },
+  {
+    "nombre": "Tacupampa",
+    "provincia": "Salta",
+    "latitud": -22.66667,
+    "longitud": -65.11667
+  },
+  {
+    "nombre": "Talapampa",
+    "provincia": "Salta",
+    "latitud": -25.53333,
+    "longitud": -65.56667
+  },
+  {
+    "nombre": "Tipal",
+    "provincia": "Salta",
+    "latitud": -25.06667,
+    "longitud": -65.53333
+  },
+  {
+    "nombre": "Tobantirenda",
+    "provincia": "Salta",
+    "latitud": -22.15,
+    "longitud": -63.73333
+  },
+  {
+    "nombre": "Tolar Grande",
+    "provincia": "Salta",
+    "latitud": -24.6,
+    "longitud": -67.45
+  },
+  {
+    "nombre": "Toldos",
+    "provincia": "Salta",
+    "latitud": -22.3,
+    "longitud": -64.68333
+  },
+  {
+    "nombre": "Tolloche",
+    "provincia": "Salta",
+    "latitud": -25.5,
+    "longitud": -63.53333
+  },
+  {
+    "nombre": "Tolombon",
+    "provincia": "Salta",
+    "latitud": -26.2,
+    "longitud": -65.91667
+  },
+  {
+    "nombre": "Tonco",
+    "provincia": "Salta",
+    "latitud": -25.06667,
+    "longitud": -65.95
+  },
+  {
+    "nombre": "Tonono",
+    "provincia": "Salta",
+    "latitud": -22.4,
+    "longitud": -63.48333
+  },
+  {
+    "nombre": "Tres Cruces",
+    "provincia": "Salta",
+    "latitud": -25.86667,
+    "longitud": -65.73333
+  },
+  {
+    "nombre": "Tres Palcas",
+    "provincia": "Salta",
+    "latitud": -23.13333,
+    "longitud": -64.65
+  },
+  {
+    "nombre": "Tres Yuchanes",
+    "provincia": "Salta",
+    "latitud": -23.3,
+    "longitud": -63.25
+  },
+  {
+    "nombre": "Tuc Tuca",
+    "provincia": "Salta",
+    "latitud": -22.4,
+    "longitud": -65.21667
+  },
+  {
+    "nombre": "Tunalito",
+    "provincia": "Salta",
+    "latitud": -22.66667,
+    "longitud": -64.03333
+  },
+  {
+    "nombre": "Urundel",
+    "provincia": "Salta",
+    "latitud": -23.55,
+    "longitud": -64.41667
+  },
+  {
+    "nombre": "Vaqueros",
+    "provincia": "Salta",
+    "latitud": -24.71667,
+    "longitud": -65.41667
+  },
+  {
+    "nombre": "Veinte de Febrero",
+    "provincia": "Salta",
+    "latitud": -25.41667,
+    "longitud": -65.53333
+  },
+  {
+    "nombre": "Villa Corta",
+    "provincia": "Salta",
+    "latitud": -25.86667,
+    "longitud": -64.58333
+  },
+  {
+    "nombre": "Virgilio Tedin",
+    "provincia": "Salta",
+    "latitud": -25.06667,
+    "longitud": -64.96667
+  },
+  {
+    "nombre": "Virrey Toledo",
+    "provincia": "Salta",
+    "latitud": -24.9,
+    "longitud": -65.68333
+  },
+  {
+    "nombre": "Vizcachani",
+    "provincia": "Salta",
+    "latitud": -22.11667,
+    "longitud": -65.13333
+  },
+  {
+    "nombre": "Vizcarra",
+    "provincia": "Salta",
+    "latitud": -22.58333,
+    "longitud": -65.2
+  },
+  {
+    "nombre": "Vuelta de los Tobas",
+    "provincia": "Salta",
+    "latitud": -23.41667,
+    "longitud": -62.46667
+  },
+  {
+    "nombre": "Yacuy",
+    "provincia": "Salta",
+    "latitud": -22.38333,
+    "longitud": -63.8
+  },
+  {
+    "nombre": "Yariguarenda",
+    "provincia": "Salta",
+    "latitud": -22.43333,
+    "longitud": -63.8
+  },
+  {
+    "nombre": "Yatasto",
+    "provincia": "Salta",
+    "latitud": -25.6,
+    "longitud": -64.95
+  }
+]

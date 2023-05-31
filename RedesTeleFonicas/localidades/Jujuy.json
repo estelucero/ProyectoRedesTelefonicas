@@ -1,0 +1,842 @@
+[
+    {
+    "nombre": "Abdon Castro Tolay",
+    "provincia": "Jujuy",
+    "latitud": -23.36667,
+    "longitud": -66.06667
+    },
+    {
+    "nombre": "Abra Laite",
+    "provincia": "Jujuy",
+    "latitud": -23.2,
+    "longitud": -65.78333
+    },
+    {
+    "nombre": "Abra Pampa",
+    "provincia": "Jujuy",
+    "latitud": -22.71667,
+    "longitud": -65.7
+    },
+    {
+    "nombre": "Agua Caliente",
+    "provincia": "Jujuy",
+    "latitud": -24.58333,
+    "longitud": -64.91667
+    },
+    {
+    "nombre": "Agua Chica",
+    "provincia": "Jujuy",
+    "latitud": -22.91667,
+    "longitud": -65.73333
+    },
+    {
+    "nombre": "Alfarcito",
+    "provincia": "Jujuy",
+    "latitud": -23.58333,
+    "longitud": -65.35
+    },
+    {
+    "nombre": "Alto del Pelador",
+    "provincia": "Jujuy",
+    "latitud": -22.41667,
+    "longitud": -65.46667
+    },
+    {
+    "nombre": "Alto La Torre",
+    "provincia": "Jujuy",
+    "latitud": -24.26667,
+    "longitud": -65.13333
+    },
+    {
+    "nombre": "Alto La Vina",
+    "provincia": "Jujuy",
+    "latitud": -24.2,
+    "longitud": -65.26667
+    },
+    {
+    "nombre": "Antiguyo",
+    "provincia": "Jujuy",
+    "latitud": -22.71667,
+    "longitud": -66.35
+    },
+    {
+    "nombre": "Barro Negro",
+    "provincia": "Jujuy",
+    "latitud": -24.3,
+    "longitud": -64.93333
+    },
+    {
+    "nombre": "Bravo Grande",
+    "provincia": "Jujuy",
+    "latitud": -22.35,
+    "longitud": -66.23333
+    },
+    {
+    "nombre": "Cactaca",
+    "provincia": "Jujuy",
+    "latitud": -23.11667,
+    "longitud": -65.28333
+    },
+    {
+    "nombre": "Caimancito",
+    "provincia": "Jujuy",
+    "latitud": -23.73333,
+    "longitud": -64.58333
+    },
+    {
+    "nombre": "Calilegua",
+    "provincia": "Jujuy",
+    "latitud": -23.78333,
+    "longitud": -64.78333
+    },
+    {
+    "nombre": "Cangrejos",
+    "provincia": "Jujuy",
+    "latitud": -22.46667,
+    "longitud": -65.53333
+    },
+    {
+    "nombre": "Capala",
+    "provincia": "Jujuy",
+    "latitud": -23.31667,
+    "longitud": -65.28333
+    },
+    {
+    "nombre": "Capillas",
+    "provincia": "Jujuy",
+    "latitud": -24.08333,
+    "longitud": -65.16667
+    },
+    {
+    "nombre": "Capla",
+    "provincia": "Jujuy",
+    "latitud": -23.31667,
+    "longitud": -65.3
+    },
+    {
+    "nombre": "Caracara",
+    "provincia": "Jujuy",
+    "latitud": -22.31667,
+    "longitud": -65.65
+    },
+    {
+    "nombre": "Carahuasi",
+    "provincia": "Jujuy",
+    "latitud": -22.48333,
+    "longitud": -65.95
+    },
+    {
+    "nombre": "Casabindo",
+    "provincia": "Jujuy",
+    "latitud": -22.96667,
+    "longitud": -66.06667
+    },
+    {
+    "nombre": "Casillas",
+    "provincia": "Jujuy",
+    "latitud": -22.75,
+    "longitud": -65.35
+    },
+    {
+    "nombre": "Caspala",
+    "provincia": "Jujuy",
+    "latitud": -23.31667,
+    "longitud": -65.13333
+    },
+    {
+    "nombre": "Catua",
+    "provincia": "Jujuy",
+    "latitud": -23.86667,
+    "longitud": -67.01667
+    },
+    {
+    "nombre": "Chalican",
+    "provincia": "Jujuy",
+    "latitud": -24.06667,
+    "longitud": -64.8
+    },
+    {
+    "nombre": "Chaupi Rodero",
+    "provincia": "Jujuy",
+    "latitud": -22.93333,
+    "longitud": -65.3
+    },
+    {
+    "nombre": "Chipaite",
+    "provincia": "Jujuy",
+    "latitud": -22.6,
+    "longitud": -65.81667
+    },
+    {
+    "nombre": "Cienaguilla",
+    "provincia": "Jujuy",
+    "latitud": -22.46667,
+    "longitud": -65.4
+    },
+    {
+    "nombre": "Cieneguillas",
+    "provincia": "Jujuy",
+    "latitud": -22.08333,
+    "longitud": -65.88333
+    },
+    {
+    "nombre": "Cochinoca",
+    "provincia": "Jujuy",
+    "latitud": -22.73333,
+    "longitud": -65.9
+    },
+    {
+    "nombre": "Coiruro",
+    "provincia": "Jujuy",
+    "latitud": -23.88333,
+    "longitud": -65.46667
+    },
+    {
+    "nombre": "Condor",
+    "provincia": "Jujuy",
+    "latitud": -22.9,
+    "longitud": -65.28333
+    },
+    {
+    "nombre": "Coranzuli",
+    "provincia": "Jujuy",
+    "latitud": -23.03333,
+    "longitud": -66.4
+    },
+    {
+    "nombre": "Coraya",
+    "provincia": "Jujuy",
+    "latitud": -23.15,
+    "longitud": -65.45
+    },
+    {
+    "nombre": "Corral Blanco",
+    "provincia": "Jujuy",
+    "latitud": -22.45,
+    "longitud": -65.36667
+    },
+    {
+    "nombre": "Departamento de Cochinoca",
+    "provincia": "Jujuy",
+    "latitud": -23.0,
+    "longitud": -65.83333
+    },
+    {
+    "nombre": "Departamento de El Carmen",
+    "provincia": "Jujuy",
+    "latitud": -24.41667,
+    "longitud": -65.16667
+    },
+    {
+    "nombre": "Departamento de Humahuaca",
+    "provincia": "Jujuy",
+    "latitud": -23.08333,
+    "longitud": -65.33333
+    },
+    {
+    "nombre": "Departamento de Ledesma",
+    "provincia": "Jujuy",
+    "latitud": -23.66667,
+    "longitud": -64.83333
+    },
+    {
+    "nombre": "Departamento de Rinconada",
+    "provincia": "Jujuy",
+    "latitud": -22.5,
+    "longitud": -66.5
+    },
+    {
+    "nombre": "Departamento de Santa Barbara",
+    "provincia": "Jujuy",
+    "latitud": -23.83333,
+    "longitud": -64.4
+    },
+    {
+    "nombre": "Departamento de Santa Catalina",
+    "provincia": "Jujuy",
+    "latitud": -22.08333,
+    "longitud": -66.3
+    },
+    {
+    "nombre": "Departamento de Susques",
+    "provincia": "Jujuy",
+    "latitud": -23.5,
+    "longitud": -66.66667
+    },
+    {
+    "nombre": "Departamento de Tilcara",
+    "provincia": "Jujuy",
+    "latitud": -23.5,
+    "longitud": -65.33333
+    },
+    {
+    "nombre": "Departamento de Tumbaya",
+    "provincia": "Jujuy",
+    "latitud": -23.71667,
+    "longitud": -65.66667
+    },
+    {
+    "nombre": "Departamento de Valle Grande",
+    "provincia": "Jujuy",
+    "latitud": -23.5,
+    "longitud": -65.0
+    },
+    {
+    "nombre": "Departamento de Yavi",
+    "provincia": "Jujuy",
+    "latitud": -22.3,
+    "longitud": -65.6
+    },
+    {
+    "nombre": "Dique Las Maderas",
+    "provincia": "Jujuy",
+    "latitud": -24.45,
+    "longitud": -65.25
+    },
+    {
+    "nombre": "El Aguilar",
+    "provincia": "Jujuy",
+    "latitud": -23.2,
+    "longitud": -65.7
+    },
+    {
+    "nombre": "El Ceibal",
+    "provincia": "Jujuy",
+    "latitud": -24.3,
+    "longitud": -65.26667
+    },
+    {
+    "nombre": "El Fuerte",
+    "provincia": "Jujuy",
+    "latitud": -24.26667,
+    "longitud": -64.41667
+    },
+    {
+    "nombre": "El Mistol",
+    "provincia": "Jujuy",
+    "latitud": -23.96667,
+    "longitud": -64.28333
+    },
+    {
+    "nombre": "El Parque",
+    "provincia": "Jujuy",
+    "latitud": -24.21667,
+    "longitud": -65.2
+    },
+    {
+    "nombre": "El Remate",
+    "provincia": "Jujuy",
+    "latitud": -24.28333,
+    "longitud": -65.1
+    },
+    {
+    "nombre": "Escaya",
+    "provincia": "Jujuy",
+    "latitud": -22.21667,
+    "longitud": -65.73333
+    },
+    {
+    "nombre": "Fraile Pintado",
+    "provincia": "Jujuy",
+    "latitud": -23.93333,
+    "longitud": -64.78333
+    },
+    {
+    "nombre": "Gallego Muerto",
+    "provincia": "Jujuy",
+    "latitud": -22.55,
+    "longitud": -65.5
+    },
+    {
+    "nombre": "Guayatayoc",
+    "provincia": "Jujuy",
+    "latitud": -23.2,
+    "longitud": -65.86667
+    },
+    {
+    "nombre": "Hornillos",
+    "provincia": "Jujuy",
+    "latitud": -23.65,
+    "longitud": -65.43333
+    },
+    {
+    "nombre": "Huacalera",
+    "provincia": "Jujuy",
+    "latitud": -23.43333,
+    "longitud": -65.35
+    },
+    {
+    "nombre": "Humahuaca",
+    "provincia": "Jujuy",
+    "latitud": -23.2,
+    "longitud": -65.35
+    },
+    {
+    "nombre": "Ingenio La Esperanza",
+    "provincia": "Jujuy",
+    "latitud": -24.21667,
+    "longitud": -64.85
+    },
+    {
+    "nombre": "Inti Cancha",
+    "provincia": "Jujuy",
+    "latitud": -22.15,
+    "longitud": -65.3
+    },
+    {
+    "nombre": "Iturbe",
+    "provincia": "Jujuy",
+    "latitud": -22.98333,
+    "longitud": -65.35
+    },
+    {
+    "nombre": "Juan Galan",
+    "provincia": "Jujuy",
+    "latitud": -24.21667,
+    "longitud": -65.38333
+    },
+    {
+    "nombre": "Jueya",
+    "provincia": "Jujuy",
+    "latitud": -23.51667,
+    "longitud": -65.4
+    },
+    {
+    "nombre": "La Cueva",
+    "provincia": "Jujuy",
+    "latitud": -22.91667,
+    "longitud": -65.36667
+    },
+    {
+    "nombre": "La Mendieta",
+    "provincia": "Jujuy",
+    "latitud": -24.31667,
+    "longitud": -64.96667
+    },
+    {
+    "nombre": "La Perdida",
+    "provincia": "Jujuy",
+    "latitud": -21.95,
+    "longitud": -66.13333
+    },
+    {
+    "nombre": "La Quiaca",
+    "provincia": "Jujuy",
+    "latitud": -22.1,
+    "longitud": -65.61667
+    },
+    {
+    "nombre": "La Ronda",
+    "provincia": "Jujuy",
+    "latitud": -24.08333,
+    "longitud": -64.23333
+    },
+    {
+    "nombre": "Laguna",
+    "provincia": "Jujuy",
+    "latitud": -22.45,
+    "longitud": -65.55
+    },
+    {
+    "nombre": "Leon",
+    "provincia": "Jujuy",
+    "latitud": -24.03333,
+    "longitud": -65.41667
+    },
+    {
+    "nombre": "Llameria",
+    "provincia": "Jujuy",
+    "latitud": -22.53333,
+    "longitud": -65.8
+    },
+    {
+    "nombre": "Lopiara",
+    "provincia": "Jujuy",
+    "latitud": -22.61667,
+    "longitud": -66.2
+    },
+    {
+    "nombre": "Los Lapachos",
+    "provincia": "Jujuy",
+    "latitud": -24.48333,
+    "longitud": -65.06667
+    },
+    {
+    "nombre": "Madrejon",
+    "provincia": "Jujuy",
+    "latitud": -24.23333,
+    "longitud": -65.2
+    },
+    {
+    "nombre": "Maimara",
+    "provincia": "Jujuy",
+    "latitud": -23.61667,
+    "longitud": -65.4
+    },
+    {
+    "nombre": "Mina Ajedrez",
+    "provincia": "Jujuy",
+    "latitud": -22.65,
+    "longitud": -66.36667
+    },
+    {
+    "nombre": "Mina Belgica",
+    "provincia": "Jujuy",
+    "latitud": -22.36667,
+    "longitud": -65.63333
+    },
+    {
+    "nombre": "Mina Pirquitas",
+    "provincia": "Jujuy",
+    "latitud": -22.68333,
+    "longitud": -66.51667
+    },
+    {
+    "nombre": "Olaroz Chico",
+    "provincia": "Jujuy",
+    "latitud": -23.46667,
+    "longitud": -66.81667
+    },
+    {
+    "nombre": "Olaroz Grande",
+    "provincia": "Jujuy",
+    "latitud": -23.36667,
+    "longitud": -66.86667
+    },
+    {
+    "nombre": "Orosmayo",
+    "provincia": "Jujuy",
+    "latitud": -22.58333,
+    "longitud": -66.35
+    },
+    {
+    "nombre": "Ovara",
+    "provincia": "Jujuy",
+    "latitud": -23.11667,
+    "longitud": -65.41667
+    },
+    {
+    "nombre": "Pairique Chico",
+    "provincia": "Jujuy",
+    "latitud": -23.01667,
+    "longitud": -66.81667
+    },
+    {
+    "nombre": "Pairique Grande",
+    "provincia": "Jujuy",
+    "latitud": -23.13333,
+    "longitud": -66.78333
+    },
+    {
+    "nombre": "Palca de Aparzo",
+    "provincia": "Jujuy",
+    "latitud": -23.1,
+    "longitud": -65.1
+    },
+    {
+    "nombre": "Palpala",
+    "provincia": "Jujuy",
+    "latitud": -24.25,
+    "longitud": -65.2
+    },
+    {
+    "nombre": "Pampa Blanca",
+    "provincia": "Jujuy",
+    "latitud": -24.55,
+    "longitud": -65.08333
+    },
+    {
+    "nombre": "Pampichuela",
+    "provincia": "Jujuy",
+    "latitud": -23.55,
+    "longitud": -65.03333
+    },
+    {
+    "nombre": "Pasaje",
+    "provincia": "Jujuy",
+    "latitud": -22.2,
+    "longitud": -65.95
+    },
+    {
+    "nombre": "Pena Colorada",
+    "provincia": "Jujuy",
+    "latitud": -21.9,
+    "longitud": -66.06667
+    },
+    {
+    "nombre": "Perico",
+    "provincia": "Jujuy",
+    "latitud": -24.38333,
+    "longitud": -65.1
+    },
+    {
+    "nombre": "Pie de la Cuesta",
+    "provincia": "Jujuy",
+    "latitud": -24.26667,
+    "longitud": -64.31667
+    },
+    {
+    "nombre": "Piedra Quemada",
+    "provincia": "Jujuy",
+    "latitud": -23.31667,
+    "longitud": -65.91667
+    },
+    {
+    "nombre": "Pozo Hunter",
+    "provincia": "Jujuy",
+    "latitud": -24.03333,
+    "longitud": -64.86667
+    },
+    {
+    "nombre": "Provincia de Jujuy",
+    "provincia": "Jujuy",
+    "latitud": -23.0,
+    "longitud": -66.0
+    },
+    {
+    "nombre": "Pueblo Ledesma",
+    "provincia": "Jujuy",
+    "latitud": -23.83333,
+    "longitud": -64.76667
+    },
+    {
+    "nombre": "Puesto del Marques",
+    "provincia": "Jujuy",
+    "latitud": -22.53333,
+    "longitud": -65.68333
+    },
+    {
+    "nombre": "Pulpera",
+    "provincia": "Jujuy",
+    "latitud": -22.36667,
+    "longitud": -65.6
+    },
+    {
+    "nombre": "Pumahuasi",
+    "provincia": "Jujuy",
+    "latitud": -22.28333,
+    "longitud": -65.68333
+    },
+    {
+    "nombre": "Purmamarca",
+    "provincia": "Jujuy",
+    "latitud": -23.73333,
+    "longitud": -65.48333
+    },
+    {
+    "nombre": "Quichagua",
+    "provincia": "Jujuy",
+    "latitud": -22.8,
+    "longitud": -66.03333
+    },
+    {
+    "nombre": "Rastrojos",
+    "provincia": "Jujuy",
+    "latitud": -24.0,
+    "longitud": -64.88333
+    },
+    {
+    "nombre": "Reyes",
+    "provincia": "Jujuy",
+    "latitud": -24.16667,
+    "longitud": -65.36667
+    },
+    {
+    "nombre": "Rincon de Cajas",
+    "provincia": "Jujuy",
+    "latitud": -22.25,
+    "longitud": -65.3
+    },
+    {
+    "nombre": "Rinconadillas",
+    "provincia": "Jujuy",
+    "latitud": -23.41667,
+    "longitud": -65.91667
+    },
+    {
+    "nombre": "Rochahuasi",
+    "provincia": "Jujuy",
+    "latitud": -21.88333,
+    "longitud": -66.25
+    },
+    {
+    "nombre": "Rodero",
+    "provincia": "Jujuy",
+    "latitud": -23.03333,
+    "longitud": -65.31667
+    },
+    {
+    "nombre": "Saladillo de Milan",
+    "provincia": "Jujuy",
+    "latitud": -23.96667,
+    "longitud": -64.55
+    },
+    {
+    "nombre": "San Juan de Dios",
+    "provincia": "Jujuy",
+    "latitud": -24.53333,
+    "longitud": -64.68333
+    },
+    {
+    "nombre": "San Juan de Oro",
+    "provincia": "Jujuy",
+    "latitud": -22.2,
+    "longitud": -66.4
+    },
+    {
+    "nombre": "San Juan de Palca",
+    "provincia": "Jujuy",
+    "latitud": -22.25,
+    "longitud": -66.43333
+    },
+    {
+    "nombre": "San Pedrito",
+    "provincia": "Jujuy",
+    "latitud": -24.21667,
+    "longitud": -65.28333
+    },
+    {
+    "nombre": "San Salvador de Jujuy",
+    "provincia": "Jujuy",
+    "latitud": -24.18333,
+    "longitud": -65.3
+    },
+    {
+    "nombre": "Sayate",
+    "provincia": "Jujuy",
+    "latitud": -22.95,
+    "longitud": -65.83333
+    },
+    {
+    "nombre": "Senador Perez",
+    "provincia": "Jujuy",
+    "latitud": -23.3,
+    "longitud": -65.35
+    },
+    {
+    "nombre": "Sey",
+    "provincia": "Jujuy",
+    "latitud": -23.91667,
+    "longitud": -66.56667
+    },
+    {
+    "nombre": "Siberia",
+    "provincia": "Jujuy",
+    "latitud": -23.9,
+    "longitud": -66.86667
+    },
+    {
+    "nombre": "Sijes",
+    "provincia": "Jujuy",
+    "latitud": -23.93333,
+    "longitud": -66.63333
+    },
+    {
+    "nombre": "Suripugio",
+    "provincia": "Jujuy",
+    "latitud": -22.16667,
+    "longitud": -65.36667
+    },
+    {
+    "nombre": "Susques",
+    "provincia": "Jujuy",
+    "latitud": -23.41667,
+    "longitud": -66.48333
+    },
+    {
+    "nombre": "Tabladitas",
+    "provincia": "Jujuy",
+    "latitud": -22.73333,
+    "longitud": -65.6
+    },
+    {
+    "nombre": "Tafna",
+    "provincia": "Jujuy",
+    "latitud": -22.1,
+    "longitud": -65.73333
+    },
+    {
+    "nombre": "Termas de Reyes",
+    "provincia": "Jujuy",
+    "latitud": -24.16667,
+    "longitud": -65.48333
+    },
+    {
+    "nombre": "Tienso",
+    "provincia": "Jujuy",
+    "latitud": -23.13333,
+    "longitud": -65.43333
+    },
+    {
+    "nombre": "Tilcara",
+    "provincia": "Jujuy",
+    "latitud": -23.56667,
+    "longitud": -65.36667
+    },
+    {
+    "nombre": "Timon Cruz",
+    "provincia": "Jujuy",
+    "latitud": -22.21667,
+    "longitud": -66.15
+    },
+    {
+    "nombre": "Tiomayo",
+    "provincia": "Jujuy",
+    "latitud": -22.4,
+    "longitud": -66.41667
+    },
+    {
+    "nombre": "Tocol",
+    "provincia": "Jujuy",
+    "latitud": -23.08333,
+    "longitud": -66.58333
+    },
+    {
+    "nombre": "Tres Morros",
+    "provincia": "Jujuy",
+    "latitud": -23.73333,
+    "longitud": -65.8
+    },
+    {
+    "nombre": "Tumbaya",
+    "provincia": "Jujuy",
+    "latitud": -23.85,
+    "longitud": -65.46667
+    },
+    {
+    "nombre": "Turu Tari",
+    "provincia": "Jujuy",
+    "latitud": -23.21667,
+    "longitud": -66.65
+    },
+    {
+    "nombre": "Tusaquilla",
+    "provincia": "Jujuy",
+    "latitud": -23.2,
+    "longitud": -66.05
+    },
+    {
+    "nombre": "Valle Colorado",
+    "provincia": "Jujuy",
+    "latitud": -23.4,
+    "longitud": -65.0
+    },
+    {
+    "nombre": "Valle Grande",
+    "provincia": "Jujuy",
+    "latitud": -23.46667,
+    "longitud": -64.98333
+    },
+    {
+    "nombre": "Veintitres de Agosto",
+    "provincia": "Jujuy",
+    "latitud": -23.76667,
+    "longitud": -64.68333
+    },
+    {
+    "nombre": "Villa Achaval",
+    "provincia": "Jujuy",
+    "latitud": -24.16667,
+    "longitud": -65.33333
+    }
+]

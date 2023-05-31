@@ -1,0 +1,764 @@
+[
+  {
+    "nombre": "Adan Quiroga",
+    "provincia": "San Juan",
+    "latitud": -30.7325,
+    "longitud": -68.63528
+  },
+  {
+    "nombre": "Albardon",
+    "provincia": "San Juan",
+    "latitud": -31.43722,
+    "longitud": -68.52556
+  },
+  {
+    "nombre": "Algarrobo Verde",
+    "provincia": "San Juan",
+    "latitud": -31.73333,
+    "longitud": -68.3
+  },
+  {
+    "nombre": "Alto de Sierra",
+    "provincia": "San Juan",
+    "latitud": -31.53333,
+    "longitud": -68.41667
+  },
+  {
+    "nombre": "Angualasto",
+    "provincia": "San Juan",
+    "latitud": -30.05,
+    "longitud": -69.15
+  },
+  {
+    "nombre": "Astica",
+    "provincia": "San Juan",
+    "latitud": -30.93333,
+    "longitud": -67.38333
+  },
+  {
+    "nombre": "Balde del Rosario",
+    "provincia": "San Juan",
+    "latitud": -30.31667,
+    "longitud": -67.68333
+  },
+  {
+    "nombre": "Banitos",
+    "provincia": "San Juan",
+    "latitud": -29.3,
+    "longitud": -69.55
+  },
+  {
+    "nombre": "Bano Centenario",
+    "provincia": "San Juan",
+    "latitud": -30.31667,
+    "longitud": -69.28333
+  },
+  {
+    "nombre": "Barreal",
+    "provincia": "San Juan",
+    "latitud": -31.63333,
+    "longitud": -69.46667
+  },
+  {
+    "nombre": "Barrialito",
+    "provincia": "San Juan",
+    "latitud": -31.33333,
+    "longitud": -69.53333
+  },
+  {
+    "nombre": "Barrio Rivadavia",
+    "provincia": "San Juan",
+    "latitud": -31.55,
+    "longitud": -68.55
+  },
+  {
+    "nombre": "Boca de la Quebrada",
+    "provincia": "San Juan",
+    "latitud": -30.15,
+    "longitud": -68.61667
+  },
+  {
+    "nombre": "Calingasta",
+    "provincia": "San Juan",
+    "latitud": -31.33861,
+    "longitud": -69.415
+  },
+  {
+    "nombre": "Carrizalito",
+    "provincia": "San Juan",
+    "latitud": -29.8,
+    "longitud": -69.13333
+  },
+  {
+    "nombre": "Castano Nuevo",
+    "provincia": "San Juan",
+    "latitud": -31.03333,
+    "longitud": -69.55
+  },
+  {
+    "nombre": "Castano Viejo",
+    "provincia": "San Juan",
+    "latitud": -30.98333,
+    "longitud": -69.56667
+  },
+  {
+    "nombre": "Caucete",
+    "provincia": "San Juan",
+    "latitud": -31.65417,
+    "longitud": -68.28528
+  },
+  {
+    "nombre": "Chaparro",
+    "provincia": "San Juan",
+    "latitud": -28.91667,
+    "longitud": -68.96667
+  },
+  {
+    "nombre": "Chigua de Arriba",
+    "provincia": "San Juan",
+    "latitud": -29.83333,
+    "longitud": -69.15
+  },
+  {
+    "nombre": "Chimbas",
+    "provincia": "San Juan",
+    "latitud": -31.48333,
+    "longitud": -68.53333
+  },
+  {
+    "nombre": "Chinguillo",
+    "provincia": "San Juan",
+    "latitud": -29.73333,
+    "longitud": -69.15
+  },
+  {
+    "nombre": "Chucuma",
+    "provincia": "San Juan",
+    "latitud": -31.06667,
+    "longitud": -67.33333
+  },
+  {
+    "nombre": "Cienaguita",
+    "provincia": "San Juan",
+    "latitud": -32.06667,
+    "longitud": -68.7
+  },
+  {
+    "nombre": "Cochagual",
+    "provincia": "San Juan",
+    "latitud": -31.9,
+    "longitud": -68.38333
+  },
+  {
+    "nombre": "Colanguil",
+    "provincia": "San Juan",
+    "latitud": -30.03333,
+    "longitud": -69.23333
+  },
+  {
+    "nombre": "Coll",
+    "provincia": "San Juan",
+    "latitud": -31.55,
+    "longitud": -68.35
+  },
+  {
+    "nombre": "Colola",
+    "provincia": "San Juan",
+    "latitud": -30.18333,
+    "longitud": -69.08333
+  },
+  {
+    "nombre": "Departamento de Albardon",
+    "provincia": "San Juan",
+    "latitud": -31.28333,
+    "longitud": -68.41667
+  },
+  {
+    "nombre": "Departamento de Angaco",
+    "provincia": "San Juan",
+    "latitud": -31.2,
+    "longitud": -68.13333
+  },
+  {
+    "nombre": "Departamento de Calingasta",
+    "provincia": "San Juan",
+    "latitud": -31.5,
+    "longitud": -69.75
+  },
+  {
+    "nombre": "Departamento de Caucete",
+    "provincia": "San Juan",
+    "latitud": -31.45,
+    "longitud": -67.66667
+  },
+  {
+    "nombre": "Departamento de Chimbas",
+    "provincia": "San Juan",
+    "latitud": -31.46667,
+    "longitud": -68.53333
+  },
+  {
+    "nombre": "Departamento de Iglesia",
+    "provincia": "San Juan",
+    "latitud": -29.33333,
+    "longitud": -69.58333
+  },
+  {
+    "nombre": "Departamento de Jachal",
+    "provincia": "San Juan",
+    "latitud": -30.5,
+    "longitud": -68.5
+  },
+  {
+    "nombre": "Departamento de Pocito",
+    "provincia": "San Juan",
+    "latitud": -31.8,
+    "longitud": -68.7
+  },
+  {
+    "nombre": "Departamento de Santa Lucia",
+    "provincia": "San Juan",
+    "latitud": -31.53333,
+    "longitud": -68.46667
+  },
+  {
+    "nombre": "Departamento de Ullun",
+    "provincia": "San Juan",
+    "latitud": -31.0,
+    "longitud": -68.91667
+  },
+  {
+    "nombre": "Departamento de Valle Fertil",
+    "provincia": "San Juan",
+    "latitud": -30.58333,
+    "longitud": -67.5
+  },
+  {
+    "nombre": "Departamento de Zonda",
+    "provincia": "San Juan",
+    "latitud": -31.68494,
+    "longitud": -68.58353
+  },
+  {
+    "nombre": "Divisadero",
+    "provincia": "San Juan",
+    "latitud": -32.01667,
+    "longitud": -68.68333
+  },
+  {
+    "nombre": "Divisoria",
+    "provincia": "San Juan",
+    "latitud": -31.71667,
+    "longitud": -68.3
+  },
+  {
+    "nombre": "El Bosque",
+    "provincia": "San Juan",
+    "latitud": -31.4,
+    "longitud": -68.4
+  },
+  {
+    "nombre": "Encon",
+    "provincia": "San Juan",
+    "latitud": -32.2,
+    "longitud": -67.78333
+  },
+  {
+    "nombre": "Fierro",
+    "provincia": "San Juan",
+    "latitud": -29.4,
+    "longitud": -69.36667
+  },
+  {
+    "nombre": "Guanacache",
+    "provincia": "San Juan",
+    "latitud": -32.06667,
+    "longitud": -68.58333
+  },
+  {
+    "nombre": "Guanizul",
+    "provincia": "San Juan",
+    "latitud": -30.28333,
+    "longitud": -69.3
+  },
+  {
+    "nombre": "Hilario",
+    "provincia": "San Juan",
+    "latitud": -31.48333,
+    "longitud": -69.4
+  },
+  {
+    "nombre": "Huaco",
+    "provincia": "San Juan",
+    "latitud": -30.15,
+    "longitud": -68.51667
+  },
+  {
+    "nombre": "Huerta de Huachi",
+    "provincia": "San Juan",
+    "latitud": -30.01667,
+    "longitud": -68.8
+  },
+  {
+    "nombre": "Ichigualasto",
+    "provincia": "San Juan",
+    "latitud": -30.08333,
+    "longitud": -67.91667
+  },
+  {
+    "nombre": "Iglesia",
+    "provincia": "San Juan",
+    "latitud": -30.41444,
+    "longitud": -69.22361
+  },
+  {
+    "nombre": "Jaguelito",
+    "provincia": "San Juan",
+    "latitud": -29.75,
+    "longitud": -69.61667
+  },
+  {
+    "nombre": "La Bebida",
+    "provincia": "San Juan",
+    "latitud": -31.53333,
+    "longitud": -68.61667
+  },
+  {
+    "nombre": "La Chigua",
+    "provincia": "San Juan",
+    "latitud": -29.90056,
+    "longitud": -69.12944
+  },
+  {
+    "nombre": "La Cienaga",
+    "provincia": "San Juan",
+    "latitud": -30.15,
+    "longitud": -68.56667
+  },
+  {
+    "nombre": "La Cienaga de Cumillango",
+    "provincia": "San Juan",
+    "latitud": -30.48333,
+    "longitud": -68.71667
+  },
+  {
+    "nombre": "La Isla",
+    "provincia": "San Juan",
+    "latitud": -31.38333,
+    "longitud": -69.4
+  },
+  {
+    "nombre": "La Laja",
+    "provincia": "San Juan",
+    "latitud": -31.35,
+    "longitud": -68.46667
+  },
+  {
+    "nombre": "Las Casitas",
+    "provincia": "San Juan",
+    "latitud": -29.95417,
+    "longitud": -69.24556
+  },
+  {
+    "nombre": "Las Casuarinas",
+    "provincia": "San Juan",
+    "latitud": -31.81667,
+    "longitud": -68.32611
+  },
+  {
+    "nombre": "Las Juntas",
+    "provincia": "San Juan",
+    "latitud": -30.73333,
+    "longitud": -67.58333
+  },
+  {
+    "nombre": "Las Lomitas",
+    "provincia": "San Juan",
+    "latitud": -31.4,
+    "longitud": -68.5
+  },
+  {
+    "nombre": "Las Penitas",
+    "provincia": "San Juan",
+    "latitud": -28.88333,
+    "longitud": -69.16667
+  },
+  {
+    "nombre": "Las Tumayas",
+    "provincia": "San Juan",
+    "latitud": -30.86667,
+    "longitud": -67.4
+  },
+  {
+    "nombre": "Los Berros",
+    "provincia": "San Juan",
+    "latitud": -31.95111,
+    "longitud": -68.66222
+  },
+  {
+    "nombre": "Los Chacayes",
+    "provincia": "San Juan",
+    "latitud": -32.3,
+    "longitud": -69.83333
+  },
+  {
+    "nombre": "Los Papagayos",
+    "provincia": "San Juan",
+    "latitud": -31.45,
+    "longitud": -67.33333
+  },
+  {
+    "nombre": "Los Rincones",
+    "provincia": "San Juan",
+    "latitud": -30.25,
+    "longitud": -67.73333
+  },
+  {
+    "nombre": "Los Sapitos",
+    "provincia": "San Juan",
+    "latitud": -28.98333,
+    "longitud": -69.18333
+  },
+  {
+    "nombre": "Macataclasto",
+    "provincia": "San Juan",
+    "latitud": -30.25,
+    "longitud": -69.23333
+  },
+  {
+    "nombre": "Maliman de Abajo",
+    "provincia": "San Juan",
+    "latitud": -29.96667,
+    "longitud": -69.15
+  },
+  {
+    "nombre": "Marayes",
+    "provincia": "San Juan",
+    "latitud": -31.48333,
+    "longitud": -67.33333
+  },
+  {
+    "nombre": "Marquesado",
+    "provincia": "San Juan",
+    "latitud": -31.51667,
+    "longitud": -68.61667
+  },
+  {
+    "nombre": "Matagusanos",
+    "provincia": "San Juan",
+    "latitud": -31.24639,
+    "longitud": -68.62944
+  },
+  {
+    "nombre": "Medano de Oro",
+    "provincia": "San Juan",
+    "latitud": -31.6,
+    "longitud": -68.45
+  },
+  {
+    "nombre": "Mogna",
+    "provincia": "San Juan",
+    "latitud": -30.69417,
+    "longitud": -68.35611
+  },
+  {
+    "nombre": "Nikizanga",
+    "provincia": "San Juan",
+    "latitud": -31.56667,
+    "longitud": -67.85
+  },
+  {
+    "nombre": "Niquivil",
+    "provincia": "San Juan",
+    "latitud": -30.40917,
+    "longitud": -68.68889
+  },
+  {
+    "nombre": "Niquivil Nuevo",
+    "provincia": "San Juan",
+    "latitud": -31.38333,
+    "longitud": -68.7
+  },
+  {
+    "nombre": "Niquivil Viejo",
+    "provincia": "San Juan",
+    "latitud": -30.43333,
+    "longitud": -68.65
+  },
+  {
+    "nombre": "Pachimoco",
+    "provincia": "San Juan",
+    "latitud": -30.2,
+    "longitud": -68.8
+  },
+  {
+    "nombre": "Palca",
+    "provincia": "San Juan",
+    "latitud": -29.61667,
+    "longitud": -69.16667
+  },
+  {
+    "nombre": "Pampa del Chanar",
+    "provincia": "San Juan",
+    "latitud": -30.18333,
+    "longitud": -68.71667
+  },
+  {
+    "nombre": "Pampa Vieja",
+    "provincia": "San Juan",
+    "latitud": -30.18333,
+    "longitud": -68.68333
+  },
+  {
+    "nombre": "Panacan",
+    "provincia": "San Juan",
+    "latitud": -29.95,
+    "longitud": -68.71667
+  },
+  {
+    "nombre": "Pasleam",
+    "provincia": "San Juan",
+    "latitud": -30.08333,
+    "longitud": -68.76667
+  },
+  {
+    "nombre": "Paso de Ferreyra",
+    "provincia": "San Juan",
+    "latitud": -29.96667,
+    "longitud": -68.2
+  },
+  {
+    "nombre": "Pie de Palo",
+    "provincia": "San Juan",
+    "latitud": -31.65,
+    "longitud": -68.21667
+  },
+  {
+    "nombre": "Pirca Las Juntas",
+    "provincia": "San Juan",
+    "latitud": -31.41917,
+    "longitud": -70.39167
+  },
+  {
+    "nombre": "Pismanta",
+    "provincia": "San Juan",
+    "latitud": -30.26667,
+    "longitud": -69.21667
+  },
+  {
+    "nombre": "Pocito",
+    "provincia": "San Juan",
+    "latitud": -31.68333,
+    "longitud": -68.58333
+  },
+  {
+    "nombre": "Pozuelos",
+    "provincia": "San Juan",
+    "latitud": -29.95,
+    "longitud": -68.35
+  },
+  {
+    "nombre": "Provincia de San Juan",
+    "provincia": "San Juan",
+    "latitud": -31.0,
+    "longitud": -69.0
+  },
+  {
+    "nombre": "Puchuzun",
+    "provincia": "San Juan",
+    "latitud": -31.13333,
+    "longitud": -69.46667
+  },
+  {
+    "nombre": "Punta de Agua",
+    "provincia": "San Juan",
+    "latitud": -28.6,
+    "longitud": -68.65
+  },
+  {
+    "nombre": "Punta del Medano",
+    "provincia": "San Juan",
+    "latitud": -32.23333,
+    "longitud": -67.38333
+  },
+  {
+    "nombre": "Puntilla Blanca",
+    "provincia": "San Juan",
+    "latitud": -31.55,
+    "longitud": -68.3
+  },
+  {
+    "nombre": "Quilinquil",
+    "provincia": "San Juan",
+    "latitud": -30.25,
+    "longitud": -69.26667
+  },
+  {
+    "nombre": "Ramblon",
+    "provincia": "San Juan",
+    "latitud": -32.3,
+    "longitud": -68.65
+  },
+  {
+    "nombre": "Retamito",
+    "provincia": "San Juan",
+    "latitud": -32.1,
+    "longitud": -68.6
+  },
+  {
+    "nombre": "Rodeo",
+    "provincia": "San Juan",
+    "latitud": -30.21639,
+    "longitud": -69.13944
+  },
+  {
+    "nombre": "San Agustin de Valle Fertil",
+    "provincia": "San Juan",
+    "latitud": -30.63333,
+    "longitud": -67.45
+  },
+  {
+    "nombre": "San Jose de Jachal",
+    "provincia": "San Juan",
+    "latitud": -30.2425,
+    "longitud": -68.74583
+  },
+  {
+    "nombre": "Sanchez de Loria",
+    "provincia": "San Juan",
+    "latitud": -31.61667,
+    "longitud": -68.53333
+  },
+  {
+    "nombre": "Sorocayense",
+    "provincia": "San Juan",
+    "latitud": -31.55,
+    "longitud": -69.43333
+  },
+  {
+    "nombre": "Talacasto",
+    "provincia": "San Juan",
+    "latitud": -31.11222,
+    "longitud": -68.64167
+  },
+  {
+    "nombre": "Tamberias",
+    "provincia": "San Juan",
+    "latitud": -31.46694,
+    "longitud": -69.42222
+  },
+  {
+    "nombre": "Tocota",
+    "provincia": "San Juan",
+    "latitud": -30.66667,
+    "longitud": -69.41667
+  },
+  {
+    "nombre": "Trinidad",
+    "provincia": "San Juan",
+    "latitud": -31.55,
+    "longitud": -68.51667
+  },
+  {
+    "nombre": "Tucunuco",
+    "provincia": "San Juan",
+    "latitud": -30.60361,
+    "longitud": -68.64306
+  },
+  {
+    "nombre": "Tudcum",
+    "provincia": "San Juan",
+    "latitud": -30.19778,
+    "longitud": -69.26528
+  },
+  {
+    "nombre": "Ullun",
+    "provincia": "San Juan",
+    "latitud": -31.46667,
+    "longitud": -68.7
+  },
+  {
+    "nombre": "Vallecito",
+    "provincia": "San Juan",
+    "latitud": -31.73333,
+    "longitud": -67.98333
+  },
+  {
+    "nombre": "Villa Aberastain",
+    "provincia": "San Juan",
+    "latitud": -31.65,
+    "longitud": -68.58333
+  },
+  {
+    "nombre": "Villa Corral",
+    "provincia": "San Juan",
+    "latitud": -31.21667,
+    "longitud": -69.45
+  },
+  {
+    "nombre": "Villa del Salvador",
+    "provincia": "San Juan",
+    "latitud": -31.4475,
+    "longitud": -68.41028
+  },
+  {
+    "nombre": "Villa Dominguito",
+    "provincia": "San Juan",
+    "latitud": -31.56667,
+    "longitud": -68.3
+  },
+  {
+    "nombre": "Villa Independencia",
+    "provincia": "San Juan",
+    "latitud": -31.63333,
+    "longitud": -68.3
+  },
+  {
+    "nombre": "Villa Krause",
+    "provincia": "San Juan",
+    "latitud": -31.56667,
+    "longitud": -68.53333
+  },
+  {
+    "nombre": "Villa Media Agua",
+    "provincia": "San Juan",
+    "latitud": -31.97417,
+    "longitud": -68.42306
+  },
+  {
+    "nombre": "Villa Paula de Sarmiento",
+    "provincia": "San Juan",
+    "latitud": -31.48333,
+    "longitud": -68.56667
+  },
+  {
+    "nombre": "Villa Pituil",
+    "provincia": "San Juan",
+    "latitud": -31.65,
+    "longitud": -69.46667
+  },
+  {
+    "nombre": "Villa San Isidro",
+    "provincia": "San Juan",
+    "latitud": -31.5,
+    "longitud": -68.33333
+  },
+  {
+    "nombre": "Villa Santa Rosa",
+    "provincia": "San Juan",
+    "latitud": -31.73333,
+    "longitud": -68.31667
+  },
+  {
+    "nombre": "Yoca",
+    "provincia": "San Juan",
+    "latitud": -30.36667,
+    "longitud": -67.66667
+  },
+  {
+    "nombre": "Zonda",
+    "provincia": "San Juan",
+    "latitud": -31.55,
+    "longitud": -68.73333
+  }
+]

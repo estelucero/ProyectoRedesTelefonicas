@@ -1,0 +1,1172 @@
+[
+  {
+    "nombre": "Agua Nueva",
+    "provincia": "Mendoza",
+    "latitud": -34.96667,
+    "longitud": -69.15
+  },
+  {
+    "nombre": "Aguada del Toro",
+    "provincia": "Mendoza",
+    "latitud": -36.63333,
+    "longitud": -68.53333
+  },
+  {
+    "nombre": "Aldea La Primavera",
+    "provincia": "Mendoza",
+    "latitud": -32.91667,
+    "longitud": -68.66667
+  },
+  {
+    "nombre": "Alto del Salvador",
+    "provincia": "Mendoza",
+    "latitud": -33.03333,
+    "longitud": -68.36667
+  },
+  {
+    "nombre": "Altos del Olvido",
+    "provincia": "Mendoza",
+    "latitud": -32.65,
+    "longitud": -68.55
+  },
+  {
+    "nombre": "Anchoris",
+    "provincia": "Mendoza",
+    "latitud": -33.33333,
+    "longitud": -68.91667
+  },
+  {
+    "nombre": "Andrade",
+    "provincia": "Mendoza",
+    "latitud": -33.18333,
+    "longitud": -68.51667
+  },
+  {
+    "nombre": "Bajo Lunlunta",
+    "provincia": "Mendoza",
+    "latitud": -33.05,
+    "longitud": -68.81667
+  },
+  {
+    "nombre": "Banos Lunlunta",
+    "provincia": "Mendoza",
+    "latitud": -33.06667,
+    "longitud": -68.83333
+  },
+  {
+    "nombre": "Barcala",
+    "provincia": "Mendoza",
+    "latitud": -33.01667,
+    "longitud": -68.58333
+  },
+  {
+    "nombre": "Bardas Blancas",
+    "provincia": "Mendoza",
+    "latitud": -35.86667,
+    "longitud": -69.8
+  },
+  {
+    "nombre": "Barraquero",
+    "provincia": "Mendoza",
+    "latitud": -32.9,
+    "longitud": -68.83333
+  },
+  {
+    "nombre": "Bermejo",
+    "provincia": "Mendoza",
+    "latitud": -32.88333,
+    "longitud": -68.8
+  },
+  {
+    "nombre": "Bowen",
+    "provincia": "Mendoza",
+    "latitud": -35.0,
+    "longitud": -67.51667
+  },
+  {
+    "nombre": "Buena Nueva",
+    "provincia": "Mendoza",
+    "latitud": -32.9,
+    "longitud": -68.75
+  },
+  {
+    "nombre": "Butaco",
+    "provincia": "Mendoza",
+    "latitud": -36.9,
+    "longitud": -69.8
+  },
+  {
+    "nombre": "Cacheuta",
+    "provincia": "Mendoza",
+    "latitud": -33.01667,
+    "longitud": -69.11667
+  },
+  {
+    "nombre": "Cadetes de Chile",
+    "provincia": "Mendoza",
+    "latitud": -33.56667,
+    "longitud": -67.26667
+  },
+  {
+    "nombre": "Calmuco",
+    "provincia": "Mendoza",
+    "latitud": -36.78333,
+    "longitud": -69.88333
+  },
+  {
+    "nombre": "Campo Los Andes",
+    "provincia": "Mendoza",
+    "latitud": -33.7,
+    "longitud": -69.15
+  },
+  {
+    "nombre": "Canalejas",
+    "provincia": "Mendoza",
+    "latitud": -35.2,
+    "longitud": -66.51667
+  },
+  {
+    "nombre": "Capacho",
+    "provincia": "Mendoza",
+    "latitud": -33.65,
+    "longitud": -69.05
+  },
+  {
+    "nombre": "Capdeville",
+    "provincia": "Mendoza",
+    "latitud": -32.75,
+    "longitud": -68.8
+  },
+  {
+    "nombre": "Capilla del Rosario",
+    "provincia": "Mendoza",
+    "latitud": -32.91667,
+    "longitud": -68.73333
+  },
+  {
+    "nombre": "Carmensa",
+    "provincia": "Mendoza",
+    "latitud": -35.13333,
+    "longitud": -67.63333
+  },
+  {
+    "nombre": "Chacras de Coria",
+    "provincia": "Mendoza",
+    "latitud": -33.0,
+    "longitud": -68.86667
+  },
+  {
+    "nombre": "Chapanay",
+    "provincia": "Mendoza",
+    "latitud": -32.98333,
+    "longitud": -68.43333
+  },
+  {
+    "nombre": "Chilecito",
+    "provincia": "Mendoza",
+    "latitud": -33.88333,
+    "longitud": -69.05
+  },
+  {
+    "nombre": "Colonia Alvear",
+    "provincia": "Mendoza",
+    "latitud": -35.0,
+    "longitud": -67.66667
+  },
+  {
+    "nombre": "Colonia Gobernador Ayala",
+    "provincia": "Mendoza",
+    "latitud": -37.55,
+    "longitud": -68.08333
+  },
+  {
+    "nombre": "Colonia Las Rosas",
+    "provincia": "Mendoza",
+    "latitud": -33.6,
+    "longitud": -69.1
+  },
+  {
+    "nombre": "Colonia Sur",
+    "provincia": "Mendoza",
+    "latitud": -33.33333,
+    "longitud": -68.03333
+  },
+  {
+    "nombre": "Colonia Tres de Mayo",
+    "provincia": "Mendoza",
+    "latitud": -32.66667,
+    "longitud": -68.61667
+  },
+  {
+    "nombre": "Comandante Salas",
+    "provincia": "Mendoza",
+    "latitud": -33.85,
+    "longitud": -68.0
+  },
+  {
+    "nombre": "Coquimbito",
+    "provincia": "Mendoza",
+    "latitud": -32.96667,
+    "longitud": -68.75
+  },
+  {
+    "nombre": "Corral de Lorca",
+    "provincia": "Mendoza",
+    "latitud": -34.7,
+    "longitud": -67.06667
+  },
+  {
+    "nombre": "Corralitos",
+    "provincia": "Mendoza",
+    "latitud": -32.88333,
+    "longitud": -68.7
+  },
+  {
+    "nombre": "Costa de Araujo",
+    "provincia": "Mendoza",
+    "latitud": -32.75,
+    "longitud": -68.41667
+  },
+  {
+    "nombre": "Cruz de Piedra",
+    "provincia": "Mendoza",
+    "latitud": -33.03333,
+    "longitud": -68.8
+  },
+  {
+    "nombre": "Cuadro Nacional",
+    "provincia": "Mendoza",
+    "latitud": -34.61667,
+    "longitud": -68.28333
+  },
+  {
+    "nombre": "Departamento de Godoy Cruz",
+    "provincia": "Mendoza",
+    "latitud": -32.93333,
+    "longitud": -68.86667
+  },
+  {
+    "nombre": "Departamento de Guaymallen",
+    "provincia": "Mendoza",
+    "latitud": -32.88333,
+    "longitud": -68.7
+  },
+  {
+    "nombre": "Departamento de Junin",
+    "provincia": "Mendoza",
+    "latitud": -33.16667,
+    "longitud": -68.5
+  },
+  {
+    "nombre": "Departamento de Las Heras",
+    "provincia": "Mendoza",
+    "latitud": -32.5,
+    "longitud": -69.5
+  },
+  {
+    "nombre": "Departamento de Lujan",
+    "provincia": "Mendoza",
+    "latitud": -33.0,
+    "longitud": -69.33333
+  },
+  {
+    "nombre": "Departamento de Maipu",
+    "provincia": "Mendoza",
+    "latitud": -33.0,
+    "longitud": -68.58333
+  },
+  {
+    "nombre": "Departamento de Malargue",
+    "provincia": "Mendoza",
+    "latitud": -36.25,
+    "longitud": -69.25
+  },
+  {
+    "nombre": "Departamento de Rivadavia",
+    "provincia": "Mendoza",
+    "latitud": -33.5,
+    "longitud": -68.5
+  },
+  {
+    "nombre": "Departamento de San Carlos",
+    "provincia": "Mendoza",
+    "latitud": -34.0,
+    "longitud": -69.0
+  },
+  {
+    "nombre": "Departamento de San Rafael",
+    "provincia": "Mendoza",
+    "latitud": -35.0,
+    "longitud": -68.83333
+  },
+  {
+    "nombre": "Departamento de Santa Rosa",
+    "provincia": "Mendoza",
+    "latitud": -33.5,
+    "longitud": -68.0
+  },
+  {
+    "nombre": "Departamento de Tunuyan",
+    "provincia": "Mendoza",
+    "latitud": -33.66667,
+    "longitud": -69.5
+  },
+  {
+    "nombre": "Departamento de Tupungato",
+    "provincia": "Mendoza",
+    "latitud": -33.25,
+    "longitud": -69.25
+  },
+  {
+    "nombre": "Desaguadero",
+    "provincia": "Mendoza",
+    "latitud": -33.41667,
+    "longitud": -67.18333
+  },
+  {
+    "nombre": "El Algarrobal",
+    "provincia": "Mendoza",
+    "latitud": -32.81667,
+    "longitud": -68.76667
+  },
+  {
+    "nombre": "El Algarrobo",
+    "provincia": "Mendoza",
+    "latitud": -33.46667,
+    "longitud": -68.0
+  },
+  {
+    "nombre": "El Borbollon",
+    "provincia": "Mendoza",
+    "latitud": -32.8,
+    "longitud": -68.75
+  },
+  {
+    "nombre": "El Borbolloncito",
+    "provincia": "Mendoza",
+    "latitud": -32.81667,
+    "longitud": -68.78333
+  },
+  {
+    "nombre": "El Carrizal de Abajo",
+    "provincia": "Mendoza",
+    "latitud": -33.3,
+    "longitud": -68.75
+  },
+  {
+    "nombre": "El Carrizal de Arriba",
+    "provincia": "Mendoza",
+    "latitud": -33.23333,
+    "longitud": -68.8
+  },
+  {
+    "nombre": "El Central",
+    "provincia": "Mendoza",
+    "latitud": -32.8,
+    "longitud": -68.36667
+  },
+  {
+    "nombre": "El Challao",
+    "provincia": "Mendoza",
+    "latitud": -32.85,
+    "longitud": -68.93333
+  },
+  {
+    "nombre": "El Forzado",
+    "provincia": "Mendoza",
+    "latitud": -32.58333,
+    "longitud": -67.31667
+  },
+  {
+    "nombre": "El Manzano",
+    "provincia": "Mendoza",
+    "latitud": -36.11667,
+    "longitud": -69.75
+  },
+  {
+    "nombre": "El Mirador",
+    "provincia": "Mendoza",
+    "latitud": -33.33333,
+    "longitud": -68.33333
+  },
+  {
+    "nombre": "El Nihuil",
+    "provincia": "Mendoza",
+    "latitud": -35.03333,
+    "longitud": -68.66667
+  },
+  {
+    "nombre": "El Parral",
+    "provincia": "Mendoza",
+    "latitud": -34.01667,
+    "longitud": -69.13333
+  },
+  {
+    "nombre": "El Pastal",
+    "provincia": "Mendoza",
+    "latitud": -32.76667,
+    "longitud": -68.71667
+  },
+  {
+    "nombre": "El Plumerillo",
+    "provincia": "Mendoza",
+    "latitud": -32.83333,
+    "longitud": -68.78333
+  },
+  {
+    "nombre": "El Retamo",
+    "provincia": "Mendoza",
+    "latitud": -32.45,
+    "longitud": -67.4
+  },
+  {
+    "nombre": "El Sosneado",
+    "provincia": "Mendoza",
+    "latitud": -35.06667,
+    "longitud": -69.56667
+  },
+  {
+    "nombre": "El Vergel",
+    "provincia": "Mendoza",
+    "latitud": -32.8,
+    "longitud": -68.63333
+  },
+  {
+    "nombre": "Esquina Pescadero",
+    "provincia": "Mendoza",
+    "latitud": -32.86667,
+    "longitud": -68.66667
+  },
+  {
+    "nombre": "Estacion Uspallata",
+    "provincia": "Mendoza",
+    "latitud": -32.66667,
+    "longitud": -69.36667
+  },
+  {
+    "nombre": "Estancia El Cercado",
+    "provincia": "Mendoza",
+    "latitud": -33.13333,
+    "longitud": -67.48333
+  },
+  {
+    "nombre": "Estancia Silva",
+    "provincia": "Mendoza",
+    "latitud": -33.4,
+    "longitud": -69.33333
+  },
+  {
+    "nombre": "Eugenio Bustos",
+    "provincia": "Mendoza",
+    "latitud": -33.76667,
+    "longitud": -69.06667
+  },
+  {
+    "nombre": "Francisco Javier Moyano",
+    "provincia": "Mendoza",
+    "latitud": -32.75,
+    "longitud": -68.71667
+  },
+  {
+    "nombre": "Gaspar Campos",
+    "provincia": "Mendoza",
+    "latitud": -34.65,
+    "longitud": -67.48333
+  },
+  {
+    "nombre": "General Gutierrez",
+    "provincia": "Mendoza",
+    "latitud": -32.95,
+    "longitud": -68.8
+  },
+  {
+    "nombre": "General Ortega",
+    "provincia": "Mendoza",
+    "latitud": -33.0,
+    "longitud": -68.71667
+  },
+  {
+    "nombre": "Gobernador Benegas",
+    "provincia": "Mendoza",
+    "latitud": -32.95,
+    "longitud": -68.85
+  },
+  {
+    "nombre": "Gobernador Civit",
+    "provincia": "Mendoza",
+    "latitud": -33.33333,
+    "longitud": -67.96667
+  },
+  {
+    "nombre": "Gobernador L Molina",
+    "provincia": "Mendoza",
+    "latitud": -32.7,
+    "longitud": -68.58333
+  },
+  {
+    "nombre": "Godoy Cruz",
+    "provincia": "Mendoza",
+    "latitud": -32.91667,
+    "longitud": -68.83333
+  },
+  {
+    "nombre": "Goico",
+    "provincia": "Mendoza",
+    "latitud": -34.63333,
+    "longitud": -67.66667
+  },
+  {
+    "nombre": "Goudge",
+    "provincia": "Mendoza",
+    "latitud": -34.66667,
+    "longitud": -68.13333
+  },
+  {
+    "nombre": "Guido",
+    "provincia": "Mendoza",
+    "latitud": -32.85,
+    "longitud": -69.25
+  },
+  {
+    "nombre": "Haras General Las Heras",
+    "provincia": "Mendoza",
+    "latitud": -33.7,
+    "longitud": -69.26667
+  },
+  {
+    "nombre": "Hornito del Gringo",
+    "provincia": "Mendoza",
+    "latitud": -32.75,
+    "longitud": -68.83333
+  },
+  {
+    "nombre": "Ingeniero Giagnoni",
+    "provincia": "Mendoza",
+    "latitud": -33.11667,
+    "longitud": -68.41667
+  },
+  {
+    "nombre": "Ingeniero Gustavo Andre",
+    "provincia": "Mendoza",
+    "latitud": -32.7,
+    "longitud": -68.31667
+  },
+  {
+    "nombre": "Jaguel Amarillo",
+    "provincia": "Mendoza",
+    "latitud": -36.1,
+    "longitud": -69.35
+  },
+  {
+    "nombre": "Jaguel de las Chilcas",
+    "provincia": "Mendoza",
+    "latitud": -36.75,
+    "longitud": -69.0
+  },
+  {
+    "nombre": "Jaguel de Maya",
+    "provincia": "Mendoza",
+    "latitud": -37.1,
+    "longitud": -68.3
+  },
+  {
+    "nombre": "Jaime Prats",
+    "provincia": "Mendoza",
+    "latitud": -34.9,
+    "longitud": -67.8
+  },
+  {
+    "nombre": "Jesus Nazareno",
+    "provincia": "Mendoza",
+    "latitud": -32.93333,
+    "longitud": -68.76667
+  },
+  {
+    "nombre": "Jocoli",
+    "provincia": "Mendoza",
+    "latitud": -32.58333,
+    "longitud": -68.68333
+  },
+  {
+    "nombre": "Jocoli Viejo",
+    "provincia": "Mendoza",
+    "latitud": -32.7,
+    "longitud": -68.65
+  },
+  {
+    "nombre": "La Carrodilla",
+    "provincia": "Mendoza",
+    "latitud": -32.96667,
+    "longitud": -68.86667
+  },
+  {
+    "nombre": "La Cieneguita",
+    "provincia": "Mendoza",
+    "latitud": -32.86667,
+    "longitud": -68.85
+  },
+  {
+    "nombre": "La Consulta",
+    "provincia": "Mendoza",
+    "latitud": -33.73333,
+    "longitud": -69.11667
+  },
+  {
+    "nombre": "La Cortadera",
+    "provincia": "Mendoza",
+    "latitud": -36.6,
+    "longitud": -68.53333
+  },
+  {
+    "nombre": "La Dormida",
+    "provincia": "Mendoza",
+    "latitud": -33.35,
+    "longitud": -67.91667
+  },
+  {
+    "nombre": "La Escandinava",
+    "provincia": "Mendoza",
+    "latitud": -34.91667,
+    "longitud": -67.53333
+  },
+  {
+    "nombre": "La Holanda",
+    "provincia": "Mendoza",
+    "latitud": -32.76667,
+    "longitud": -68.56667
+  },
+  {
+    "nombre": "La Hullera",
+    "provincia": "Mendoza",
+    "latitud": -32.7,
+    "longitud": -68.76667
+  },
+  {
+    "nombre": "La Jaula",
+    "provincia": "Mendoza",
+    "latitud": -34.66667,
+    "longitud": -69.31667
+  },
+  {
+    "nombre": "La Junta",
+    "provincia": "Mendoza",
+    "latitud": -35.25,
+    "longitud": -69.48333
+  },
+  {
+    "nombre": "La Marzolina",
+    "provincia": "Mendoza",
+    "latitud": -35.0,
+    "longitud": -67.61667
+  },
+  {
+    "nombre": "La Mora",
+    "provincia": "Mendoza",
+    "latitud": -35.11667,
+    "longitud": -66.85
+  },
+  {
+    "nombre": "La Pega",
+    "provincia": "Mendoza",
+    "latitud": -32.8,
+    "longitud": -68.66667
+  },
+  {
+    "nombre": "La Puntilla",
+    "provincia": "Mendoza",
+    "latitud": -32.96667,
+    "longitud": -68.86667
+  },
+  {
+    "nombre": "La Union",
+    "provincia": "Mendoza",
+    "latitud": -32.8,
+    "longitud": -68.83333
+  },
+  {
+    "nombre": "La Valenciana",
+    "provincia": "Mendoza",
+    "latitud": -35.55,
+    "longitud": -69.9
+  },
+  {
+    "nombre": "Lagunita",
+    "provincia": "Mendoza",
+    "latitud": -32.88333,
+    "longitud": -68.76667
+  },
+  {
+    "nombre": "Las Catitas",
+    "provincia": "Mendoza",
+    "latitud": -33.3,
+    "longitud": -68.03333
+  },
+  {
+    "nombre": "Las Compuertas",
+    "provincia": "Mendoza",
+    "latitud": -33.03333,
+    "longitud": -68.98333
+  },
+  {
+    "nombre": "Las Cuevas",
+    "provincia": "Mendoza",
+    "latitud": -32.81667,
+    "longitud": -70.05
+  },
+  {
+    "nombre": "Las Malvinas",
+    "provincia": "Mendoza",
+    "latitud": -34.83333,
+    "longitud": -68.25
+  },
+  {
+    "nombre": "Las Paredes",
+    "provincia": "Mendoza",
+    "latitud": -34.58333,
+    "longitud": -68.45
+  },
+  {
+    "nombre": "Lomas Blancas",
+    "provincia": "Mendoza",
+    "latitud": -33.16667,
+    "longitud": -67.86667
+  },
+  {
+    "nombre": "Los Alamitos",
+    "provincia": "Mendoza",
+    "latitud": -34.1,
+    "longitud": -69.15
+  },
+  {
+    "nombre": "Los Arboles",
+    "provincia": "Mendoza",
+    "latitud": -33.51667,
+    "longitud": -69.26667
+  },
+  {
+    "nombre": "Los Huarpes",
+    "provincia": "Mendoza",
+    "latitud": -35.05,
+    "longitud": -67.13333
+  },
+  {
+    "nombre": "Los Pejes",
+    "provincia": "Mendoza",
+    "latitud": -35.63333,
+    "longitud": -68.06667
+  },
+  {
+    "nombre": "Los Ramblones",
+    "provincia": "Mendoza",
+    "latitud": -36.01667,
+    "longitud": -69.38333
+  },
+  {
+    "nombre": "Los Sauces",
+    "provincia": "Mendoza",
+    "latitud": -33.58333,
+    "longitud": -69.16667
+  },
+  {
+    "nombre": "Luanco",
+    "provincia": "Mendoza",
+    "latitud": -37.2,
+    "longitud": -68.4
+  },
+  {
+    "nombre": "Lujan de Cuyo",
+    "provincia": "Mendoza",
+    "latitud": -33.05,
+    "longitud": -68.86667
+  },
+  {
+    "nombre": "Lunlunta",
+    "provincia": "Mendoza",
+    "latitud": -33.03333,
+    "longitud": -68.81667
+  },
+  {
+    "nombre": "Luzuriaga",
+    "provincia": "Mendoza",
+    "latitud": -32.95,
+    "longitud": -68.81667
+  },
+  {
+    "nombre": "Malargue",
+    "provincia": "Mendoza",
+    "latitud": -35.46667,
+    "longitud": -69.58333
+  },
+  {
+    "nombre": "Maquinista Levet",
+    "provincia": "Mendoza",
+    "latitud": -33.6,
+    "longitud": -67.11667
+  },
+  {
+    "nombre": "Matancilla",
+    "provincia": "Mendoza",
+    "latitud": -36.76667,
+    "longitud": -68.83333
+  },
+  {
+    "nombre": "Mayor Drumond",
+    "provincia": "Mendoza",
+    "latitud": -33.01667,
+    "longitud": -68.88333
+  },
+  {
+    "nombre": "Medrano",
+    "provincia": "Mendoza",
+    "latitud": -33.18333,
+    "longitud": -68.61667
+  },
+  {
+    "nombre": "Mendoza",
+    "provincia": "Mendoza",
+    "latitud": -32.88333,
+    "longitud": -68.81667
+  },
+  {
+    "nombre": "Minacar",
+    "provincia": "Mendoza",
+    "latitud": -35.86667,
+    "longitud": -70.06667
+  },
+  {
+    "nombre": "Minas Salagasta",
+    "provincia": "Mendoza",
+    "latitud": -32.58333,
+    "longitud": -68.83333
+  },
+  {
+    "nombre": "Monte Coman",
+    "provincia": "Mendoza",
+    "latitud": -34.6,
+    "longitud": -67.9
+  },
+  {
+    "nombre": "Nacunan",
+    "provincia": "Mendoza",
+    "latitud": -34.05,
+    "longitud": -67.96667
+  },
+  {
+    "nombre": "Nire Co",
+    "provincia": "Mendoza",
+    "latitud": -37.0,
+    "longitud": -68.41667
+  },
+  {
+    "nombre": "Nueva California",
+    "provincia": "Mendoza",
+    "latitud": -32.75,
+    "longitud": -68.33333
+  },
+  {
+    "nombre": "Ovejeria",
+    "provincia": "Mendoza",
+    "latitud": -34.68333,
+    "longitud": -67.26667
+  },
+  {
+    "nombre": "Palmira",
+    "provincia": "Mendoza",
+    "latitud": -33.05,
+    "longitud": -68.56667
+  },
+  {
+    "nombre": "Pampita",
+    "provincia": "Mendoza",
+    "latitud": -33.43333,
+    "longitud": -67.28333
+  },
+  {
+    "nombre": "Panqueua",
+    "provincia": "Mendoza",
+    "latitud": -32.83333,
+    "longitud": -68.83333
+  },
+  {
+    "nombre": "Pareditas",
+    "provincia": "Mendoza",
+    "latitud": -33.93333,
+    "longitud": -69.06667
+  },
+  {
+    "nombre": "Pedregal",
+    "provincia": "Mendoza",
+    "latitud": -32.96667,
+    "longitud": -68.68333
+  },
+  {
+    "nombre": "Pedro Vargas",
+    "provincia": "Mendoza",
+    "latitud": -34.61667,
+    "longitud": -68.46667
+  },
+  {
+    "nombre": "Perdriel",
+    "provincia": "Mendoza",
+    "latitud": -33.08333,
+    "longitud": -68.88333
+  },
+  {
+    "nombre": "Philipps",
+    "provincia": "Mendoza",
+    "latitud": -33.2,
+    "longitud": -68.38333
+  },
+  {
+    "nombre": "Pichi Ciego",
+    "provincia": "Mendoza",
+    "latitud": -33.58333,
+    "longitud": -68.06667
+  },
+  {
+    "nombre": "Pirquita",
+    "provincia": "Mendoza",
+    "latitud": -33.5,
+    "longitud": -67.41667
+  },
+  {
+    "nombre": "Potrerillos",
+    "provincia": "Mendoza",
+    "latitud": -32.95,
+    "longitud": -69.18333
+  },
+  {
+    "nombre": "Provincia de Mendoza",
+    "provincia": "Mendoza",
+    "latitud": -34.5,
+    "longitud": -68.5
+  },
+  {
+    "nombre": "Puente del Inca",
+    "provincia": "Mendoza",
+    "latitud": -32.81667,
+    "longitud": -69.91667
+  },
+  {
+    "nombre": "Punta de Vacas",
+    "provincia": "Mendoza",
+    "latitud": -32.85,
+    "longitud": -69.75
+  },
+  {
+    "nombre": "Punta del Agua",
+    "provincia": "Mendoza",
+    "latitud": -35.51667,
+    "longitud": -68.08333
+  },
+  {
+    "nombre": "Raco",
+    "provincia": "Mendoza",
+    "latitud": -26.63333,
+    "longitud": -65.43333
+  },
+  {
+    "nombre": "Rama Caida",
+    "provincia": "Mendoza",
+    "latitud": -34.66667,
+    "longitud": -68.38333
+  },
+  {
+    "nombre": "Ranquil",
+    "provincia": "Mendoza",
+    "latitud": -36.68333,
+    "longitud": -69.15
+  },
+  {
+    "nombre": "Ranquil Co",
+    "provincia": "Mendoza",
+    "latitud": -36.21667,
+    "longitud": -69.48333
+  },
+  {
+    "nombre": "Ranquil del Norte",
+    "provincia": "Mendoza",
+    "latitud": -36.65,
+    "longitud": -69.78333
+  },
+  {
+    "nombre": "Ranquiles",
+    "provincia": "Mendoza",
+    "latitud": -36.16667,
+    "longitud": -69.45
+  },
+  {
+    "nombre": "Real del Padre",
+    "provincia": "Mendoza",
+    "latitud": -34.83333,
+    "longitud": -67.76667
+  },
+  {
+    "nombre": "Resolana",
+    "provincia": "Mendoza",
+    "latitud": -34.53333,
+    "longitud": -68.1
+  },
+  {
+    "nombre": "Rincon del Atuel",
+    "provincia": "Mendoza",
+    "latitud": -34.73333,
+    "longitud": -68.36667
+  },
+  {
+    "nombre": "Rodeo de la Cruz",
+    "provincia": "Mendoza",
+    "latitud": -32.91667,
+    "longitud": -68.73333
+  },
+  {
+    "nombre": "Rodeo del Medio",
+    "provincia": "Mendoza",
+    "latitud": -32.98333,
+    "longitud": -68.68333
+  },
+  {
+    "nombre": "Rodolfo Iselin",
+    "provincia": "Mendoza",
+    "latitud": -34.65,
+    "longitud": -68.01667
+  },
+  {
+    "nombre": "Rodriguez Pena",
+    "provincia": "Mendoza",
+    "latitud": -33.11667,
+    "longitud": -68.6
+  },
+  {
+    "nombre": "Russell",
+    "provincia": "Mendoza",
+    "latitud": -33.0,
+    "longitud": -68.78333
+  },
+  {
+    "nombre": "Salto de las Rosas",
+    "provincia": "Mendoza",
+    "latitud": -34.71667,
+    "longitud": -68.23333
+  },
+  {
+    "nombre": "San Rafael",
+    "provincia": "Mendoza",
+    "latitud": -34.6,
+    "longitud": -68.33333
+  },
+  {
+    "nombre": "Santa Maria de Oro",
+    "provincia": "Mendoza",
+    "latitud": -33.2,
+    "longitud": -68.43333
+  },
+  {
+    "nombre": "Soitue",
+    "provincia": "Mendoza",
+    "latitud": -35.01667,
+    "longitud": -67.85
+  },
+  {
+    "nombre": "Termas Villavicencio",
+    "provincia": "Mendoza",
+    "latitud": -32.51667,
+    "longitud": -69.01667
+  },
+  {
+    "nombre": "Tres Portenas",
+    "provincia": "Mendoza",
+    "latitud": -32.88333,
+    "longitud": -68.38333
+  },
+  {
+    "nombre": "Tunuyan",
+    "provincia": "Mendoza",
+    "latitud": -33.56667,
+    "longitud": -69.01667
+  },
+  {
+    "nombre": "Tupungato",
+    "provincia": "Mendoza",
+    "latitud": -33.36667,
+    "longitud": -69.13333
+  },
+  {
+    "nombre": "Ugarteche",
+    "provincia": "Mendoza",
+    "latitud": -33.21667,
+    "longitud": -68.88333
+  },
+  {
+    "nombre": "Uspallata",
+    "provincia": "Mendoza",
+    "latitud": -32.58333,
+    "longitud": -69.33333
+  },
+  {
+    "nombre": "Villa Atuel",
+    "provincia": "Mendoza",
+    "latitud": -34.83333,
+    "longitud": -67.9
+  },
+  {
+    "nombre": "Villa Bastia",
+    "provincia": "Mendoza",
+    "latitud": -33.33333,
+    "longitud": -69.13333
+  },
+  {
+    "nombre": "Villa Edelmira",
+    "provincia": "Mendoza",
+    "latitud": -32.95,
+    "longitud": -68.81667
+  },
+  {
+    "nombre": "Villa Hipodromo",
+    "provincia": "Mendoza",
+    "latitud": -32.91667,
+    "longitud": -68.83333
+  },
+  {
+    "nombre": "Villa La Paz",
+    "provincia": "Mendoza",
+    "latitud": -33.45,
+    "longitud": -67.63333
+  },
+  {
+    "nombre": "Villa Marini",
+    "provincia": "Mendoza",
+    "latitud": -32.91667,
+    "longitud": -68.86667
+  },
+  {
+    "nombre": "Villa Nueva",
+    "provincia": "Mendoza",
+    "latitud": -32.9,
+    "longitud": -68.78333
+  },
+  {
+    "nombre": "Villa Seca",
+    "provincia": "Mendoza",
+    "latitud": -33.55,
+    "longitud": -69.16667
+  },
+  {
+    "nombre": "Vista Flores",
+    "provincia": "Mendoza",
+    "latitud": -33.63333,
+    "longitud": -69.15
+  },
+  {
+    "nombre": "Vistalba",
+    "provincia": "Mendoza",
+    "latitud": -33.01667,
+    "longitud": -68.88333
+  },
+  {
+    "nombre": "Zapata",
+    "provincia": "Mendoza",
+    "latitud": -33.48333,
+    "longitud": -69.0
+  }
+]

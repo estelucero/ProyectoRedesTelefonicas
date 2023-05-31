@@ -1,0 +1,1064 @@
+[
+  {
+    "nombre": "Aguadita",
+    "provincia": "La Rioja",
+    "latitud": -29.31667,
+    "longitud": -68.7
+  },
+  {
+    "nombre": "Aguaditas",
+    "provincia": "La Rioja",
+    "latitud": -29.08333,
+    "longitud": -68.1
+  },
+  {
+    "nombre": "Aguayo",
+    "provincia": "La Rioja",
+    "latitud": -31.66667,
+    "longitud": -65.9
+  },
+  {
+    "nombre": "Aicuna",
+    "provincia": "La Rioja",
+    "latitud": -29.51667,
+    "longitud": -67.75
+  },
+  {
+    "nombre": "Aimogasta",
+    "provincia": "La Rioja",
+    "latitud": -28.55,
+    "longitud": -66.81667
+  },
+  {
+    "nombre": "Alcazar",
+    "provincia": "La Rioja",
+    "latitud": -30.33333,
+    "longitud": -66.56667
+  },
+  {
+    "nombre": "Alpasinche",
+    "provincia": "La Rioja",
+    "latitud": -28.31667,
+    "longitud": -67.05
+  },
+  {
+    "nombre": "Alumbrera",
+    "provincia": "La Rioja",
+    "latitud": -28.68333,
+    "longitud": -69.15
+  },
+  {
+    "nombre": "Amana",
+    "provincia": "La Rioja",
+    "latitud": -30.06667,
+    "longitud": -67.51667
+  },
+  {
+    "nombre": "Ambil",
+    "provincia": "La Rioja",
+    "latitud": -31.13333,
+    "longitud": -66.35
+  },
+  {
+    "nombre": "Aminga",
+    "provincia": "La Rioja",
+    "latitud": -28.83333,
+    "longitud": -66.9
+  },
+  {
+    "nombre": "Amuschina",
+    "provincia": "La Rioja",
+    "latitud": -28.58333,
+    "longitud": -67.18333
+  },
+  {
+    "nombre": "Anchico Nuevo",
+    "provincia": "La Rioja",
+    "latitud": -29.63333,
+    "longitud": -66.38333
+  },
+  {
+    "nombre": "Andalucas",
+    "provincia": "La Rioja",
+    "latitud": -28.58333,
+    "longitud": -67.18333
+  },
+  {
+    "nombre": "Anguinan",
+    "provincia": "La Rioja",
+    "latitud": -29.2,
+    "longitud": -67.46667
+  },
+  {
+    "nombre": "Angulos",
+    "provincia": "La Rioja",
+    "latitud": -28.63333,
+    "longitud": -67.63333
+  },
+  {
+    "nombre": "Anillaco",
+    "provincia": "La Rioja",
+    "latitud": -28.8,
+    "longitud": -66.95
+  },
+  {
+    "nombre": "Anjullon",
+    "provincia": "La Rioja",
+    "latitud": -28.71667,
+    "longitud": -66.93333
+  },
+  {
+    "nombre": "Antinaco",
+    "provincia": "La Rioja",
+    "latitud": -28.81667,
+    "longitud": -67.31667
+  },
+  {
+    "nombre": "Anzulon",
+    "provincia": "La Rioja",
+    "latitud": -30.86667,
+    "longitud": -66.28333
+  },
+  {
+    "nombre": "Arauco",
+    "provincia": "La Rioja",
+    "latitud": -28.58333,
+    "longitud": -66.78333
+  },
+  {
+    "nombre": "Atiles",
+    "provincia": "La Rioja",
+    "latitud": -30.76667,
+    "longitud": -66.66667
+  },
+  {
+    "nombre": "Bajo del Gallo",
+    "provincia": "La Rioja",
+    "latitud": -30.41667,
+    "longitud": -66.88333
+  },
+  {
+    "nombre": "Balde Salado",
+    "provincia": "La Rioja",
+    "latitud": -31.18333,
+    "longitud": -65.86667
+  },
+  {
+    "nombre": "Baldecito",
+    "provincia": "La Rioja",
+    "latitud": -31.86667,
+    "longitud": -65.83333
+  },
+  {
+    "nombre": "Banda Florida",
+    "provincia": "La Rioja",
+    "latitud": -29.28333,
+    "longitud": -68.21667
+  },
+  {
+    "nombre": "Bazan",
+    "provincia": "La Rioja",
+    "latitud": -29.16667,
+    "longitud": -66.65
+  },
+  {
+    "nombre": "Campanas",
+    "provincia": "La Rioja",
+    "latitud": -28.56667,
+    "longitud": -67.61667
+  },
+  {
+    "nombre": "Carnerito",
+    "provincia": "La Rioja",
+    "latitud": -28.41667,
+    "longitud": -69.18333
+  },
+  {
+    "nombre": "Castro Barros",
+    "provincia": "La Rioja",
+    "latitud": -30.58333,
+    "longitud": -65.73333
+  },
+  {
+    "nombre": "Catinzaco",
+    "provincia": "La Rioja",
+    "latitud": -29.66667,
+    "longitud": -67.38333
+  },
+  {
+    "nombre": "Cebollar",
+    "provincia": "La Rioja",
+    "latitud": -29.13333,
+    "longitud": -66.55
+  },
+  {
+    "nombre": "Chamical",
+    "provincia": "La Rioja",
+    "latitud": -30.35,
+    "longitud": -66.31667
+  },
+  {
+    "nombre": "Chanarmuyo",
+    "provincia": "La Rioja",
+    "latitud": -28.6,
+    "longitud": -67.56667
+  },
+  {
+    "nombre": "Chelcos",
+    "provincia": "La Rioja",
+    "latitud": -31.23333,
+    "longitud": -66.4
+  },
+  {
+    "nombre": "Chepes",
+    "provincia": "La Rioja",
+    "latitud": -31.35,
+    "longitud": -66.6
+  },
+  {
+    "nombre": "Chepes Viejo",
+    "provincia": "La Rioja",
+    "latitud": -31.26667,
+    "longitud": -66.6
+  },
+  {
+    "nombre": "Chimenea",
+    "provincia": "La Rioja",
+    "latitud": -30.65,
+    "longitud": -66.33333
+  },
+  {
+    "nombre": "Chuquis",
+    "provincia": "La Rioja",
+    "latitud": -28.9,
+    "longitud": -66.96667
+  },
+  {
+    "nombre": "Cienaga Alta",
+    "provincia": "La Rioja",
+    "latitud": -29.2,
+    "longitud": -68.73333
+  },
+  {
+    "nombre": "Cochangasta",
+    "provincia": "La Rioja",
+    "latitud": -29.4,
+    "longitud": -66.88333
+  },
+  {
+    "nombre": "Comandante Leal",
+    "provincia": "La Rioja",
+    "latitud": -30.88333,
+    "longitud": -65.78333
+  },
+  {
+    "nombre": "Corral Alforja",
+    "provincia": "La Rioja",
+    "latitud": -29.86667,
+    "longitud": -65.8
+  },
+  {
+    "nombre": "Corral de Isaac",
+    "provincia": "La Rioja",
+    "latitud": -31.93333,
+    "longitud": -66.36667
+  },
+  {
+    "nombre": "Corrales",
+    "provincia": "La Rioja",
+    "latitud": -28.83333,
+    "longitud": -67.66667
+  },
+  {
+    "nombre": "Cueva Blanca",
+    "provincia": "La Rioja",
+    "latitud": -29.33333,
+    "longitud": -68.91667
+  },
+  {
+    "nombre": "Cueva Romero",
+    "provincia": "La Rioja",
+    "latitud": -29.05,
+    "longitud": -67.7
+  },
+  {
+    "nombre": "Cuipan",
+    "provincia": "La Rioja",
+    "latitud": -28.45,
+    "longitud": -67.11667
+  },
+  {
+    "nombre": "Departamento de Arauco",
+    "provincia": "La Rioja",
+    "latitud": -28.5,
+    "longitud": -66.83333
+  },
+  {
+    "nombre": "Departamento de Castro Barros",
+    "provincia": "La Rioja",
+    "latitud": -28.83333,
+    "longitud": -66.91667
+  },
+  {
+    "nombre": "Departamento de Chilecito",
+    "provincia": "La Rioja",
+    "latitud": -29.41667,
+    "longitud": -67.5
+  },
+  {
+    "nombre": "Departamento de Famatina",
+    "provincia": "La Rioja",
+    "latitud": -28.66667,
+    "longitud": -67.58333
+  },
+  {
+    "nombre": "Departamento de General Belgrano",
+    "provincia": "La Rioja",
+    "latitud": -30.58333,
+    "longitud": -66.0
+  },
+  {
+    "nombre": "Departamento de General La Madrid",
+    "provincia": "La Rioja",
+    "latitud": -28.83333,
+    "longitud": -68.66667
+  },
+  {
+    "nombre": "Departamento de General Lavalle",
+    "provincia": "La Rioja",
+    "latitud": -29.5,
+    "longitud": -68.33333
+  },
+  {
+    "nombre": "Departamento de General Ocampo",
+    "provincia": "La Rioja",
+    "latitud": -31.0,
+    "longitud": -66.25
+  },
+  {
+    "nombre": "Departamento de General Sarmiento",
+    "provincia": "La Rioja",
+    "latitud": -28.2,
+    "longitud": -68.66667
+  },
+  {
+    "nombre": "Departamento de Gobernador Gordillo",
+    "provincia": "La Rioja",
+    "latitud": -30.25,
+    "longitud": -65.83333
+  },
+  {
+    "nombre": "Departamento de Independencia",
+    "provincia": "La Rioja",
+    "latitud": -30.16667,
+    "longitud": -67.41667
+  },
+  {
+    "nombre": "Departamento de San Blas de los Sauces",
+    "provincia": "La Rioja",
+    "latitud": -28.5,
+    "longitud": -67.08333
+  },
+  {
+    "nombre": "Departamento de Sanagasta",
+    "provincia": "La Rioja",
+    "latitud": -29.2,
+    "longitud": -67.08333
+  },
+  {
+    "nombre": "Departamento de Velez Sarsfield",
+    "provincia": "La Rioja",
+    "latitud": -30.25,
+    "longitud": -66.66667
+  },
+  {
+    "nombre": "Desiderio Tello",
+    "provincia": "La Rioja",
+    "latitud": -31.21667,
+    "longitud": -66.31667
+  },
+  {
+    "nombre": "El Abra",
+    "provincia": "La Rioja",
+    "latitud": -31.48333,
+    "longitud": -66.28333
+  },
+  {
+    "nombre": "El Alto",
+    "provincia": "La Rioja",
+    "latitud": -30.36667,
+    "longitud": -66.58333
+  },
+  {
+    "nombre": "El Barreal",
+    "provincia": "La Rioja",
+    "latitud": -29.63333,
+    "longitud": -66.1
+  },
+  {
+    "nombre": "El Cantadero",
+    "provincia": "La Rioja",
+    "latitud": -29.21667,
+    "longitud": -66.86667
+  },
+  {
+    "nombre": "El Chiflon",
+    "provincia": "La Rioja",
+    "latitud": -30.21667,
+    "longitud": -67.55
+  },
+  {
+    "nombre": "El Cienago",
+    "provincia": "La Rioja",
+    "latitud": -30.73333,
+    "longitud": -66.23333
+  },
+  {
+    "nombre": "El Condado",
+    "provincia": "La Rioja",
+    "latitud": -28.96667,
+    "longitud": -68.18333
+  },
+  {
+    "nombre": "El Estanquito",
+    "provincia": "La Rioja",
+    "latitud": -29.41667,
+    "longitud": -66.53333
+  },
+  {
+    "nombre": "El Horno",
+    "provincia": "La Rioja",
+    "latitud": -28.75,
+    "longitud": -68.16667
+  },
+  {
+    "nombre": "El Huaco",
+    "provincia": "La Rioja",
+    "latitud": -29.16667,
+    "longitud": -67.1
+  },
+  {
+    "nombre": "El Parron",
+    "provincia": "La Rioja",
+    "latitud": -29.08333,
+    "longitud": -67.63333
+  },
+  {
+    "nombre": "El Pique",
+    "provincia": "La Rioja",
+    "latitud": -29.15,
+    "longitud": -67.65
+  },
+  {
+    "nombre": "El Potrerillo",
+    "provincia": "La Rioja",
+    "latitud": -28.41667,
+    "longitud": -67.68333
+  },
+  {
+    "nombre": "El Quemado",
+    "provincia": "La Rioja",
+    "latitud": -29.56667,
+    "longitud": -65.6
+  },
+  {
+    "nombre": "El Quimilo",
+    "provincia": "La Rioja",
+    "latitud": -29.91667,
+    "longitud": -65.36667
+  },
+  {
+    "nombre": "El Sunchal",
+    "provincia": "La Rioja",
+    "latitud": -29.78333,
+    "longitud": -66.61667
+  },
+  {
+    "nombre": "EstacionMazan",
+    "provincia": "La Rioja",
+    "latitud": -28.66667,
+    "longitud": -66.48333
+  },
+  {
+    "nombre": "Famatina",
+    "provincia": "La Rioja",
+    "latitud": -28.91667,
+    "longitud": -67.51667
+  },
+  {
+    "nombre": "Guajal",
+    "provincia": "La Rioja",
+    "latitud": -30.68333,
+    "longitud": -66.68333
+  },
+  {
+    "nombre": "Guandacol",
+    "provincia": "La Rioja",
+    "latitud": -29.52361,
+    "longitud": -68.55778
+  },
+  {
+    "nombre": "Ismiango",
+    "provincia": "La Rioja",
+    "latitud": -29.05,
+    "longitud": -66.98333
+  },
+  {
+    "nombre": "Jague",
+    "provincia": "La Rioja",
+    "latitud": -28.63333,
+    "longitud": -68.4
+  },
+  {
+    "nombre": "Jumeal",
+    "provincia": "La Rioja",
+    "latitud": -29.78333,
+    "longitud": -67.93333
+  },
+  {
+    "nombre": "La Aguadita",
+    "provincia": "La Rioja",
+    "latitud": -31.08333,
+    "longitud": -66.31667
+  },
+  {
+    "nombre": "La Banda",
+    "provincia": "La Rioja",
+    "latitud": -28.83333,
+    "longitud": -68.16667
+  },
+  {
+    "nombre": "La Diana",
+    "provincia": "La Rioja",
+    "latitud": -31.36667,
+    "longitud": -66.25
+  },
+  {
+    "nombre": "La Encrucijada",
+    "provincia": "La Rioja",
+    "latitud": -28.95,
+    "longitud": -67.7
+  },
+  {
+    "nombre": "La Jarilla",
+    "provincia": "La Rioja",
+    "latitud": -31.45,
+    "longitud": -66.38333
+  },
+  {
+    "nombre": "La Lata",
+    "provincia": "La Rioja",
+    "latitud": -29.26667,
+    "longitud": -66.08333
+  },
+  {
+    "nombre": "La Mesada",
+    "provincia": "La Rioja",
+    "latitud": -28.86667,
+    "longitud": -67.55
+  },
+  {
+    "nombre": "La Represa",
+    "provincia": "La Rioja",
+    "latitud": -31.83333,
+    "longitud": -66.55
+  },
+  {
+    "nombre": "La Rioja",
+    "provincia": "La Rioja",
+    "latitud": -29.43333,
+    "longitud": -66.85
+  },
+  {
+    "nombre": "La Sepultura",
+    "provincia": "La Rioja",
+    "latitud": -28.46667,
+    "longitud": -69.11667
+  },
+  {
+    "nombre": "Las Cloacas",
+    "provincia": "La Rioja",
+    "latitud": -29.4,
+    "longitud": -66.78333
+  },
+  {
+    "nombre": "Las Padercitas",
+    "provincia": "La Rioja",
+    "latitud": -29.41667,
+    "longitud": -66.93333
+  },
+  {
+    "nombre": "Llisca",
+    "provincia": "La Rioja",
+    "latitud": -31.03333,
+    "longitud": -66.78333
+  },
+  {
+    "nombre": "Loma Larga",
+    "provincia": "La Rioja",
+    "latitud": -30.78333,
+    "longitud": -66.53333
+  },
+  {
+    "nombre": "Los Aguirres",
+    "provincia": "La Rioja",
+    "latitud": -30.8,
+    "longitud": -66.1
+  },
+  {
+    "nombre": "Los Baldecitos",
+    "provincia": "La Rioja",
+    "latitud": -30.21667,
+    "longitud": -67.68333
+  },
+  {
+    "nombre": "Los Baldes",
+    "provincia": "La Rioja",
+    "latitud": -30.13333,
+    "longitud": -65.88333
+  },
+  {
+    "nombre": "Los Colorados",
+    "provincia": "La Rioja",
+    "latitud": -29.9,
+    "longitud": -67.15
+  },
+  {
+    "nombre": "Los Haivas",
+    "provincia": "La Rioja",
+    "latitud": -29.48333,
+    "longitud": -66.7
+  },
+  {
+    "nombre": "Los Mogotes Colorados",
+    "provincia": "La Rioja",
+    "latitud": -30.06667,
+    "longitud": -67.13333
+  },
+  {
+    "nombre": "Los Palacios",
+    "provincia": "La Rioja",
+    "latitud": -29.36667,
+    "longitud": -68.18333
+  },
+  {
+    "nombre": "Los Robles",
+    "provincia": "La Rioja",
+    "latitud": -28.41667,
+    "longitud": -67.11667
+  },
+  {
+    "nombre": "Los Sarmientos",
+    "provincia": "La Rioja",
+    "latitud": -29.15,
+    "longitud": -67.48333
+  },
+  {
+    "nombre": "Los Tambillos",
+    "provincia": "La Rioja",
+    "latitud": -29.41667,
+    "longitud": -67.83333
+  },
+  {
+    "nombre": "Machigasta",
+    "provincia": "La Rioja",
+    "latitud": -28.55,
+    "longitud": -66.8
+  },
+  {
+    "nombre": "Majadita",
+    "provincia": "La Rioja",
+    "latitud": -28.7,
+    "longitud": -69.13333
+  },
+  {
+    "nombre": "Malanzan",
+    "provincia": "La Rioja",
+    "latitud": -30.8,
+    "longitud": -66.61667
+  },
+  {
+    "nombre": "Malligasta",
+    "provincia": "La Rioja",
+    "latitud": -29.18333,
+    "longitud": -67.43333
+  },
+  {
+    "nombre": "Mascasin",
+    "provincia": "La Rioja",
+    "latitud": -31.36667,
+    "longitud": -66.98333
+  },
+  {
+    "nombre": "Milagro",
+    "provincia": "La Rioja",
+    "latitud": -31.01667,
+    "longitud": -65.98333
+  },
+  {
+    "nombre": "Mina La Mejicana",
+    "provincia": "La Rioja",
+    "latitud": -29.01667,
+    "longitud": -67.76667
+  },
+  {
+    "nombre": "Miraflores",
+    "provincia": "La Rioja",
+    "latitud": -30.75,
+    "longitud": -65.8
+  },
+  {
+    "nombre": "Mollaco",
+    "provincia": "La Rioja",
+    "latitud": -30.96667,
+    "longitud": -66.43333
+  },
+  {
+    "nombre": "Mulas Muertas",
+    "provincia": "La Rioja",
+    "latitud": -28.26667,
+    "longitud": -68.73333
+  },
+  {
+    "nombre": "Nacate",
+    "provincia": "La Rioja",
+    "latitud": -30.85,
+    "longitud": -66.45
+  },
+  {
+    "nombre": "Nacimienta",
+    "provincia": "La Rioja",
+    "latitud": -29.56667,
+    "longitud": -68.61667
+  },
+  {
+    "nombre": "Nacimiento",
+    "provincia": "La Rioja",
+    "latitud": -29.2,
+    "longitud": -68.68333
+  },
+  {
+    "nombre": "Nepes",
+    "provincia": "La Rioja",
+    "latitud": -30.68333,
+    "longitud": -66.01667
+  },
+  {
+    "nombre": "Nonogasta",
+    "provincia": "La Rioja",
+    "latitud": -29.3,
+    "longitud": -67.5
+  },
+  {
+    "nombre": "Noqueve",
+    "provincia": "La Rioja",
+    "latitud": -31.2,
+    "longitud": -66.76667
+  },
+  {
+    "nombre": "Olpas",
+    "provincia": "La Rioja",
+    "latitud": -30.8,
+    "longitud": -66.25
+  },
+  {
+    "nombre": "Olta",
+    "provincia": "La Rioja",
+    "latitud": -30.61667,
+    "longitud": -66.26667
+  },
+  {
+    "nombre": "Pagancillo",
+    "provincia": "La Rioja",
+    "latitud": -29.56667,
+    "longitud": -68.05
+  },
+  {
+    "nombre": "Paganzo",
+    "provincia": "La Rioja",
+    "latitud": -30.23333,
+    "longitud": -67.31667
+  },
+  {
+    "nombre": "Paso San Isidro",
+    "provincia": "La Rioja",
+    "latitud": -29.45,
+    "longitud": -68.18333
+  },
+  {
+    "nombre": "Pastillos",
+    "provincia": "La Rioja",
+    "latitud": -28.4,
+    "longitud": -69.1
+  },
+  {
+    "nombre": "Pastos Largos",
+    "provincia": "La Rioja",
+    "latitud": -28.5,
+    "longitud": -69.13333
+  },
+  {
+    "nombre": "Patquia",
+    "provincia": "La Rioja",
+    "latitud": -30.05,
+    "longitud": -66.88333
+  },
+  {
+    "nombre": "PatquiaViejo",
+    "provincia": "La Rioja",
+    "latitud": -30.15,
+    "longitud": -66.95
+  },
+  {
+    "nombre": "Pinchas",
+    "provincia": "La Rioja",
+    "latitud": -28.95,
+    "longitud": -66.95
+  },
+  {
+    "nombre": "Pituil",
+    "provincia": "La Rioja",
+    "latitud": -28.56667,
+    "longitud": -67.45
+  },
+  {
+    "nombre": "Plaza Vieja",
+    "provincia": "La Rioja",
+    "latitud": -28.98333,
+    "longitud": -67.51667
+  },
+  {
+    "nombre": "Portezuelo de Arce",
+    "provincia": "La Rioja",
+    "latitud": -31.9,
+    "longitud": -66.35
+  },
+  {
+    "nombre": "Pozo de Avila",
+    "provincia": "La Rioja",
+    "latitud": -29.36667,
+    "longitud": -66.78333
+  },
+  {
+    "nombre": "Pozo de Piedra",
+    "provincia": "La Rioja",
+    "latitud": -31.8,
+    "longitud": -66.23333
+  },
+  {
+    "nombre": "Provincia de La Rioja",
+    "provincia": "La Rioja",
+    "latitud": -30.0,
+    "longitud": -67.5
+  },
+  {
+    "nombre": "Pucha Pucha",
+    "provincia": "La Rioja",
+    "latitud": -28.34944,
+    "longitud": -69.21722
+  },
+  {
+    "nombre": "Punta de los Llanos",
+    "provincia": "La Rioja",
+    "latitud": -30.15,
+    "longitud": -66.55
+  },
+  {
+    "nombre": "Ranchillos",
+    "provincia": "La Rioja",
+    "latitud": -28.58333,
+    "longitud": -69.18333
+  },
+  {
+    "nombre": "Retamal",
+    "provincia": "La Rioja",
+    "latitud": -30.76667,
+    "longitud": -66.8
+  },
+  {
+    "nombre": "Rodeo Vacas",
+    "provincia": "La Rioja",
+    "latitud": -29.06667,
+    "longitud": -67.65
+  },
+  {
+    "nombre": "Salicas",
+    "provincia": "La Rioja",
+    "latitud": -28.36667,
+    "longitud": -67.05
+  },
+  {
+    "nombre": "San Blas de los Sauces",
+    "provincia": "La Rioja",
+    "latitud": -28.4,
+    "longitud": -67.08333
+  },
+  {
+    "nombre": "Sanogasta",
+    "provincia": "La Rioja",
+    "latitud": -29.3,
+    "longitud": -67.6
+  },
+  {
+    "nombre": "Santa Clara",
+    "provincia": "La Rioja",
+    "latitud": -29.55,
+    "longitud": -68.51667
+  },
+  {
+    "nombre": "Santa Florentina",
+    "provincia": "La Rioja",
+    "latitud": -29.13333,
+    "longitud": -67.56667
+  },
+  {
+    "nombre": "Schaqui",
+    "provincia": "La Rioja",
+    "latitud": -28.46667,
+    "longitud": -67.13333
+  },
+  {
+    "nombre": "Sierra Brava",
+    "provincia": "La Rioja",
+    "latitud": -29.85,
+    "longitud": -65.8
+  },
+  {
+    "nombre": "Solca",
+    "provincia": "La Rioja",
+    "latitud": -30.76667,
+    "longitud": -66.46667
+  },
+  {
+    "nombre": "Suriyaco",
+    "provincia": "La Rioja",
+    "latitud": -28.55,
+    "longitud": -67.06667
+  },
+  {
+    "nombre": "Talamuyuna",
+    "provincia": "La Rioja",
+    "latitud": -29.71667,
+    "longitud": -66.85
+  },
+  {
+    "nombre": "Talva",
+    "provincia": "La Rioja",
+    "latitud": -30.7,
+    "longitud": -66.2
+  },
+  {
+    "nombre": "Tama",
+    "provincia": "La Rioja",
+    "latitud": -30.51667,
+    "longitud": -66.53333
+  },
+  {
+    "nombre": "Tambillos",
+    "provincia": "La Rioja",
+    "latitud": -29.1,
+    "longitud": -68.71667
+  },
+  {
+    "nombre": "Tasquin",
+    "provincia": "La Rioja",
+    "latitud": -30.61667,
+    "longitud": -66.51667
+  },
+  {
+    "nombre": "Termas Santa Teresita",
+    "provincia": "La Rioja",
+    "latitud": -28.6,
+    "longitud": -66.53333
+  },
+  {
+    "nombre": "Tiaguas",
+    "provincia": "La Rioja",
+    "latitud": -29.05,
+    "longitud": -68.1
+  },
+  {
+    "nombre": "Tilimuqui",
+    "provincia": "La Rioja",
+    "latitud": -29.13333,
+    "longitud": -67.41667
+  },
+  {
+    "nombre": "Totoral",
+    "provincia": "La Rioja",
+    "latitud": -31.71667,
+    "longitud": -66.41667
+  },
+  {
+    "nombre": "Tuizon",
+    "provincia": "La Rioja",
+    "latitud": -30.4,
+    "longitud": -66.55
+  },
+  {
+    "nombre": "Tuyubil",
+    "provincia": "La Rioja",
+    "latitud": -28.56667,
+    "longitud": -67.21667
+  },
+  {
+    "nombre": "Ulapes",
+    "provincia": "La Rioja",
+    "latitud": -31.58333,
+    "longitud": -66.25
+  },
+  {
+    "nombre": "Upinango",
+    "provincia": "La Rioja",
+    "latitud": -28.68333,
+    "longitud": -66.78333
+  },
+  {
+    "nombre": "Usno",
+    "provincia": "La Rioja",
+    "latitud": -30.56667,
+    "longitud": -67.53333
+  },
+  {
+    "nombre": "Vichigasta",
+    "provincia": "La Rioja",
+    "latitud": -29.48333,
+    "longitud": -67.51667
+  },
+  {
+    "nombre": "Vilgo",
+    "provincia": "La Rioja",
+    "latitud": -29.95,
+    "longitud": -67.36667
+  },
+  {
+    "nombre": "Villa Casana",
+    "provincia": "La Rioja",
+    "latitud": -31.1,
+    "longitud": -66.55
+  },
+  {
+    "nombre": "Villa Castelli",
+    "provincia": "La Rioja",
+    "latitud": -29.0,
+    "longitud": -68.18333
+  },
+  {
+    "nombre": "Villa Mazan",
+    "provincia": "La Rioja",
+    "latitud": -28.66667,
+    "longitud": -66.56667
+  },
+  {
+    "nombre": "Villa Santa Rita de Catuna",
+    "provincia": "La Rioja",
+    "latitud": -30.95,
+    "longitud": -66.21667
+  },
+  {
+    "nombre": "Vinchina",
+    "provincia": "La Rioja",
+    "latitud": -28.76667,
+    "longitud": -68.16667
+  }
+]

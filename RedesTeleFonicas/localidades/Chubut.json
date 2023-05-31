@@ -1,0 +1,698 @@
+[
+    {
+    "nombre": "Aldea",
+    "provincia": "Chubut",
+    "latitud": -45.55,
+    "longitud": -71.53333
+    },
+    {
+    "nombre": "Aldea Apeleg",
+    "provincia": "Chubut",
+    "latitud": -44.68333,
+    "longitud": -70.85
+    },
+    {
+    "nombre": "Alto Rio Mayo",
+    "provincia": "Chubut",
+    "latitud": -45.55,
+    "longitud": -71.3
+    },
+    {
+    "nombre": "Alto Rio Senguer",
+    "provincia": "Chubut",
+    "latitud": -45.03333,
+    "longitud": -70.83333
+    },
+    {
+    "nombre": "Apeleg",
+    "provincia": "Chubut",
+    "latitud": -44.6,
+    "longitud": -71.1
+    },
+    {
+    "nombre": "Astra",
+    "provincia": "Chubut",
+    "latitud": -45.73333,
+    "longitud": -67.5
+    },
+    {
+    "nombre": "Baggle",
+    "provincia": "Chubut",
+    "latitud": -43.16667,
+    "longitud": -71.66667
+    },
+    {
+    "nombre": "Barranca",
+    "provincia": "Chubut",
+    "latitud": -43.51667,
+    "longitud": -71.25
+    },
+    {
+    "nombre": "Barrio Laprida",
+    "provincia": "Chubut",
+    "latitud": -45.81667,
+    "longitud": -67.51667
+    },
+    {
+    "nombre": "Barrio Saavedra",
+    "provincia": "Chubut",
+    "latitud": -45.83333,
+    "longitud": -67.53333
+    },
+    {
+    "nombre": "Boca de la Zanja",
+    "provincia": "Chubut",
+    "latitud": -43.35,
+    "longitud": -65.93333
+    },
+    {
+    "nombre": "Buen Pasto",
+    "provincia": "Chubut",
+    "latitud": -45.08333,
+    "longitud": -69.46667
+    },
+    {
+    "nombre": "Buenos Aires Chico",
+    "provincia": "Chubut",
+    "latitud": -42.08333,
+    "longitud": -71.23333
+    },
+    {
+    "nombre": "Camarones",
+    "provincia": "Chubut",
+    "latitud": -44.8,
+    "longitud": -65.7
+    },
+    {
+    "nombre": "Campamento Primero",
+    "provincia": "Chubut",
+    "latitud": -45.66667,
+    "longitud": -67.63333
+    },
+    {
+    "nombre": "Campamento Villegas",
+    "provincia": "Chubut",
+    "latitud": -43.43333,
+    "longitud": -66.13333
+    },
+    {
+    "nombre": "Canquel",
+    "provincia": "Chubut",
+    "latitud": -44.53333,
+    "longitud": -68.36667
+    },
+    {
+    "nombre": "Carrenleufu",
+    "provincia": "Chubut",
+    "latitud": -43.58333,
+    "longitud": -71.7
+    },
+    {
+    "nombre": "Centro Rio Mayo",
+    "provincia": "Chubut",
+    "latitud": -45.58333,
+    "longitud": -71.1
+    },
+    {
+    "nombre": "Cerro Dragon",
+    "provincia": "Chubut",
+    "latitud": -45.71667,
+    "longitud": -68.33333
+    },
+    {
+    "nombre": "Chasico",
+    "provincia": "Chubut",
+    "latitud": -42.81667,
+    "longitud": -66.83333
+    },
+    {
+    "nombre": "Cholila",
+    "provincia": "Chubut",
+    "latitud": -42.51667,
+    "longitud": -71.45
+    },
+    {
+    "nombre": "Colan Conhue",
+    "provincia": "Chubut",
+    "latitud": -43.26667,
+    "longitud": -69.85
+    },
+    {
+    "nombre": "Comodoro Rivadavia",
+    "provincia": "Chubut",
+    "latitud": -45.86667,
+    "longitud": -67.5
+    },
+    {
+    "nombre": "Deparamento de Languineo",
+    "provincia": "Chubut",
+    "latitud": -43.33333,
+    "longitud": -70.66667
+    },
+    {
+    "nombre": "Departamento de Biedma",
+    "provincia": "Chubut",
+    "latitud": -42.41667,
+    "longitud": -65.0
+    },
+    {
+    "nombre": "Departamento de Cushamen",
+    "provincia": "Chubut",
+    "latitud": -42.5,
+    "longitud": -70.83333
+    },
+    {
+    "nombre": "Departamento de Escalante",
+    "provincia": "Chubut",
+    "latitud": -45.33333,
+    "longitud": -67.33333
+    },
+    {
+    "nombre": "Departamento de Florentino Ameghino",
+    "provincia": "Chubut",
+    "latitud": -44.41667,
+    "longitud": -66.16667
+    },
+    {
+    "nombre": "Departamento de Futaleufu",
+    "provincia": "Chubut",
+    "latitud": -43.08333,
+    "longitud": -71.41667
+    },
+    {
+    "nombre": "Departamento de Gaiman",
+    "provincia": "Chubut",
+    "latitud": -43.33333,
+    "longitud": -66.33333
+    },
+    {
+    "nombre": "Departamento de Gastre",
+    "provincia": "Chubut",
+    "latitud": -42.83333,
+    "longitud": -68.66667
+    },
+    {
+    "nombre": "Departamento de Martires",
+    "provincia": "Chubut",
+    "latitud": -43.83333,
+    "longitud": -67.16667
+    },
+    {
+    "nombre": "Departamento de Paso de Indios",
+    "provincia": "Chubut",
+    "latitud": -44.0,
+    "longitud": -68.83333
+    },
+    {
+    "nombre": "Departamento de Rawson",
+    "provincia": "Chubut",
+    "latitud": -43.33333,
+    "longitud": -65.0
+    },
+    {
+    "nombre": "Departamento de Rio Senguerr",
+    "provincia": "Chubut",
+    "latitud": -45.33333,
+    "longitud": -70.83333
+    },
+    {
+    "nombre": "Departamento de Sarmiento",
+    "provincia": "Chubut",
+    "latitud": -45.33333,
+    "longitud": -69.0
+    },
+    {
+    "nombre": "Departamento de Tehuelches",
+    "provincia": "Chubut",
+    "latitud": -44.25,
+    "longitud": -69.66667
+    },
+    {
+    "nombre": "Departamento de Telsen",
+    "provincia": "Chubut",
+    "latitud": -42.41667,
+    "longitud": -67.16667
+    },
+    {
+    "nombre": "Diadema Argentina",
+    "provincia": "Chubut",
+    "latitud": -45.76667,
+    "longitud": -67.66667
+    },
+    {
+    "nombre": "Doctor Ricardo Rojas",
+    "provincia": "Chubut",
+    "latitud": -45.56667,
+    "longitud": -71.06667
+    },
+    {
+    "nombre": "El Coyte",
+    "provincia": "Chubut",
+    "latitud": -45.21667,
+    "longitud": -71.3
+    },
+    {
+    "nombre": "El Junco",
+    "provincia": "Chubut",
+    "latitud": -42.35,
+    "longitud": -66.2
+    },
+    {
+    "nombre": "El Mayoco",
+    "provincia": "Chubut",
+    "latitud": -42.65,
+    "longitud": -70.98333
+    },
+    {
+    "nombre": "El Mirasol",
+    "provincia": "Chubut",
+    "latitud": -43.36667,
+    "longitud": -67.7
+    },
+    {
+    "nombre": "El Molle",
+    "provincia": "Chubut",
+    "latitud": -43.81667,
+    "longitud": -69.91667
+    },
+    {
+    "nombre": "El Tordillo",
+    "provincia": "Chubut",
+    "latitud": -45.88333,
+    "longitud": -68.08333
+    },
+    {
+    "nombre": "El Trebol",
+    "provincia": "Chubut",
+    "latitud": -45.81667,
+    "longitud": -67.93333
+    },
+    {
+    "nombre": "Elena",
+    "provincia": "Chubut",
+    "latitud": -43.7,
+    "longitud": -71.26667
+    },
+    {
+    "nombre": "Esquel",
+    "provincia": "Chubut",
+    "latitud": -42.9,
+    "longitud": -71.31667
+    },
+    {
+    "nombre": "Estancia Valle Huemules",
+    "provincia": "Chubut",
+    "latitud": -45.95,
+    "longitud": -71.51667
+    },
+    {
+    "nombre": "Ferrocarrilera",
+    "provincia": "Chubut",
+    "latitud": -45.8,
+    "longitud": -67.41667
+    },
+    {
+    "nombre": "Foyel",
+    "provincia": "Chubut",
+    "latitud": -43.6,
+    "longitud": -71.03333
+    },
+    {
+    "nombre": "Gaiman",
+    "provincia": "Chubut",
+    "latitud": -43.28333,
+    "longitud": -65.48333
+    },
+    {
+    "nombre": "Garayalde",
+    "provincia": "Chubut",
+    "latitud": -44.66667,
+    "longitud": -66.66667
+    },
+    {
+    "nombre": "Gasoducto",
+    "provincia": "Chubut",
+    "latitud": -45.78333,
+    "longitud": -67.51667
+    },
+    {
+    "nombre": "Gastre",
+    "provincia": "Chubut",
+    "latitud": -42.28333,
+    "longitud": -69.23333
+    },
+    {
+    "nombre": "General Mosconi",
+    "provincia": "Chubut",
+    "latitud": -45.7,
+    "longitud": -67.46667
+    },
+    {
+    "nombre": "Gobernador Costa",
+    "provincia": "Chubut",
+    "latitud": -44.06667,
+    "longitud": -70.58333
+    },
+    {
+    "nombre": "Golondrinas",
+    "provincia": "Chubut",
+    "latitud": -42.01667,
+    "longitud": -71.51667
+    },
+    {
+    "nombre": "Gualjaina",
+    "provincia": "Chubut",
+    "latitud": -42.7,
+    "longitud": -70.5
+    },
+    {
+    "nombre": "Hoyo de Epuyen",
+    "provincia": "Chubut",
+    "latitud": -42.06667,
+    "longitud": -71.5
+    },
+    {
+    "nombre": "Jose de San Martin",
+    "provincia": "Chubut",
+    "latitud": -44.03333,
+    "longitud": -70.48333
+    },
+    {
+    "nombre": "Kilometro 162",
+    "provincia": "Chubut",
+    "latitud": -45.78333,
+    "longitud": -68.75
+    },
+    {
+    "nombre": "La Aldea",
+    "provincia": "Chubut",
+    "latitud": -43.11667,
+    "longitud": -71.55
+    },
+    {
+    "nombre": "La Carlota",
+    "provincia": "Chubut",
+    "latitud": -43.53333,
+    "longitud": -70.73333
+    },
+    {
+    "nombre": "La Martha",
+    "provincia": "Chubut",
+    "latitud": -43.01667,
+    "longitud": -70.05
+    },
+    {
+    "nombre": "Lago Blanco",
+    "provincia": "Chubut",
+    "latitud": -45.91667,
+    "longitud": -71.25
+    },
+    {
+    "nombre": "Lago Futalaufquen",
+    "provincia": "Chubut",
+    "latitud": -42.88333,
+    "longitud": -71.61667
+    },
+    {
+    "nombre": "Languineo",
+    "provincia": "Chubut",
+    "latitud": -43.3,
+    "longitud": -70.41667
+    },
+    {
+    "nombre": "Las Chapas",
+    "provincia": "Chubut",
+    "latitud": -43.61667,
+    "longitud": -66.58333
+    },
+    {
+    "nombre": "Las Plumas",
+    "provincia": "Chubut",
+    "latitud": -43.71667,
+    "longitud": -67.25
+    },
+    {
+    "nombre": "Las Pulgas",
+    "provincia": "Chubut",
+    "latitud": -45.43333,
+    "longitud": -69.63333
+    },
+    {
+    "nombre": "Leleque",
+    "provincia": "Chubut",
+    "latitud": -42.38333,
+    "longitud": -71.05
+    },
+    {
+    "nombre": "Lepa",
+    "provincia": "Chubut",
+    "latitud": -42.56667,
+    "longitud": -71.05
+    },
+    {
+    "nombre": "Los Cipreses",
+    "provincia": "Chubut",
+    "latitud": -43.16667,
+    "longitud": -71.75
+    },
+    {
+    "nombre": "Los Tamariscos",
+    "provincia": "Chubut",
+    "latitud": -45.03333,
+    "longitud": -70.03333
+    },
+    {
+    "nombre": "Malaspina",
+    "provincia": "Chubut",
+    "latitud": -44.93333,
+    "longitud": -66.9
+    },
+    {
+    "nombre": "Manantial Rosales",
+    "provincia": "Chubut",
+    "latitud": -45.83333,
+    "longitud": -67.53333
+    },
+    {
+    "nombre": "Manantiales Behr",
+    "provincia": "Chubut",
+    "latitud": -45.68333,
+    "longitud": -67.51667
+    },
+    {
+    "nombre": "Nieto",
+    "provincia": "Chubut",
+    "latitud": -43.33333,
+    "longitud": -70.9
+    },
+    {
+    "nombre": "Nueva Lubecka",
+    "provincia": "Chubut",
+    "latitud": -44.53333,
+    "longitud": -70.4
+    },
+    {
+    "nombre": "Pampa de Agnia",
+    "provincia": "Chubut",
+    "latitud": -43.75,
+    "longitud": -69.66667
+    },
+    {
+    "nombre": "Pampa del Castillo",
+    "provincia": "Chubut",
+    "latitud": -45.8,
+    "longitud": -68.08333
+    },
+    {
+    "nombre": "Paso de Indios",
+    "provincia": "Chubut",
+    "latitud": -43.86667,
+    "longitud": -69.1
+    },
+    {
+    "nombre": "Paso Guenguel",
+    "provincia": "Chubut",
+    "latitud": -45.96667,
+    "longitud": -70.6
+    },
+    {
+    "nombre": "Pastos Blancos",
+    "provincia": "Chubut",
+    "latitud": -45.3,
+    "longitud": -70.5
+    },
+    {
+    "nombre": "Petroquimica",
+    "provincia": "Chubut",
+    "latitud": -45.8,
+    "longitud": -67.53333
+    },
+    {
+    "nombre": "Pico de Salamanca",
+    "provincia": "Chubut",
+    "latitud": -45.41667,
+    "longitud": -67.41667
+    },
+    {
+    "nombre": "Playa Union",
+    "provincia": "Chubut",
+    "latitud": -43.31667,
+    "longitud": -65.03333
+    },
+    {
+    "nombre": "Provincia del Chubut",
+    "provincia": "Chubut",
+    "latitud": -44.0,
+    "longitud": -69.0
+    },
+    {
+    "nombre": "Puerto Lobos",
+    "provincia": "Chubut",
+    "latitud": -42.0,
+    "longitud": -65.1
+    },
+    {
+    "nombre": "Puerto Madryn",
+    "provincia": "Chubut",
+    "latitud": -42.76667,
+    "longitud": -65.05
+    },
+    {
+    "nombre": "Puerto Piramides",
+    "provincia": "Chubut",
+    "latitud": -42.56667,
+    "longitud": -64.28333
+    },
+    {
+    "nombre": "Puerto Rawson",
+    "provincia": "Chubut",
+    "latitud": -43.33333,
+    "longitud": -65.05
+    },
+    {
+    "nombre": "Puerto Visser",
+    "provincia": "Chubut",
+    "latitud": -45.4,
+    "longitud": -67.13333
+    },
+    {
+    "nombre": "Punta Delgada",
+    "provincia": "Chubut",
+    "latitud": -42.76667,
+    "longitud": -63.63333
+    },
+    {
+    "nombre": "Putrachoique",
+    "provincia": "Chubut",
+    "latitud": -43.81667,
+    "longitud": -70.91667
+    },
+    {
+    "nombre": "Resting Ali",
+    "provincia": "Chubut",
+    "latitud": -45.8,
+    "longitud": -67.41667
+    },
+    {
+    "nombre": "Rio Mayo",
+    "provincia": "Chubut",
+    "latitud": -45.68333,
+    "longitud": -70.26667
+    },
+    {
+    "nombre": "Rio Pico",
+    "provincia": "Chubut",
+    "latitud": -44.21667,
+    "longitud": -71.35
+    },
+    {
+    "nombre": "Rio Puelo",
+    "provincia": "Chubut",
+    "latitud": -42.11667,
+    "longitud": -71.71667
+    },
+    {
+    "nombre": "Roberto M Ortiz",
+    "provincia": "Chubut",
+    "latitud": -45.81667,
+    "longitud": -67.43333
+    },
+    {
+    "nombre": "Sacanana",
+    "provincia": "Chubut",
+    "latitud": -42.5,
+    "longitud": -68.51667
+    },
+    {
+    "nombre": "Sierra Chata",
+    "provincia": "Chubut",
+    "latitud": -42.75,
+    "longitud": -66.0
+    },
+    {
+    "nombre": "Sierra Nevada",
+    "provincia": "Chubut",
+    "latitud": -44.68333,
+    "longitud": -69.63333
+    },
+    {
+    "nombre": "Sierra Rosada",
+    "provincia": "Chubut",
+    "latitud": -43.11667,
+    "longitud": -67.33333
+    },
+    {
+    "nombre": "Talagapa",
+    "provincia": "Chubut",
+    "latitud": -42.23333,
+    "longitud": -68.28333
+    },
+    {
+    "nombre": "Talleres",
+    "provincia": "Chubut",
+    "latitud": -45.81667,
+    "longitud": -67.45
+    },
+    {
+    "nombre": "Tecka",
+    "provincia": "Chubut",
+    "latitud": -43.48333,
+    "longitud": -70.8
+    },
+    {
+    "nombre": "Telsen",
+    "provincia": "Chubut",
+    "latitud": -42.4,
+    "longitud": -66.95
+    },
+    {
+    "nombre": "Trelew",
+    "provincia": "Chubut",
+    "latitud": -43.24895,
+    "longitud": -65.30505
+    },
+    {
+    "nombre": "Trevelin",
+    "provincia": "Chubut",
+    "latitud": -43.06667,
+    "longitud": -71.46667
+    },
+    {
+    "nombre": "Uzcudun",
+    "provincia": "Chubut",
+    "latitud": -44.21667,
+    "longitud": -66.15
+    },
+    {
+    "nombre": "Valle",
+    "provincia": "Chubut",
+    "latitud": -45.8,
+    "longitud": -67.48333
+    },
+    {
+    "nombre": "Vargas",
+    "provincia": "Chubut",
+    "latitud": -43.71667,
+    "longitud": -71.21667
+    }
+]

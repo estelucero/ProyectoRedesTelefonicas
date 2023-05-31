@@ -1,0 +1,1574 @@
+[
+    {
+    "nombre": "Alcaraz",
+    "provincia": "Entre Rios",
+    "latitud": -31.46667,
+    "longitud": -59.6
+    },
+    {
+    "nombre": "Aldea Asuncion",
+    "provincia": "Entre Rios",
+    "latitud": -32.81667,
+    "longitud": -59.23333
+    },
+    {
+    "nombre": "Aldea Brasilera",
+    "provincia": "Entre Rios",
+    "latitud": -31.9,
+    "longitud": -60.6
+    },
+    {
+    "nombre": "Aldea Brava",
+    "provincia": "Entre Rios",
+    "latitud": -32.11667,
+    "longitud": -60.58333
+    },
+    {
+    "nombre": "Aldea Camarero",
+    "provincia": "Entre Rios",
+    "latitud": -32.06667,
+    "longitud": -60.46667
+    },
+    {
+    "nombre": "Aldea Chavez",
+    "provincia": "Entre Rios",
+    "latitud": -32.13333,
+    "longitud": -60.33333
+    },
+    {
+    "nombre": "Aldea Cuatro Casas",
+    "provincia": "Entre Rios",
+    "latitud": -32.0,
+    "longitud": -60.38333
+    },
+    {
+    "nombre": "Aldea Cuesta",
+    "provincia": "Entre Rios",
+    "latitud": -31.95,
+    "longitud": -60.25
+    },
+    {
+    "nombre": "Aldea El Chaleco",
+    "provincia": "Entre Rios",
+    "latitud": -31.98333,
+    "longitud": -60.35
+    },
+    {
+    "nombre": "Aldea Jacobi",
+    "provincia": "Entre Rios",
+    "latitud": -32.05,
+    "longitud": -60.28333
+    },
+    {
+    "nombre": "Aldea Jaroslawky",
+    "provincia": "Entre Rios",
+    "latitud": -31.85,
+    "longitud": -60.16667
+    },
+    {
+    "nombre": "Aldea Kranevitter",
+    "provincia": "Entre Rios",
+    "latitud": -32.03333,
+    "longitud": -60.45
+    },
+    {
+    "nombre": "Aldea Krapzenthal",
+    "provincia": "Entre Rios",
+    "latitud": -31.95,
+    "longitud": -60.48333
+    },
+    {
+    "nombre": "Aldea Maria Luisa",
+    "provincia": "Entre Rios",
+    "latitud": -31.88333,
+    "longitud": -60.38333
+    },
+    {
+    "nombre": "Aldea Nueva",
+    "provincia": "Entre Rios",
+    "latitud": -31.86667,
+    "longitud": -60.23333
+    },
+    {
+    "nombre": "Aldea Protestante",
+    "provincia": "Entre Rios",
+    "latitud": -32.03333,
+    "longitud": -60.56667
+    },
+    {
+    "nombre": "Aldea Reffino",
+    "provincia": "Entre Rios",
+    "latitud": -31.8,
+    "longitud": -60.23333
+    },
+    {
+    "nombre": "Aldea Repollo",
+    "provincia": "Entre Rios",
+    "latitud": -32.01667,
+    "longitud": -60.35
+    },
+    {
+    "nombre": "Aldea Ruiz Moreno",
+    "provincia": "Entre Rios",
+    "latitud": -32.13333,
+    "longitud": -60.38333
+    },
+    {
+    "nombre": "Aldea Salto",
+    "provincia": "Entre Rios",
+    "latitud": -31.95,
+    "longitud": -60.55
+    },
+    {
+    "nombre": "Aldea San Alfonso",
+    "provincia": "Entre Rios",
+    "latitud": -32.13333,
+    "longitud": -60.4
+    },
+    {
+    "nombre": "Aldea San Antonio",
+    "provincia": "Entre Rios",
+    "latitud": -32.63333,
+    "longitud": -58.7
+    },
+    {
+    "nombre": "Aldea San Francisco",
+    "provincia": "Entre Rios",
+    "latitud": -31.95,
+    "longitud": -60.63333
+    },
+    {
+    "nombre": "Aldea San Gregorio",
+    "provincia": "Entre Rios",
+    "latitud": -32.03333,
+    "longitud": -59.01667
+    },
+    {
+    "nombre": "Aldea San Jose",
+    "provincia": "Entre Rios",
+    "latitud": -32.01667,
+    "longitud": -60.31667
+    },
+    {
+    "nombre": "Aldea San Juan",
+    "provincia": "Entre Rios",
+    "latitud": -32.7,
+    "longitud": -58.76667
+    },
+    {
+    "nombre": "Aldea San Miguel",
+    "provincia": "Entre Rios",
+    "latitud": -32.08333,
+    "longitud": -60.16667
+    },
+    {
+    "nombre": "Aldea San Simon",
+    "provincia": "Entre Rios",
+    "latitud": -32.41667,
+    "longitud": -59.51667
+    },
+    {
+    "nombre": "Aldea Santa Celia",
+    "provincia": "Entre Rios",
+    "latitud": -32.66667,
+    "longitud": -58.73333
+    },
+    {
+    "nombre": "Aldea Santa Maria",
+    "provincia": "Entre Rios",
+    "latitud": -31.6,
+    "longitud": -60.0
+    },
+    {
+    "nombre": "Aldea Santa Rosa",
+    "provincia": "Entre Rios",
+    "latitud": -32.01667,
+    "longitud": -60.23333
+    },
+    {
+    "nombre": "Aldea Spatzenkutter",
+    "provincia": "Entre Rios",
+    "latitud": -31.91667,
+    "longitud": -61.58333
+    },
+    {
+    "nombre": "Algarrobitos",
+    "provincia": "Entre Rios",
+    "latitud": -32.28333,
+    "longitud": -60.06667
+    },
+    {
+    "nombre": "Altamirano Norte",
+    "provincia": "Entre Rios",
+    "latitud": -32.06667,
+    "longitud": -59.18333
+    },
+    {
+    "nombre": "Altamirano Sur",
+    "provincia": "Entre Rios",
+    "latitud": -32.08333,
+    "longitud": -59.16667
+    },
+    {
+    "nombre": "Ampacama",
+    "provincia": "Entre Rios",
+    "latitud": -30.95,
+    "longitud": -67.93333
+    },
+    {
+    "nombre": "Antelo",
+    "provincia": "Entre Rios",
+    "latitud": -32.53333,
+    "longitud": -60.05
+    },
+    {
+    "nombre": "Antonio Tomas",
+    "provincia": "Entre Rios",
+    "latitud": -31.41667,
+    "longitud": -60.05
+    },
+    {
+    "nombre": "Aranguren",
+    "provincia": "Entre Rios",
+    "latitud": -32.25,
+    "longitud": -60.16667
+    },
+    {
+    "nombre": "Arroyo Baru",
+    "provincia": "Entre Rios",
+    "latitud": -31.86667,
+    "longitud": -58.43333
+    },
+    {
+    "nombre": "Atencio",
+    "provincia": "Entre Rios",
+    "latitud": -30.63333,
+    "longitud": -58.63333
+    },
+    {
+    "nombre": "Bajada Grande",
+    "provincia": "Entre Rios",
+    "latitud": -31.71667,
+    "longitud": -60.58333
+    },
+    {
+    "nombre": "Basavilbaso",
+    "provincia": "Entre Rios",
+    "latitud": -32.36667,
+    "longitud": -58.88333
+    },
+    {
+    "nombre": "Betbeder",
+    "provincia": "Entre Rios",
+    "latitud": -32.38333,
+    "longitud": -59.91667
+    },
+    {
+    "nombre": "Bovril",
+    "provincia": "Entre Rios",
+    "latitud": -31.35,
+    "longitud": -59.43333
+    },
+    {
+    "nombre": "Brazo Largo",
+    "provincia": "Entre Rios",
+    "latitud": -33.78333,
+    "longitud": -58.6
+    },
+    {
+    "nombre": "Calabacillas",
+    "provincia": "Entre Rios",
+    "latitud": -31.5,
+    "longitud": -58.13333
+    },
+    {
+    "nombre": "Camps",
+    "provincia": "Entre Rios",
+    "latitud": -32.11667,
+    "longitud": -60.23333
+    },
+    {
+    "nombre": "Canada de las Ovejas",
+    "provincia": "Entre Rios",
+    "latitud": -32.16667,
+    "longitud": -58.55
+    },
+    {
+    "nombre": "Ceibas",
+    "provincia": "Entre Rios",
+    "latitud": -33.43333,
+    "longitud": -58.75
+    },
+    {
+    "nombre": "Chajari",
+    "provincia": "Entre Rios",
+    "latitud": -30.76667,
+    "longitud": -57.98333
+    },
+    {
+    "nombre": "Chanar",
+    "provincia": "Entre Rios",
+    "latitud": -31.2,
+    "longitud": -58.7
+    },
+    {
+    "nombre": "Clara",
+    "provincia": "Entre Rios",
+    "latitud": -31.83333,
+    "longitud": -58.81667
+    },
+    {
+    "nombre": "Clodomiro Ledesma",
+    "provincia": "Entre Rios",
+    "latitud": -31.56667,
+    "longitud": -58.16667
+    },
+    {
+    "nombre": "Colon",
+    "provincia": "Entre Rios",
+    "latitud": -32.21667,
+    "longitud": -58.13333
+    },
+    {
+    "nombre": "Colonia Avigdor",
+    "provincia": "Entre Rios",
+    "latitud": -31.18333,
+    "longitud": -59.41667
+    },
+    {
+    "nombre": "Colonia del Carmen",
+    "provincia": "Entre Rios",
+    "latitud": -32.01667,
+    "longitud": -58.43333
+    },
+    {
+    "nombre": "Colonia Delta",
+    "provincia": "Entre Rios",
+    "latitud": -33.78333,
+    "longitud": -58.91667
+    },
+    {
+    "nombre": "Colonia El Sauce",
+    "provincia": "Entre Rios",
+    "latitud": -32.61667,
+    "longitud": -58.45
+    },
+    {
+    "nombre": "Colonia Elia",
+    "provincia": "Entre Rios",
+    "latitud": -32.66667,
+    "longitud": -58.31667
+    },
+    {
+    "nombre": "Colonia Gobernador Basavilbaso",
+    "provincia": "Entre Rios",
+    "latitud": -32.76667,
+    "longitud": -58.9
+    },
+    {
+    "nombre": "Colonia Hambis",
+    "provincia": "Entre Rios",
+    "latitud": -31.98333,
+    "longitud": -58.55
+    },
+    {
+    "nombre": "Colonia Hocker",
+    "provincia": "Entre Rios",
+    "latitud": -32.08333,
+    "longitud": -58.33333
+    },
+    {
+    "nombre": "Colonia Hughes",
+    "provincia": "Entre Rios",
+    "latitud": -32.3,
+    "longitud": -58.31667
+    },
+    {
+    "nombre": "Colonia Merau",
+    "provincia": "Entre Rios",
+    "latitud": -31.83333,
+    "longitud": -60.3
+    },
+    {
+    "nombre": "Colonia Nueva Alemania",
+    "provincia": "Entre Rios",
+    "latitud": -31.6,
+    "longitud": -58.81667
+    },
+    {
+    "nombre": "Colonia Sagastume",
+    "provincia": "Entre Rios",
+    "latitud": -32.05,
+    "longitud": -58.75
+    },
+    {
+    "nombre": "Colonia San Miguel",
+    "provincia": "Entre Rios",
+    "latitud": -32.05,
+    "longitud": -58.53333
+    },
+    {
+    "nombre": "Colonia San Vicente",
+    "provincia": "Entre Rios",
+    "latitud": -31.78333,
+    "longitud": -58.76667
+    },
+    {
+    "nombre": "Colonia Velez",
+    "provincia": "Entre Rios",
+    "latitud": -31.86667,
+    "longitud": -58.85
+    },
+    {
+    "nombre": "Concepcion del Uruguay",
+    "provincia": "Entre Rios",
+    "latitud": -32.48333,
+    "longitud": -58.22833
+    },
+    {
+    "nombre": "Concordia",
+    "provincia": "Entre Rios",
+    "latitud": -31.4,
+    "longitud": -58.03333
+    },
+    {
+    "nombre": "Conscripto Bernardi",
+    "provincia": "Entre Rios",
+    "latitud": -31.05,
+    "longitud": -59.08333
+    },
+    {
+    "nombre": "Costa Grande",
+    "provincia": "Entre Rios",
+    "latitud": -32.15,
+    "longitud": -60.51667
+    },
+    {
+    "nombre": "Crespo",
+    "provincia": "Entre Rios",
+    "latitud": -32.03333,
+    "longitud": -60.31667
+    },
+    {
+    "nombre": "Cuchilla Redonda",
+    "provincia": "Entre Rios",
+    "latitud": -33.08333,
+    "longitud": -59.11667
+    },
+    {
+    "nombre": "Curtiembre",
+    "provincia": "Entre Rios",
+    "latitud": -31.46667,
+    "longitud": -60.16667
+    },
+    {
+    "nombre": "Dapartamento de Diamante",
+    "provincia": "Entre Rios",
+    "latitud": -32.16667,
+    "longitud": -60.41667
+    },
+    {
+    "nombre": "Departamento de Colon",
+    "provincia": "Entre Rios",
+    "latitud": -31.83333,
+    "longitud": -58.33333
+    },
+    {
+    "nombre": "Departamento de Concordia",
+    "provincia": "Entre Rios",
+    "latitud": -31.08333,
+    "longitud": -58.66667
+    },
+    {
+    "nombre": "Departamento de Federacion",
+    "provincia": "Entre Rios",
+    "latitud": -30.66667,
+    "longitud": -58.33333
+    },
+    {
+    "nombre": "Departamento de Feliciano",
+    "provincia": "Entre Rios",
+    "latitud": -30.41667,
+    "longitud": -58.75
+    },
+    {
+    "nombre": "Departamento de Gualeguay",
+    "provincia": "Entre Rios",
+    "latitud": -33.0,
+    "longitud": -59.58333
+    },
+    {
+    "nombre": "Departamento de Gualeguaychu",
+    "provincia": "Entre Rios",
+    "latitud": -33.25,
+    "longitud": -59.0
+    },
+    {
+    "nombre": "Departamento de La Paz",
+    "provincia": "Entre Rios",
+    "latitud": -30.83333,
+    "longitud": -59.41667
+    },
+    {
+    "nombre": "Departamento de Nogoya",
+    "provincia": "Entre Rios",
+    "latitud": -32.16667,
+    "longitud": -59.83333
+    },
+    {
+    "nombre": "Departamento de Parana",
+    "provincia": "Entre Rios",
+    "latitud": -31.66667,
+    "longitud": -60.0
+    },
+    {
+    "nombre": "Departamento de Tala",
+    "provincia": "Entre Rios",
+    "latitud": -32.33333,
+    "longitud": -59.33333
+    },
+    {
+    "nombre": "Departamento de Uruguay",
+    "provincia": "Entre Rios",
+    "latitud": -32.58333,
+    "longitud": -58.58333
+    },
+    {
+    "nombre": "Departamento de Victoria",
+    "provincia": "Entre Rios",
+    "latitud": -32.66667,
+    "longitud": -60.33333
+    },
+    {
+    "nombre": "Departamento de Villaguay",
+    "provincia": "Entre Rios",
+    "latitud": -31.58333,
+    "longitud": -59.0
+    },
+    {
+    "nombre": "Dominguez",
+    "provincia": "Entre Rios",
+    "latitud": -31.98333,
+    "longitud": -58.96667
+    },
+    {
+    "nombre": "Don Cristobal",
+    "provincia": "Entre Rios",
+    "latitud": -32.06667,
+    "longitud": -60.0
+    },
+    {
+    "nombre": "Don Roberto",
+    "provincia": "Entre Rios",
+    "latitud": -31.1,
+    "longitud": -58.26667
+    },
+    {
+    "nombre": "Dos Hermanas",
+    "provincia": "Entre Rios",
+    "latitud": -33.16667,
+    "longitud": -58.9
+    },
+    {
+    "nombre": "Durazno",
+    "provincia": "Entre Rios",
+    "latitud": -31.98333,
+    "longitud": -59.28333
+    },
+    {
+    "nombre": "Echague",
+    "provincia": "Entre Rios",
+    "latitud": -32.4,
+    "longitud": -59.26667
+    },
+    {
+    "nombre": "El Brillante",
+    "provincia": "Entre Rios",
+    "latitud": -32.18333,
+    "longitud": -58.21667
+    },
+    {
+    "nombre": "El Cimarron",
+    "provincia": "Entre Rios",
+    "latitud": -30.96667,
+    "longitud": -59.0
+    },
+    {
+    "nombre": "El Ombu",
+    "provincia": "Entre Rios",
+    "latitud": -30.46667,
+    "longitud": -59.25
+    },
+    {
+    "nombre": "El Pingo",
+    "provincia": "Entre Rios",
+    "latitud": -31.58333,
+    "longitud": -59.88333
+    },
+    {
+    "nombre": "El Pueblito",
+    "provincia": "Entre Rios",
+    "latitud": -32.16667,
+    "longitud": -59.81667
+    },
+    {
+    "nombre": "El Redomon",
+    "provincia": "Entre Rios",
+    "latitud": -31.1,
+    "longitud": -58.3
+    },
+    {
+    "nombre": "Enrique Carbo",
+    "provincia": "Entre Rios",
+    "latitud": -33.13333,
+    "longitud": -59.23333
+    },
+    {
+    "nombre": "Escrina",
+    "provincia": "Entre Rios",
+    "latitud": -32.58333,
+    "longitud": -58.9
+    },
+    {
+    "nombre": "Estacas",
+    "provincia": "Entre Rios",
+    "latitud": -30.56667,
+    "longitud": -59.25
+    },
+    {
+    "nombre": "Fabrica Colon",
+    "provincia": "Entre Rios",
+    "latitud": -32.15,
+    "longitud": -58.18333
+    },
+    {
+    "nombre": "Faustino M Parera",
+    "provincia": "Entre Rios",
+    "latitud": -32.8,
+    "longitud": -58.88333
+    },
+    {
+    "nombre": "Febre",
+    "provincia": "Entre Rios",
+    "latitud": -32.46667,
+    "longitud": -59.93333
+    },
+    {
+    "nombre": "Federacion",
+    "provincia": "Entre Rios",
+    "latitud": -31.0,
+    "longitud": -57.9
+    },
+    {
+    "nombre": "Federal",
+    "provincia": "Entre Rios",
+    "latitud": -30.95,
+    "longitud": -58.8
+    },
+    {
+    "nombre": "Fortuna",
+    "provincia": "Entre Rios",
+    "latitud": -30.61667,
+    "longitud": -58.38333
+    },
+    {
+    "nombre": "General Almada",
+    "provincia": "Entre Rios",
+    "latitud": -32.83333,
+    "longitud": -58.8
+    },
+    {
+    "nombre": "General Campos",
+    "provincia": "Entre Rios",
+    "latitud": -31.53333,
+    "longitud": -58.4
+    },
+    {
+    "nombre": "General Galarza",
+    "provincia": "Entre Rios",
+    "latitud": -32.71667,
+    "longitud": -59.4
+    },
+    {
+    "nombre": "General Guemes",
+    "provincia": "Entre Rios",
+    "latitud": -31.4,
+    "longitud": -59.95
+    },
+    {
+    "nombre": "General Pax",
+    "provincia": "Entre Rios",
+    "latitud": -31.53333,
+    "longitud": -60.05
+    },
+    {
+    "nombre": "General Racedo",
+    "provincia": "Entre Rios",
+    "latitud": -31.96667,
+    "longitud": -60.4
+    },
+    {
+    "nombre": "General Ramirez",
+    "provincia": "Entre Rios",
+    "latitud": -32.18333,
+    "longitud": -60.2
+    },
+    {
+    "nombre": "Gilbert",
+    "provincia": "Entre Rios",
+    "latitud": -32.53333,
+    "longitud": -58.93333
+    },
+    {
+    "nombre": "Gobernador Mansilla",
+    "provincia": "Entre Rios",
+    "latitud": -32.55,
+    "longitud": -59.36667
+    },
+    {
+    "nombre": "Gobernador Racedo",
+    "provincia": "Entre Rios",
+    "latitud": -31.56667,
+    "longitud": -60.06667
+    },
+    {
+    "nombre": "Gobernador Sola",
+    "provincia": "Entre Rios",
+    "latitud": -32.33333,
+    "longitud": -59.36667
+    },
+    {
+    "nombre": "Gonzalez Calderon",
+    "provincia": "Entre Rios",
+    "latitud": -32.98333,
+    "longitud": -59.41667
+    },
+    {
+    "nombre": "Gualeguay",
+    "provincia": "Entre Rios",
+    "latitud": -33.14444,
+    "longitud": -59.32917
+    },
+    {
+    "nombre": "Gualeguaychu",
+    "provincia": "Entre Rios",
+    "latitud": -33.01028,
+    "longitud": -58.51417
+    },
+    {
+    "nombre": "Guardamonte",
+    "provincia": "Entre Rios",
+    "latitud": -32.08333,
+    "longitud": -59.3
+    },
+    {
+    "nombre": "Hasenkamp",
+    "provincia": "Entre Rios",
+    "latitud": -31.51667,
+    "longitud": -59.85
+    },
+    {
+    "nombre": "Hernandez",
+    "provincia": "Entre Rios",
+    "latitud": -32.35,
+    "longitud": -60.03333
+    },
+    {
+    "nombre": "Herrera",
+    "provincia": "Entre Rios",
+    "latitud": -32.43333,
+    "longitud": -58.63333
+    },
+    {
+    "nombre": "Ibicuy",
+    "provincia": "Entre Rios",
+    "latitud": -33.73333,
+    "longitud": -59.16667
+    },
+    {
+    "nombre": "Ingeniero Miguel Sajaroff",
+    "provincia": "Entre Rios",
+    "latitud": -31.95,
+    "longitud": -58.85
+    },
+    {
+    "nombre": "Irazusta",
+    "provincia": "Entre Rios",
+    "latitud": -32.93333,
+    "longitud": -58.95
+    },
+    {
+    "nombre": "Isthilart",
+    "provincia": "Entre Rios",
+    "latitud": -31.18333,
+    "longitud": -57.96667
+    },
+    {
+    "nombre": "Juan Garat",
+    "provincia": "Entre Rios",
+    "latitud": -30.3,
+    "longitud": -58.45
+    },
+    {
+    "nombre": "Jubileo",
+    "provincia": "Entre Rios",
+    "latitud": -31.73333,
+    "longitud": -58.61667
+    },
+    {
+    "nombre": "La Argentina",
+    "provincia": "Entre Rios",
+    "latitud": -33.55,
+    "longitud": -59.31667
+    },
+    {
+    "nombre": "La Barraca",
+    "provincia": "Entre Rios",
+    "latitud": -32.96667,
+    "longitud": -58.18333
+    },
+    {
+    "nombre": "La Calandria",
+    "provincia": "Entre Rios",
+    "latitud": -30.8,
+    "longitud": -58.65
+    },
+    {
+    "nombre": "La Capilla",
+    "provincia": "Entre Rios",
+    "latitud": -32.6,
+    "longitud": -58.86667
+    },
+    {
+    "nombre": "La Celina",
+    "provincia": "Entre Rios",
+    "latitud": -31.61667,
+    "longitud": -60.33333
+    },
+    {
+    "nombre": "La Clarita",
+    "provincia": "Entre Rios",
+    "latitud": -31.96667,
+    "longitud": -58.4
+    },
+    {
+    "nombre": "La Criolla",
+    "provincia": "Entre Rios",
+    "latitud": -31.26667,
+    "longitud": -58.1
+    },
+    {
+    "nombre": "La Esmeralda",
+    "provincia": "Entre Rios",
+    "latitud": -30.3,
+    "longitud": -58.65
+    },
+    {
+    "nombre": "La Granja",
+    "provincia": "Entre Rios",
+    "latitud": -31.05,
+    "longitud": -58.48333
+    },
+    {
+    "nombre": "La Hierra",
+    "provincia": "Entre Rios",
+    "latitud": -30.45,
+    "longitud": -58.38333
+    },
+    {
+    "nombre": "La Llave",
+    "provincia": "Entre Rios",
+    "latitud": -32.53333,
+    "longitud": -59.58333
+    },
+    {
+    "nombre": "La Picada",
+    "provincia": "Entre Rios",
+    "latitud": -31.73333,
+    "longitud": -60.3
+    },
+    {
+    "nombre": "La Querencia",
+    "provincia": "Entre Rios",
+    "latitud": -31.06667,
+    "longitud": -58.45
+    },
+    {
+    "nombre": "La Suiza",
+    "provincia": "Entre Rios",
+    "latitud": -32.16667,
+    "longitud": -58.53333
+    },
+    {
+    "nombre": "Larroque",
+    "provincia": "Entre Rios",
+    "latitud": -33.03333,
+    "longitud": -59.01667
+    },
+    {
+    "nombre": "Las Delicias",
+    "provincia": "Entre Rios",
+    "latitud": -31.93333,
+    "longitud": -60.41667
+    },
+    {
+    "nombre": "Las Garzas",
+    "provincia": "Entre Rios",
+    "latitud": -31.41667,
+    "longitud": -59.75
+    },
+    {
+    "nombre": "Las Guachas",
+    "provincia": "Entre Rios",
+    "latitud": -32.46667,
+    "longitud": -59.16667
+    },
+    {
+    "nombre": "Las Mulitas",
+    "provincia": "Entre Rios",
+    "latitud": -30.36667,
+    "longitud": -58.98333
+    },
+    {
+    "nombre": "Lazo",
+    "provincia": "Entre Rios",
+    "latitud": -32.86667,
+    "longitud": -59.43333
+    },
+    {
+    "nombre": "Libaros",
+    "provincia": "Entre Rios",
+    "latitud": -32.26667,
+    "longitud": -58.91667
+    },
+    {
+    "nombre": "Liebig",
+    "provincia": "Entre Rios",
+    "latitud": -32.13333,
+    "longitud": -58.26667
+    },
+    {
+    "nombre": "Los Charruas",
+    "provincia": "Entre Rios",
+    "latitud": -31.16667,
+    "longitud": -58.18333
+    },
+    {
+    "nombre": "Los Conquistadores",
+    "provincia": "Entre Rios",
+    "latitud": -30.6,
+    "longitud": -58.46667
+    },
+    {
+    "nombre": "Lucas Gonzalez",
+    "provincia": "Entre Rios",
+    "latitud": -32.4,
+    "longitud": -59.55
+    },
+    {
+    "nombre": "Lucas Norte",
+    "provincia": "Entre Rios",
+    "latitud": -31.48333,
+    "longitud": -58.83333
+    },
+    {
+    "nombre": "Lucas Sur",
+    "provincia": "Entre Rios",
+    "latitud": -31.65,
+    "longitud": -59.01667
+    },
+    {
+    "nombre": "Macia",
+    "provincia": "Entre Rios",
+    "latitud": -32.16667,
+    "longitud": -59.38333
+    },
+    {
+    "nombre": "Mandisovi",
+    "provincia": "Entre Rios",
+    "latitud": -30.91667,
+    "longitud": -58.03333
+    },
+    {
+    "nombre": "Martiniano Leguizamon",
+    "provincia": "Entre Rios",
+    "latitud": -31.91667,
+    "longitud": -58.31667
+    },
+    {
+    "nombre": "Mazaruca",
+    "provincia": "Entre Rios",
+    "latitud": -33.58333,
+    "longitud": -59.26667
+    },
+    {
+    "nombre": "Medanos",
+    "provincia": "Entre Rios",
+    "latitud": -33.4,
+    "longitud": -59.08333
+    },
+    {
+    "nombre": "Minones",
+    "provincia": "Entre Rios",
+    "latitud": -30.7,
+    "longitud": -58.58333
+    },
+    {
+    "nombre": "Mojones Norte",
+    "provincia": "Entre Rios",
+    "latitud": -31.48333,
+    "longitud": -59.21667
+    },
+    {
+    "nombre": "Mojones Sur",
+    "provincia": "Entre Rios",
+    "latitud": -31.65,
+    "longitud": -59.2
+    },
+    {
+    "nombre": "Molino Doll",
+    "provincia": "Entre Rios",
+    "latitud": -32.33333,
+    "longitud": -60.41667
+    },
+    {
+    "nombre": "Montiel",
+    "provincia": "Entre Rios",
+    "latitud": -30.5,
+    "longitud": -59.13333
+    },
+    {
+    "nombre": "Montoya",
+    "provincia": "Entre Rios",
+    "latitud": -32.6,
+    "longitud": -59.83333
+    },
+    {
+    "nombre": "Moreira",
+    "provincia": "Entre Rios",
+    "latitud": -31.1,
+    "longitud": -58.6
+    },
+    {
+    "nombre": "Nogoya",
+    "provincia": "Entre Rios",
+    "latitud": -32.39972,
+    "longitud": -59.79944
+    },
+    {
+    "nombre": "Nueva Escocia",
+    "provincia": "Entre Rios",
+    "latitud": -31.65,
+    "longitud": -58.01667
+    },
+    {
+    "nombre": "Nueva Vizcaya",
+    "provincia": "Entre Rios",
+    "latitud": -30.96667,
+    "longitud": -58.6
+    },
+    {
+    "nombre": "Olegario V Andrade",
+    "provincia": "Entre Rios",
+    "latitud": -32.33333,
+    "longitud": -59.45
+    },
+    {
+    "nombre": "Oro Verde",
+    "provincia": "Entre Rios",
+    "latitud": -31.81667,
+    "longitud": -60.51667
+    },
+    {
+    "nombre": "Osvaldo Magnasco",
+    "provincia": "Entre Rios",
+    "latitud": -31.31667,
+    "longitud": -58.05
+    },
+    {
+    "nombre": "Palacio San Jose",
+    "provincia": "Entre Rios",
+    "latitud": -32.43333,
+    "longitud": -58.53333
+    },
+    {
+    "nombre": "Palavecino",
+    "provincia": "Entre Rios",
+    "latitud": -32.93333,
+    "longitud": -58.65
+    },
+    {
+    "nombre": "Palmar",
+    "provincia": "Entre Rios",
+    "latitud": -31.98333,
+    "longitud": -58.3
+    },
+    {
+    "nombre": "Palo a Pique",
+    "provincia": "Entre Rios",
+    "latitud": -30.43333,
+    "longitud": -58.9
+    },
+    {
+    "nombre": "Paraje El Cerro",
+    "provincia": "Entre Rios",
+    "latitud": -32.51667,
+    "longitud": -61.28333
+    },
+    {
+    "nombre": "Paraje La Tacuara",
+    "provincia": "Entre Rios",
+    "latitud": -32.68333,
+    "longitud": -60.0
+    },
+    {
+    "nombre": "Parana",
+    "provincia": "Entre Rios",
+    "latitud": -31.73333,
+    "longitud": -60.53333
+    },
+    {
+    "nombre": "Paranacito",
+    "provincia": "Entre Rios",
+    "latitud": -33.68333,
+    "longitud": -59.01667
+    },
+    {
+    "nombre": "Paso de la Arena",
+    "provincia": "Entre Rios",
+    "latitud": -31.75,
+    "longitud": -60.16667
+    },
+    {
+    "nombre": "Paso de la Laguna",
+    "provincia": "Entre Rios",
+    "latitud": -31.8,
+    "longitud": -59.16667
+    },
+    {
+    "nombre": "Pastor Britos",
+    "provincia": "Entre Rios",
+    "latitud": -32.76667,
+    "longitud": -58.88333
+    },
+    {
+    "nombre": "Pedernal",
+    "provincia": "Entre Rios",
+    "latitud": -31.66667,
+    "longitud": -58.23333
+    },
+    {
+    "nombre": "Perdices",
+    "provincia": "Entre Rios",
+    "latitud": -33.3,
+    "longitud": -58.73333
+    },
+    {
+    "nombre": "Piedras Blancas",
+    "provincia": "Entre Rios",
+    "latitud": -31.18333,
+    "longitud": -59.93333
+    },
+    {
+    "nombre": "Primero de Mayo",
+    "provincia": "Entre Rios",
+    "latitud": -32.26667,
+    "longitud": -68.41667
+    },
+    {
+    "nombre": "Pronunciamiento",
+    "provincia": "Entre Rios",
+    "latitud": -32.35,
+    "longitud": -58.43333
+    },
+    {
+    "nombre": "Provincia de Entre Rios",
+    "provincia": "Entre Rios",
+    "latitud": -32.0,
+    "longitud": -59.0
+    },
+    {
+    "nombre": "Pueblo Brugo",
+    "provincia": "Entre Rios",
+    "latitud": -31.38333,
+    "longitud": -60.1
+    },
+    {
+    "nombre": "Pueblo Ferre",
+    "provincia": "Entre Rios",
+    "latitud": -31.45,
+    "longitud": -58.43333
+    },
+    {
+    "nombre": "Pueblo General Paz",
+    "provincia": "Entre Rios",
+    "latitud": -31.51667,
+    "longitud": -60.03333
+    },
+    {
+    "nombre": "Pueblo Leguizamon",
+    "provincia": "Entre Rios",
+    "latitud": -31.11667,
+    "longitud": -59.85
+    },
+    {
+    "nombre": "Pueblo Moreno",
+    "provincia": "Entre Rios",
+    "latitud": -31.58333,
+    "longitud": -60.06667
+    },
+    {
+    "nombre": "Pueblo Moscas",
+    "provincia": "Entre Rios",
+    "latitud": -32.08333,
+    "longitud": -58.95
+    },
+    {
+    "nombre": "Pueblo Nuevo",
+    "provincia": "Entre Rios",
+    "latitud": -32.38333,
+    "longitud": -58.86667
+    },
+    {
+    "nombre": "Puerto Algarrobo",
+    "provincia": "Entre Rios",
+    "latitud": -30.63333,
+    "longitud": -59.58333
+    },
+    {
+    "nombre": "Puerto Campichuelo",
+    "provincia": "Entre Rios",
+    "latitud": -32.7,
+    "longitud": -58.18333
+    },
+    {
+    "nombre": "Puerto Constanza",
+    "provincia": "Entre Rios",
+    "latitud": -33.83333,
+    "longitud": -59.05
+    },
+    {
+    "nombre": "Puerto Cupalen",
+    "provincia": "Entre Rios",
+    "latitud": -32.75,
+    "longitud": -58.2
+    },
+    {
+    "nombre": "Puerto Ibicuy",
+    "provincia": "Entre Rios",
+    "latitud": -33.73333,
+    "longitud": -59.18333
+    },
+    {
+    "nombre": "Puerto Landa",
+    "provincia": "Entre Rios",
+    "latitud": -33.35,
+    "longitud": -58.46667
+    },
+    {
+    "nombre": "Puerto Ruiz",
+    "provincia": "Entre Rios",
+    "latitud": -33.21667,
+    "longitud": -59.38333
+    },
+    {
+    "nombre": "Puerto Yerua",
+    "provincia": "Entre Rios",
+    "latitud": -31.53333,
+    "longitud": -58.03333
+    },
+    {
+    "nombre": "Puiggari",
+    "provincia": "Entre Rios",
+    "latitud": -32.05,
+    "longitud": -60.45
+    },
+    {
+    "nombre": "Raices",
+    "provincia": "Entre Rios",
+    "latitud": -31.9,
+    "longitud": -59.26667
+    },
+    {
+    "nombre": "Rincon de Nogoya",
+    "provincia": "Entre Rios",
+    "latitud": -32.75,
+    "longitud": -59.93333
+    },
+    {
+    "nombre": "Rincon del Doll",
+    "provincia": "Entre Rios",
+    "latitud": -32.43333,
+    "longitud": -60.38333
+    },
+    {
+    "nombre": "Rocamora",
+    "provincia": "Entre Rios",
+    "latitud": -32.35,
+    "longitud": -58.96667
+    },
+    {
+    "nombre": "Rosario del Tala",
+    "provincia": "Entre Rios",
+    "latitud": -32.29806,
+    "longitud": -59.13944
+    },
+    {
+    "nombre": "Salto Grande",
+    "provincia": "Entre Rios",
+    "latitud": -31.21667,
+    "longitud": -57.93333
+    },
+    {
+    "nombre": "San Gustavo",
+    "provincia": "Entre Rios",
+    "latitud": -30.68333,
+    "longitud": -59.38333
+    },
+    {
+    "nombre": "San Jaime",
+    "provincia": "Entre Rios",
+    "latitud": -30.33333,
+    "longitud": -58.31667
+    },
+    {
+    "nombre": "San Jorge",
+    "provincia": "Entre Rios",
+    "latitud": -31.85,
+    "longitud": -58.75
+    },
+    {
+    "nombre": "San Jose de Feliciano",
+    "provincia": "Entre Rios",
+    "latitud": -30.38333,
+    "longitud": -58.75
+    },
+    {
+    "nombre": "San Ramon",
+    "provincia": "Entre Rios",
+    "latitud": -30.83333,
+    "longitud": -58.25
+    },
+    {
+    "nombre": "San Salvador",
+    "provincia": "Entre Rios",
+    "latitud": -31.61667,
+    "longitud": -58.5
+    },
+    {
+    "nombre": "San Victor",
+    "provincia": "Entre Rios",
+    "latitud": -30.48333,
+    "longitud": -59.01667
+    },
+    {
+    "nombre": "Santa Ana",
+    "provincia": "Entre Rios",
+    "latitud": -30.9,
+    "longitud": -57.93333
+    },
+    {
+    "nombre": "Santa Anita",
+    "provincia": "Entre Rios",
+    "latitud": -32.16667,
+    "longitud": -58.78333
+    },
+    {
+    "nombre": "Santa Elena",
+    "provincia": "Entre Rios",
+    "latitud": -30.95,
+    "longitud": -59.8
+    },
+    {
+    "nombre": "Sauce de Luna",
+    "provincia": "Entre Rios",
+    "latitud": -31.23333,
+    "longitud": -59.21667
+    },
+    {
+    "nombre": "Sauce Pinto",
+    "provincia": "Entre Rios",
+    "latitud": -31.83333,
+    "longitud": -60.36667
+    },
+    {
+    "nombre": "Segui",
+    "provincia": "Entre Rios",
+    "latitud": -31.95,
+    "longitud": -60.13333
+    },
+    {
+    "nombre": "Sosa",
+    "provincia": "Entre Rios",
+    "latitud": -31.73333,
+    "longitud": -59.91667
+    },
+    {
+    "nombre": "Strobel",
+    "provincia": "Entre Rios",
+    "latitud": -32.05,
+    "longitud": -60.61667
+    },
+    {
+    "nombre": "Tabossi",
+    "provincia": "Entre Rios",
+    "latitud": -31.8,
+    "longitud": -59.95
+    },
+    {
+    "nombre": "Talita",
+    "provincia": "Entre Rios",
+    "latitud": -32.53333,
+    "longitud": -58.33333
+    },
+    {
+    "nombre": "Tezanos Pinto",
+    "provincia": "Entre Rios",
+    "latitud": -31.86667,
+    "longitud": -60.48333
+    },
+    {
+    "nombre": "Tres Bocas",
+    "provincia": "Entre Rios",
+    "latitud": -32.73333,
+    "longitud": -59.75
+    },
+    {
+    "nombre": "Tres Esquinas",
+    "provincia": "Entre Rios",
+    "latitud": -32.25,
+    "longitud": -59.95
+    },
+    {
+    "nombre": "Ubajay",
+    "provincia": "Entre Rios",
+    "latitud": -31.78333,
+    "longitud": -58.3
+    },
+    {
+    "nombre": "Urdinarrain",
+    "provincia": "Entre Rios",
+    "latitud": -32.68333,
+    "longitud": -58.88333
+    },
+    {
+    "nombre": "Valle Maria",
+    "provincia": "Entre Rios",
+    "latitud": -31.98333,
+    "longitud": -60.58333
+    },
+    {
+    "nombre": "Veinte de Setiembre",
+    "provincia": "Entre Rios",
+    "latitud": -32.38333,
+    "longitud": -59.66667
+    },
+    {
+    "nombre": "Verna",
+    "provincia": "Entre Rios",
+    "latitud": -32.15,
+    "longitud": -58.18333
+    },
+    {
+    "nombre": "Viale",
+    "provincia": "Entre Rios",
+    "latitud": -31.88333,
+    "longitud": -60.01667
+    },
+    {
+    "nombre": "Villa Angelica",
+    "provincia": "Entre Rios",
+    "latitud": -32.93333,
+    "longitud": -60.58333
+    },
+    {
+    "nombre": "Villa del Rosario",
+    "provincia": "Entre Rios",
+    "latitud": -30.78333,
+    "longitud": -57.91667
+    },
+    {
+    "nombre": "Villa Hernandarias",
+    "provincia": "Entre Rios",
+    "latitud": -31.21667,
+    "longitud": -59.98333
+    },
+    {
+    "nombre": "Villa Lila",
+    "provincia": "Entre Rios",
+    "latitud": -33.11667,
+    "longitud": -58.76667
+    },
+    {
+    "nombre": "Villa Mantero",
+    "provincia": "Entre Rios",
+    "latitud": -32.4,
+    "longitud": -58.75
+    },
+    {
+    "nombre": "Villa Maria Grande",
+    "provincia": "Entre Rios",
+    "latitud": -31.65,
+    "longitud": -59.9
+    },
+    {
+    "nombre": "Villa Nueva Montevideo",
+    "provincia": "Entre Rios",
+    "latitud": -32.51667,
+    "longitud": -58.93333
+    },
+    {
+    "nombre": "Villa Paranacito",
+    "provincia": "Entre Rios",
+    "latitud": -33.73333,
+    "longitud": -58.66667
+    },
+    {
+    "nombre": "Villa San Jose",
+    "provincia": "Entre Rios",
+    "latitud": -32.2,
+    "longitud": -58.21667
+    },
+    {
+    "nombre": "Villa San Marcial",
+    "provincia": "Entre Rios",
+    "latitud": -32.16667,
+    "longitud": -58.93333
+    },
+    {
+    "nombre": "Villa Zorraquin",
+    "provincia": "Entre Rios",
+    "latitud": -31.31667,
+    "longitud": -58.03333
+    },
+    {
+    "nombre": "Villaguay",
+    "provincia": "Entre Rios",
+    "latitud": -31.85,
+    "longitud": -59.01667
+    },
+    {
+    "nombre": "Yaros",
+    "provincia": "Entre Rios",
+    "latitud": -31.08333,
+    "longitud": -58.38333
+    },
+    {
+    "nombre": "Yerua",
+    "provincia": "Entre Rios",
+    "latitud": -31.46667,
+    "longitud": -58.26667
+    },
+    {
+    "nombre": "Yeso",
+    "provincia": "Entre Rios",
+    "latitud": -30.93333,
+    "longitud": -59.46667
+    },
+    {
+    "nombre": "Yuqueri",
+    "provincia": "Entre Rios",
+    "latitud": -31.38333,
+    "longitud": -58.11667
+    }
+]

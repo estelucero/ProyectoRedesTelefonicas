@@ -1,0 +1,1070 @@
+[
+  {
+    "nombre": "Algarrobo Grande",
+    "provincia": "San Luis",
+    "latitud": -32.58333,
+    "longitud": -66.78333
+  },
+  {
+    "nombre": "Algarrobos Grandes",
+    "provincia": "San Luis",
+    "latitud": -32.93333,
+    "longitud": -66.56667
+  },
+  {
+    "nombre": "Alsa",
+    "provincia": "San Luis",
+    "latitud": -32.5,
+    "longitud": -65.45
+  },
+  {
+    "nombre": "Alto Lindo",
+    "provincia": "San Luis",
+    "latitud": -32.75,
+    "longitud": -65.25
+  },
+  {
+    "nombre": "Alto Pelado",
+    "provincia": "San Luis",
+    "latitud": -33.83333,
+    "longitud": -66.15
+  },
+  {
+    "nombre": "Arizona",
+    "provincia": "San Luis",
+    "latitud": -35.71667,
+    "longitud": -65.3
+  },
+  {
+    "nombre": "Bagual",
+    "provincia": "San Luis",
+    "latitud": -35.15,
+    "longitud": -65.58333
+  },
+  {
+    "nombre": "Bajada Nueva",
+    "provincia": "San Luis",
+    "latitud": -35.23333,
+    "longitud": -66.51667
+  },
+  {
+    "nombre": "Bajos Hondos",
+    "provincia": "San Luis",
+    "latitud": -33.15,
+    "longitud": -66.35
+  },
+  {
+    "nombre": "Balde",
+    "provincia": "San Luis",
+    "latitud": -33.33333,
+    "longitud": -66.63333
+  },
+  {
+    "nombre": "Balde de Azcurra",
+    "provincia": "San Luis",
+    "latitud": -32.13333,
+    "longitud": -66.76667
+  },
+  {
+    "nombre": "Balde de Escudero",
+    "provincia": "San Luis",
+    "latitud": -32.08333,
+    "longitud": -65.58333
+  },
+  {
+    "nombre": "Balde de los Torres",
+    "provincia": "San Luis",
+    "latitud": -32.03333,
+    "longitud": -66.11667
+  },
+  {
+    "nombre": "Balde de Puertas",
+    "provincia": "San Luis",
+    "latitud": -32.43333,
+    "longitud": -66.21667
+  },
+  {
+    "nombre": "Balde de Quines",
+    "provincia": "San Luis",
+    "latitud": -32.05,
+    "longitud": -65.73333
+  },
+  {
+    "nombre": "Balde Viejo",
+    "provincia": "San Luis",
+    "latitud": -32.11667,
+    "longitud": -66.15
+  },
+  {
+    "nombre": "Barranca Colorada",
+    "provincia": "San Luis",
+    "latitud": -33.25,
+    "longitud": -66.36667
+  },
+  {
+    "nombre": "Batavia",
+    "provincia": "San Luis",
+    "latitud": -34.78333,
+    "longitud": -65.68333
+  },
+  {
+    "nombre": "Beazley",
+    "provincia": "San Luis",
+    "latitud": -33.75,
+    "longitud": -66.65
+  },
+  {
+    "nombre": "Cabeza de Novillo",
+    "provincia": "San Luis",
+    "latitud": -32.38333,
+    "longitud": -65.4
+  },
+  {
+    "nombre": "Caldenadas",
+    "provincia": "San Luis",
+    "latitud": -33.78333,
+    "longitud": -65.83333
+  },
+  {
+    "nombre": "Canada Angosta",
+    "provincia": "San Luis",
+    "latitud": -32.46667,
+    "longitud": -66.55
+  },
+  {
+    "nombre": "Canteras",
+    "provincia": "San Luis",
+    "latitud": -33.15,
+    "longitud": -65.73333
+  },
+  {
+    "nombre": "Carpinteria",
+    "provincia": "San Luis",
+    "latitud": -32.55,
+    "longitud": -66.1
+  },
+  {
+    "nombre": "Casimiro Gomez",
+    "provincia": "San Luis",
+    "latitud": -35.08333,
+    "longitud": -65.11667
+  },
+  {
+    "nombre": "Cazador",
+    "provincia": "San Luis",
+    "latitud": -33.85,
+    "longitud": -66.38333
+  },
+  {
+    "nombre": "Cerro de Oro",
+    "provincia": "San Luis",
+    "latitud": -32.38333,
+    "longitud": -65.0
+  },
+  {
+    "nombre": "Chalanta",
+    "provincia": "San Luis",
+    "latitud": -33.71667,
+    "longitud": -65.96667
+  },
+  {
+    "nombre": "Chimborazo",
+    "provincia": "San Luis",
+    "latitud": -32.45,
+    "longitud": -66.76667
+  },
+  {
+    "nombre": "Chipiscu",
+    "provincia": "San Luis",
+    "latitud": -32.18333,
+    "longitud": -67.03333
+  },
+  {
+    "nombre": "Chischaquita",
+    "provincia": "San Luis",
+    "latitud": -34.16667,
+    "longitud": -66.33333
+  },
+  {
+    "nombre": "Chosmes",
+    "provincia": "San Luis",
+    "latitud": -33.4,
+    "longitud": -66.81667
+  },
+  {
+    "nombre": "Cochequingan",
+    "provincia": "San Luis",
+    "latitud": -35.33333,
+    "longitud": -65.83333
+  },
+  {
+    "nombre": "Colonia Calzada",
+    "provincia": "San Luis",
+    "latitud": -34.81667,
+    "longitud": -66.45
+  },
+  {
+    "nombre": "Colonia Urdaniz",
+    "provincia": "San Luis",
+    "latitud": -35.2,
+    "longitud": -66.21667
+  },
+  {
+    "nombre": "Comandante Granville",
+    "provincia": "San Luis",
+    "latitud": -33.45,
+    "longitud": -65.88333
+  },
+  {
+    "nombre": "Concaran",
+    "provincia": "San Luis",
+    "latitud": -32.56667,
+    "longitud": -65.25
+  },
+  {
+    "nombre": "Conlara",
+    "provincia": "San Luis",
+    "latitud": -32.88333,
+    "longitud": -65.53333
+  },
+  {
+    "nombre": "Coronel Alzogaray",
+    "provincia": "San Luis",
+    "latitud": -33.45,
+    "longitud": -65.55
+  },
+  {
+    "nombre": "Coronel Segovia",
+    "provincia": "San Luis",
+    "latitud": -34.78333,
+    "longitud": -65.91667
+  },
+  {
+    "nombre": "Cramer",
+    "provincia": "San Luis",
+    "latitud": -33.7,
+    "longitud": -65.36667
+  },
+  {
+    "nombre": "Cruz de Cana",
+    "provincia": "San Luis",
+    "latitud": -32.65,
+    "longitud": -66.33333
+  },
+  {
+    "nombre": "Cuatro Esquinas",
+    "provincia": "San Luis",
+    "latitud": -33.26667,
+    "longitud": -66.11667
+  },
+  {
+    "nombre": "Daniel Donovan",
+    "provincia": "San Luis",
+    "latitud": -33.33333,
+    "longitud": -66.23333
+  },
+  {
+    "nombre": "Departamento de Ayacucho",
+    "provincia": "San Luis",
+    "latitud": -32.16667,
+    "longitud": -66.58333
+  },
+  {
+    "nombre": "Departamento de Belgrano",
+    "provincia": "San Luis",
+    "latitud": -32.75,
+    "longitud": -66.75
+  },
+  {
+    "nombre": "Departamento de Chacabuco",
+    "provincia": "San Luis",
+    "latitud": -32.75,
+    "longitud": -65.25
+  },
+  {
+    "nombre": "Departamento de General Pedernera",
+    "provincia": "San Luis",
+    "latitud": -33.83333,
+    "longitud": -65.58333
+  },
+  {
+    "nombre": "Departamento de Gobernador Vicente Dupuy",
+    "provincia": "San Luis",
+    "latitud": -35.33333,
+    "longitud": -65.83333
+  },
+  {
+    "nombre": "Departamento de La Capital",
+    "provincia": "San Luis",
+    "latitud": -34.33333,
+    "longitud": -66.5
+  },
+  {
+    "nombre": "Departamento de Pringles",
+    "provincia": "San Luis",
+    "latitud": -33.08333,
+    "longitud": -65.83333
+  },
+  {
+    "nombre": "Donado",
+    "provincia": "San Luis",
+    "latitud": -33.78333,
+    "longitud": -66.88333
+  },
+  {
+    "nombre": "El Aguila",
+    "provincia": "San Luis",
+    "latitud": -35.06667,
+    "longitud": -66.5
+  },
+  {
+    "nombre": "El Amparo",
+    "provincia": "San Luis",
+    "latitud": -33.18333,
+    "longitud": -66.15
+  },
+  {
+    "nombre": "El Baldecito",
+    "provincia": "San Luis",
+    "latitud": -32.4,
+    "longitud": -66.1
+  },
+  {
+    "nombre": "El Calden",
+    "provincia": "San Luis",
+    "latitud": -31.88333,
+    "longitud": -65.86667
+  },
+  {
+    "nombre": "El Chorrillo",
+    "provincia": "San Luis",
+    "latitud": -33.3,
+    "longitud": -66.26667
+  },
+  {
+    "nombre": "El Hormiguero",
+    "provincia": "San Luis",
+    "latitud": -31.95,
+    "longitud": -65.85
+  },
+  {
+    "nombre": "El Manantial Escondido",
+    "provincia": "San Luis",
+    "latitud": -32.7,
+    "longitud": -65.91667
+  },
+  {
+    "nombre": "El Milagro",
+    "provincia": "San Luis",
+    "latitud": -33.1,
+    "longitud": -66.36667
+  },
+  {
+    "nombre": "El Mollar",
+    "provincia": "San Luis",
+    "latitud": -32.01667,
+    "longitud": -66.8
+  },
+  {
+    "nombre": "El Pantanillo",
+    "provincia": "San Luis",
+    "latitud": -32.33333,
+    "longitud": -65.91667
+  },
+  {
+    "nombre": "El Pimpollo",
+    "provincia": "San Luis",
+    "latitud": -31.88333,
+    "longitud": -65.93333
+  },
+  {
+    "nombre": "El Recuerdo",
+    "provincia": "San Luis",
+    "latitud": -34.66667,
+    "longitud": -66.26667
+  },
+  {
+    "nombre": "El Rodeo",
+    "provincia": "San Luis",
+    "latitud": -35.61667,
+    "longitud": -65.73333
+  },
+  {
+    "nombre": "Eleodoro Lobos",
+    "provincia": "San Luis",
+    "latitud": -33.38333,
+    "longitud": -66.01667
+  },
+  {
+    "nombre": "Finca El Patria",
+    "provincia": "San Luis",
+    "latitud": -34.76667,
+    "longitud": -65.51667
+  },
+  {
+    "nombre": "Fortin El Patria",
+    "provincia": "San Luis",
+    "latitud": -34.76667,
+    "longitud": -65.51667
+  },
+  {
+    "nombre": "Fraga",
+    "provincia": "San Luis",
+    "latitud": -33.5,
+    "longitud": -65.8
+  },
+  {
+    "nombre": "Frisia",
+    "provincia": "San Luis",
+    "latitud": -34.75,
+    "longitud": -65.4
+  },
+  {
+    "nombre": "Gorgonta",
+    "provincia": "San Luis",
+    "latitud": -33.78333,
+    "longitud": -66.73333
+  },
+  {
+    "nombre": "Guanaco Pampa",
+    "provincia": "San Luis",
+    "latitud": -32.55,
+    "longitud": -65.56667
+  },
+  {
+    "nombre": "Huejeda",
+    "provincia": "San Luis",
+    "latitud": -33.83333,
+    "longitud": -66.21667
+  },
+  {
+    "nombre": "Jarilla",
+    "provincia": "San Luis",
+    "latitud": -33.4,
+    "longitud": -67.03333
+  },
+  {
+    "nombre": "Juan Jorba",
+    "provincia": "San Luis",
+    "latitud": -33.61667,
+    "longitud": -65.26667
+  },
+  {
+    "nombre": "Juan Llerena",
+    "provincia": "San Luis",
+    "latitud": -33.26667,
+    "longitud": -65.61667
+  },
+  {
+    "nombre": "Juan W Gez",
+    "provincia": "San Luis",
+    "latitud": -33.38333,
+    "longitud": -66.13333
+  },
+  {
+    "nombre": "Justo Daract",
+    "provincia": "San Luis",
+    "latitud": -33.86667,
+    "longitud": -65.18333
+  },
+  {
+    "nombre": "La Angelina",
+    "provincia": "San Luis",
+    "latitud": -34.38333,
+    "longitud": -65.45
+  },
+  {
+    "nombre": "La Botija",
+    "provincia": "San Luis",
+    "latitud": -32.21667,
+    "longitud": -66.6
+  },
+  {
+    "nombre": "La Brea",
+    "provincia": "San Luis",
+    "latitud": -32.21667,
+    "longitud": -65.88333
+  },
+  {
+    "nombre": "La Canada",
+    "provincia": "San Luis",
+    "latitud": -32.4,
+    "longitud": -66.68333
+  },
+  {
+    "nombre": "La Cocha",
+    "provincia": "San Luis",
+    "latitud": -32.61667,
+    "longitud": -65.45
+  },
+  {
+    "nombre": "La Esquina",
+    "provincia": "San Luis",
+    "latitud": -33.13333,
+    "longitud": -65.38333
+  },
+  {
+    "nombre": "La Huerta",
+    "provincia": "San Luis",
+    "latitud": -32.5,
+    "longitud": -65.38333
+  },
+  {
+    "nombre": "La Irene",
+    "provincia": "San Luis",
+    "latitud": -34.33333,
+    "longitud": -66.25
+  },
+  {
+    "nombre": "La Majada",
+    "provincia": "San Luis",
+    "latitud": -32.53333,
+    "longitud": -66.1
+  },
+  {
+    "nombre": "La Maroma",
+    "provincia": "San Luis",
+    "latitud": -35.2,
+    "longitud": -66.35
+  },
+  {
+    "nombre": "La Melina",
+    "provincia": "San Luis",
+    "latitud": -35.28333,
+    "longitud": -65.75
+  },
+  {
+    "nombre": "La Nelida",
+    "provincia": "San Luis",
+    "latitud": -33.26667,
+    "longitud": -66.38333
+  },
+  {
+    "nombre": "La Pampa Grande",
+    "provincia": "San Luis",
+    "latitud": -32.33333,
+    "longitud": -66.31667
+  },
+  {
+    "nombre": "La Puerta",
+    "provincia": "San Luis",
+    "latitud": -33.0,
+    "longitud": -65.81667
+  },
+  {
+    "nombre": "La Punilla",
+    "provincia": "San Luis",
+    "latitud": -33.13333,
+    "longitud": -65.08333
+  },
+  {
+    "nombre": "La Sala",
+    "provincia": "San Luis",
+    "latitud": -32.43333,
+    "longitud": -65.53333
+  },
+  {
+    "nombre": "La Sena",
+    "provincia": "San Luis",
+    "latitud": -33.86667,
+    "longitud": -66.31667
+  },
+  {
+    "nombre": "La Toma",
+    "provincia": "San Luis",
+    "latitud": -33.05,
+    "longitud": -65.61667
+  },
+  {
+    "nombre": "La Totora",
+    "provincia": "San Luis",
+    "latitud": -32.66667,
+    "longitud": -65.83333
+  },
+  {
+    "nombre": "La Tranca",
+    "provincia": "San Luis",
+    "latitud": -32.35,
+    "longitud": -67.28333
+  },
+  {
+    "nombre": "La Vertiente",
+    "provincia": "San Luis",
+    "latitud": -32.8,
+    "longitud": -65.76667
+  },
+  {
+    "nombre": "Lafinur",
+    "provincia": "San Luis",
+    "latitud": -32.06667,
+    "longitud": -65.33333
+  },
+  {
+    "nombre": "Lagunas Largas",
+    "provincia": "San Luis",
+    "latitud": -32.61667,
+    "longitud": -65.75
+  },
+  {
+    "nombre": "Las Aguadas",
+    "provincia": "San Luis",
+    "latitud": -32.36667,
+    "longitud": -65.5
+  },
+  {
+    "nombre": "Las Barrancas",
+    "provincia": "San Luis",
+    "latitud": -33.61667,
+    "longitud": -66.3
+  },
+  {
+    "nombre": "Las Barranquitas",
+    "provincia": "San Luis",
+    "latitud": -33.18333,
+    "longitud": -66.06667
+  },
+  {
+    "nombre": "Las Canadas",
+    "provincia": "San Luis",
+    "latitud": -32.06667,
+    "longitud": -65.48333
+  },
+  {
+    "nombre": "Las Chimbas",
+    "provincia": "San Luis",
+    "latitud": -32.13333,
+    "longitud": -66.55
+  },
+  {
+    "nombre": "Las Gamas",
+    "provincia": "San Luis",
+    "latitud": -34.23333,
+    "longitud": -66.25
+  },
+  {
+    "nombre": "Las Isletas",
+    "provincia": "San Luis",
+    "latitud": -33.8,
+    "longitud": -65.55
+  },
+  {
+    "nombre": "Las Lagunas",
+    "provincia": "San Luis",
+    "latitud": -32.6,
+    "longitud": -65.55
+  },
+  {
+    "nombre": "Las Palomas",
+    "provincia": "San Luis",
+    "latitud": -32.05,
+    "longitud": -65.48333
+  },
+  {
+    "nombre": "Las Totoras",
+    "provincia": "San Luis",
+    "latitud": -33.13333,
+    "longitud": -65.75
+  },
+  {
+    "nombre": "Lavaisse",
+    "provincia": "San Luis",
+    "latitud": -33.81667,
+    "longitud": -65.41667
+  },
+  {
+    "nombre": "Libertador General San Martin",
+    "provincia": "San Luis",
+    "latitud": -32.4,
+    "longitud": -65.68333
+  },
+  {
+    "nombre": "Liborio Luna",
+    "provincia": "San Luis",
+    "latitud": -33.58333,
+    "longitud": -65.65
+  },
+  {
+    "nombre": "Loma Blanca",
+    "provincia": "San Luis",
+    "latitud": -32.7,
+    "longitud": -66.98333
+  },
+  {
+    "nombre": "Lomitas",
+    "provincia": "San Luis",
+    "latitud": -32.05,
+    "longitud": -65.31667
+  },
+  {
+    "nombre": "Los Alanices",
+    "provincia": "San Luis",
+    "latitud": -32.5,
+    "longitud": -65.41667
+  },
+  {
+    "nombre": "Los Arguellos",
+    "provincia": "San Luis",
+    "latitud": -32.3,
+    "longitud": -65.23333
+  },
+  {
+    "nombre": "Los Cajones",
+    "provincia": "San Luis",
+    "latitud": -32.03333,
+    "longitud": -65.38333
+  },
+  {
+    "nombre": "Los Cerrillos",
+    "provincia": "San Luis",
+    "latitud": -34.38333,
+    "longitud": -66.4
+  },
+  {
+    "nombre": "Los Chanares",
+    "provincia": "San Luis",
+    "latitud": -32.25,
+    "longitud": -65.35
+  },
+  {
+    "nombre": "Los Coros",
+    "provincia": "San Luis",
+    "latitud": -33.61667,
+    "longitud": -66.51667
+  },
+  {
+    "nombre": "Los Duraznitos",
+    "provincia": "San Luis",
+    "latitud": -32.3,
+    "longitud": -65.28333
+  },
+  {
+    "nombre": "Los Lobos",
+    "provincia": "San Luis",
+    "latitud": -32.45,
+    "longitud": -65.28333
+  },
+  {
+    "nombre": "Los Puquios",
+    "provincia": "San Luis",
+    "latitud": -33.26667,
+    "longitud": -66.18333
+  },
+  {
+    "nombre": "Manantial Blanco",
+    "provincia": "San Luis",
+    "latitud": -32.9,
+    "longitud": -65.8
+  },
+  {
+    "nombre": "Martin de Loyola",
+    "provincia": "San Luis",
+    "latitud": -35.61667,
+    "longitud": -66.28333
+  },
+  {
+    "nombre": "Molino Chico",
+    "provincia": "San Luis",
+    "latitud": -33.03333,
+    "longitud": -65.48333
+  },
+  {
+    "nombre": "Mosmota",
+    "provincia": "San Luis",
+    "latitud": -33.63333,
+    "longitud": -66.98333
+  },
+  {
+    "nombre": "Nahuel Mapa",
+    "provincia": "San Luis",
+    "latitud": -34.78333,
+    "longitud": -66.16667
+  },
+  {
+    "nombre": "Naschel",
+    "provincia": "San Luis",
+    "latitud": -52.91667,
+    "longitud": -65.38333
+  },
+  {
+    "nombre": "Navia",
+    "provincia": "San Luis",
+    "latitud": -34.78333,
+    "longitud": -66.58333
+  },
+  {
+    "nombre": "Nueva Constitucion",
+    "provincia": "San Luis",
+    "latitud": -35.95,
+    "longitud": -66.16667
+  },
+  {
+    "nombre": "Nueva Galia",
+    "provincia": "San Luis",
+    "latitud": -35.11667,
+    "longitud": -65.25
+  },
+  {
+    "nombre": "Ojo de Agua",
+    "provincia": "San Luis",
+    "latitud": -32.61667,
+    "longitud": -65.83333
+  },
+  {
+    "nombre": "Ojo del Rio",
+    "provincia": "San Luis",
+    "latitud": -32.45,
+    "longitud": -65.2
+  },
+  {
+    "nombre": "Pantanillo",
+    "provincia": "San Luis",
+    "latitud": -32.33333,
+    "longitud": -65.01667
+  },
+  {
+    "nombre": "Paso Grande",
+    "provincia": "San Luis",
+    "latitud": -32.86667,
+    "longitud": -65.65
+  },
+  {
+    "nombre": "Pedernera",
+    "provincia": "San Luis",
+    "latitud": -33.78333,
+    "longitud": -65.3
+  },
+  {
+    "nombre": "Pescadores",
+    "provincia": "San Luis",
+    "latitud": -33.3,
+    "longitud": -66.46667
+  },
+  {
+    "nombre": "Piedras Chatas",
+    "provincia": "San Luis",
+    "latitud": -32.85,
+    "longitud": -65.31667
+  },
+  {
+    "nombre": "Polledo",
+    "provincia": "San Luis",
+    "latitud": -35.15,
+    "longitud": -65.76667
+  },
+  {
+    "nombre": "Potrerillo",
+    "provincia": "San Luis",
+    "latitud": -32.66667,
+    "longitud": -65.65
+  },
+  {
+    "nombre": "Potrero de los Funes",
+    "provincia": "San Luis",
+    "latitud": -33.21667,
+    "longitud": -66.23333
+  },
+  {
+    "nombre": "Pozo del Carril",
+    "provincia": "San Luis",
+    "latitud": -33.2,
+    "longitud": -66.36667
+  },
+  {
+    "nombre": "Pozo del Tala",
+    "provincia": "San Luis",
+    "latitud": -32.6,
+    "longitud": -66.3
+  },
+  {
+    "nombre": "Provincia de San Luis",
+    "provincia": "San Luis",
+    "latitud": -34.0,
+    "longitud": -66.0
+  },
+  {
+    "nombre": "Quebrada de los Codores",
+    "provincia": "San Luis",
+    "latitud": -33.25,
+    "longitud": -66.26667
+  },
+  {
+    "nombre": "Quines",
+    "provincia": "San Luis",
+    "latitud": -32.21667,
+    "longitud": -65.8
+  },
+  {
+    "nombre": "Ranquelco",
+    "provincia": "San Luis",
+    "latitud": -35.26667,
+    "longitud": -65.43333
+  },
+  {
+    "nombre": "Renca",
+    "provincia": "San Luis",
+    "latitud": -32.76667,
+    "longitud": -65.36667
+  },
+  {
+    "nombre": "Rincon del Carmen",
+    "provincia": "San Luis",
+    "latitud": -32.45,
+    "longitud": -65.48333
+  },
+  {
+    "nombre": "Rio Quinto",
+    "provincia": "San Luis",
+    "latitud": -33.85,
+    "longitud": -65.26667
+  },
+  {
+    "nombre": "Salado",
+    "provincia": "San Luis",
+    "latitud": -32.45,
+    "longitud": -65.36667
+  },
+  {
+    "nombre": "San Francisco del Monte de Oro",
+    "provincia": "San Luis",
+    "latitud": -32.6,
+    "longitud": -66.13333
+  },
+  {
+    "nombre": "San Geronimo",
+    "provincia": "San Luis",
+    "latitud": -33.13333,
+    "longitud": -66.51667
+  },
+  {
+    "nombre": "San Martin del Alto Negro",
+    "provincia": "San Luis",
+    "latitud": -34.13333,
+    "longitud": -66.15
+  },
+  {
+    "nombre": "Santa Rosa del Conlara",
+    "provincia": "San Luis",
+    "latitud": -32.33333,
+    "longitud": -65.2
+  },
+  {
+    "nombre": "Socoscora",
+    "provincia": "San Luis",
+    "latitud": -32.56667,
+    "longitud": -66.26667
+  },
+  {
+    "nombre": "Soven",
+    "provincia": "San Luis",
+    "latitud": -34.23333,
+    "longitud": -65.41667
+  },
+  {
+    "nombre": "Suyuque Nuevo",
+    "provincia": "San Luis",
+    "latitud": -33.13333,
+    "longitud": -66.26667
+  },
+  {
+    "nombre": "Suyuque Viejo",
+    "provincia": "San Luis",
+    "latitud": -33.15,
+    "longitud": -66.3
+  },
+  {
+    "nombre": "Tala Verde",
+    "provincia": "San Luis",
+    "latitud": -32.4,
+    "longitud": -65.55
+  },
+  {
+    "nombre": "Tilisarao",
+    "provincia": "San Luis",
+    "latitud": -32.73333,
+    "longitud": -65.3
+  },
+  {
+    "nombre": "Toro Negro",
+    "provincia": "San Luis",
+    "latitud": -32.75,
+    "longitud": -66.35
+  },
+  {
+    "nombre": "Toscal",
+    "provincia": "San Luis",
+    "latitud": -35.65,
+    "longitud": -66.53333
+  },
+  {
+    "nombre": "Trapiche",
+    "provincia": "San Luis",
+    "latitud": -33.11667,
+    "longitud": -66.08333
+  },
+  {
+    "nombre": "Travesia",
+    "provincia": "San Luis",
+    "latitud": -33.78333,
+    "longitud": -66.08333
+  },
+  {
+    "nombre": "Tres Amigos",
+    "provincia": "San Luis",
+    "latitud": -35.05,
+    "longitud": -66.1
+  },
+  {
+    "nombre": "Usiyal",
+    "provincia": "San Luis",
+    "latitud": -34.8,
+    "longitud": -66.31667
+  },
+  {
+    "nombre": "Vaca Parada",
+    "provincia": "San Luis",
+    "latitud": -32.66667,
+    "longitud": -65.58333
+  },
+  {
+    "nombre": "Villa de la Quebrada",
+    "provincia": "San Luis",
+    "latitud": -33.03333,
+    "longitud": -66.3
+  },
+  {
+    "nombre": "Villa de Praga",
+    "provincia": "San Luis",
+    "latitud": -32.53333,
+    "longitud": -65.65
+  },
+  {
+    "nombre": "Villa del Carmen",
+    "provincia": "San Luis",
+    "latitud": -32.95,
+    "longitud": -65.05
+  },
+  {
+    "nombre": "Villa General Roca",
+    "provincia": "San Luis",
+    "latitud": -32.65,
+    "longitud": -66.46667
+  },
+  {
+    "nombre": "Villa India Reynolds",
+    "provincia": "San Luis",
+    "latitud": -33.71667,
+    "longitud": -65.38333
+  },
+  {
+    "nombre": "Villa Larca",
+    "provincia": "San Luis",
+    "latitud": -32.61667,
+    "longitud": -64.98333
+  },
+  {
+    "nombre": "Zanjitas",
+    "provincia": "San Luis",
+    "latitud": -33.8,
+    "longitud": -66.43333
+  }
+]

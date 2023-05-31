@@ -1,0 +1,602 @@
+[
+  {
+    "nombre": "Antonio de Biedma",
+    "provincia": "Santa Cruz",
+    "latitud": -47.48333,
+    "longitud": -66.5
+  },
+  {
+    "nombre": "Bajo Caracoles",
+    "provincia": "Santa Cruz",
+    "latitud": -47.45,
+    "longitud": -70.93333
+  },
+  {
+    "nombre": "Bajo Picaso",
+    "provincia": "Santa Cruz",
+    "latitud": -49.05,
+    "longitud": -68.38333
+  },
+  {
+    "nombre": "Cabo Blanco",
+    "provincia": "Santa Cruz",
+    "latitud": -47.2,
+    "longitud": -65.75
+  },
+  {
+    "nombre": "Canadon Once de Septiembre",
+    "provincia": "Santa Cruz",
+    "latitud": -48.68333,
+    "longitud": -67.4
+  },
+  {
+    "nombre": "Cancha Carrera",
+    "provincia": "Santa Cruz",
+    "latitud": -51.25,
+    "longitud": -72.23333
+  },
+  {
+    "nombre": "Capitan Eyroa",
+    "provincia": "Santa Cruz",
+    "latitud": -51.75,
+    "longitud": -70.1
+  },
+  {
+    "nombre": "Casa Riera",
+    "provincia": "Santa Cruz",
+    "latitud": -48.4,
+    "longitud": -70.53333
+  },
+  {
+    "nombre": "Cerro Blanco",
+    "provincia": "Santa Cruz",
+    "latitud": -47.41667,
+    "longitud": -66.73333
+  },
+  {
+    "nombre": "Charles Fuhr",
+    "provincia": "Santa Cruz",
+    "latitud": -50.28333,
+    "longitud": -71.88333
+  },
+  {
+    "nombre": "Colonia Francisco Perito Moreno",
+    "provincia": "Santa Cruz",
+    "latitud": -50.45,
+    "longitud": -72.66667
+  },
+  {
+    "nombre": "Comandante Luis Piedra Buena",
+    "provincia": "Santa Cruz",
+    "latitud": -49.98333,
+    "longitud": -68.9
+  },
+  {
+    "nombre": "Corpen",
+    "provincia": "Santa Cruz",
+    "latitud": -49.58333,
+    "longitud": -69.5
+  },
+  {
+    "nombre": "Coy Aike",
+    "provincia": "Santa Cruz",
+    "latitud": -51.15,
+    "longitud": -69.5
+  },
+  {
+    "nombre": "Departamento de Corpen Aike",
+    "provincia": "Santa Cruz",
+    "latitud": -50.0,
+    "longitud": -69.25
+  },
+  {
+    "nombre": "Departamento de Deseado",
+    "provincia": "Santa Cruz",
+    "latitud": -47.33333,
+    "longitud": -67.83333
+  },
+  {
+    "nombre": "Departamento de Guer Aike",
+    "provincia": "Santa Cruz",
+    "latitud": -51.33333,
+    "longitud": -70.33333
+  },
+  {
+    "nombre": "Departamento de Lago Argentino",
+    "provincia": "Santa Cruz",
+    "latitud": -49.75,
+    "longitud": -72.0
+  },
+  {
+    "nombre": "Departamento de Lago Buenos Aires",
+    "provincia": "Santa Cruz",
+    "latitud": -47.0,
+    "longitud": -70.91667
+  },
+  {
+    "nombre": "Departamento de Magallanes",
+    "provincia": "Santa Cruz",
+    "latitud": -48.75,
+    "longitud": -68.5
+  },
+  {
+    "nombre": "Departamento de Rio Chico",
+    "provincia": "Santa Cruz",
+    "latitud": -48.25,
+    "longitud": -71.0
+  },
+  {
+    "nombre": "Diego Ritchie",
+    "provincia": "Santa Cruz",
+    "latitud": -51.98333,
+    "longitud": -70.4
+  },
+  {
+    "nombre": "El Calafate",
+    "provincia": "Santa Cruz",
+    "latitud": -50.34075,
+    "longitud": -72.27682
+  },
+  {
+    "nombre": "El Chalten",
+    "provincia": "Santa Cruz",
+    "latitud": -49.32862,
+    "longitud": -72.93001
+  },
+  {
+    "nombre": "El Chonque",
+    "provincia": "Santa Cruz",
+    "latitud": -49.36667,
+    "longitud": -69.71667
+  },
+  {
+    "nombre": "El Condor",
+    "provincia": "Santa Cruz",
+    "latitud": -52.16667,
+    "longitud": -69.05
+  },
+  {
+    "nombre": "El Ghio",
+    "provincia": "Santa Cruz",
+    "latitud": -47.3,
+    "longitud": -71.46667
+  },
+  {
+    "nombre": "El Pluma",
+    "provincia": "Santa Cruz",
+    "latitud": -46.46667,
+    "longitud": -70.05
+  },
+  {
+    "nombre": "El Portezuelo",
+    "provincia": "Santa Cruz",
+    "latitud": -46.05,
+    "longitud": -71.66667
+  },
+  {
+    "nombre": "El Salado",
+    "provincia": "Santa Cruz",
+    "latitud": -48.71667,
+    "longitud": -67.78333
+  },
+  {
+    "nombre": "El Turbio",
+    "provincia": "Santa Cruz",
+    "latitud": -51.68333,
+    "longitud": -72.08333
+  },
+  {
+    "nombre": "El Volcan",
+    "provincia": "Santa Cruz",
+    "latitud": -47.88333,
+    "longitud": -72.2
+  },
+  {
+    "nombre": "El Zurdo",
+    "provincia": "Santa Cruz",
+    "latitud": -51.98333,
+    "longitud": -71.23333
+  },
+  {
+    "nombre": "Esperanza",
+    "provincia": "Santa Cruz",
+    "latitud": -51.01667,
+    "longitud": -70.81667
+  },
+  {
+    "nombre": "Estancia L Lorenzo",
+    "provincia": "Santa Cruz",
+    "latitud": -49.05,
+    "longitud": -67.58333
+  },
+  {
+    "nombre": "Estancia Llaneza",
+    "provincia": "Santa Cruz",
+    "latitud": -48.88333,
+    "longitud": -71.78333
+  },
+  {
+    "nombre": "Fitz Roy",
+    "provincia": "Santa Cruz",
+    "latitud": -47.03333,
+    "longitud": -67.25
+  },
+  {
+    "nombre": "Flecha Negra",
+    "provincia": "Santa Cruz",
+    "latitud": -47.83333,
+    "longitud": -69.66667
+  },
+  {
+    "nombre": "Florida Negra",
+    "provincia": "Santa Cruz",
+    "latitud": -48.41667,
+    "longitud": -67.38333
+  },
+  {
+    "nombre": "Fuentes del Coyle",
+    "provincia": "Santa Cruz",
+    "latitud": -51.03333,
+    "longitud": -71.48333
+  },
+  {
+    "nombre": "Gaypon",
+    "provincia": "Santa Cruz",
+    "latitud": -51.96667,
+    "longitud": -71.46667
+  },
+  {
+    "nombre": "Gendarme C Barreto",
+    "provincia": "Santa Cruz",
+    "latitud": -50.3,
+    "longitud": -70.91667
+  },
+  {
+    "nombre": "Gobernador Gregores",
+    "provincia": "Santa Cruz",
+    "latitud": -48.76667,
+    "longitud": -70.25
+  },
+  {
+    "nombre": "Gobernador Mayer",
+    "provincia": "Santa Cruz",
+    "latitud": -51.35,
+    "longitud": -70.3
+  },
+  {
+    "nombre": "Gobernador Moyano",
+    "provincia": "Santa Cruz",
+    "latitud": -51.86667,
+    "longitud": -70.56667
+  },
+  {
+    "nombre": "Guankenken Aike",
+    "provincia": "Santa Cruz",
+    "latitud": -51.43333,
+    "longitud": -69.81667
+  },
+  {
+    "nombre": "Guer Aike",
+    "provincia": "Santa Cruz",
+    "latitud": -51.65,
+    "longitud": -69.58333
+  },
+  {
+    "nombre": "Hill Station",
+    "provincia": "Santa Cruz",
+    "latitud": -51.56667,
+    "longitud": -69.23333
+  },
+  {
+    "nombre": "Ingeniero Pallavicini",
+    "provincia": "Santa Cruz",
+    "latitud": -46.3,
+    "longitud": -71.73333
+  },
+  {
+    "nombre": "Jaramillo",
+    "provincia": "Santa Cruz",
+    "latitud": -47.18333,
+    "longitud": -67.15
+  },
+  {
+    "nombre": "Juan Jose Albornoz",
+    "provincia": "Santa Cruz",
+    "latitud": -48.43333,
+    "longitud": -68.96667
+  },
+  {
+    "nombre": "Koluel Kayke",
+    "provincia": "Santa Cruz",
+    "latitud": -46.71667,
+    "longitud": -68.23333
+  },
+  {
+    "nombre": "La Aragonesa",
+    "provincia": "Santa Cruz",
+    "latitud": -48.06667,
+    "longitud": -69.78333
+  },
+  {
+    "nombre": "La Bajada",
+    "provincia": "Santa Cruz",
+    "latitud": -48.88333,
+    "longitud": -69.7
+  },
+  {
+    "nombre": "La Herreria",
+    "provincia": "Santa Cruz",
+    "latitud": -48.56667,
+    "longitud": -70.55
+  },
+  {
+    "nombre": "La Manchuria",
+    "provincia": "Santa Cruz",
+    "latitud": -48.06667,
+    "longitud": -69.93333
+  },
+  {
+    "nombre": "La Sofia",
+    "provincia": "Santa Cruz",
+    "latitud": -51.8,
+    "longitud": -71.0
+  },
+  {
+    "nombre": "Lago Cardiel",
+    "provincia": "Santa Cruz",
+    "latitud": -48.96667,
+    "longitud": -71.4
+  },
+  {
+    "nombre": "Lago San Martin",
+    "provincia": "Santa Cruz",
+    "latitud": -49.15,
+    "longitud": -72.06667
+  },
+  {
+    "nombre": "Lai Aike",
+    "provincia": "Santa Cruz",
+    "latitud": -49.4,
+    "longitud": -68.75
+  },
+  {
+    "nombre": "Las Heras",
+    "provincia": "Santa Cruz",
+    "latitud": -46.55,
+    "longitud": -68.95
+  },
+  {
+    "nombre": "Las Horquetas",
+    "provincia": "Santa Cruz",
+    "latitud": -48.23333,
+    "longitud": -71.18333
+  },
+  {
+    "nombre": "Las Tres Hermanas",
+    "provincia": "Santa Cruz",
+    "latitud": -47.31667,
+    "longitud": -67.23333
+  },
+  {
+    "nombre": "Le Marchand",
+    "provincia": "Santa Cruz",
+    "latitud": -50.76667,
+    "longitud": -69.41667
+  },
+  {
+    "nombre": "Los Antiguos",
+    "provincia": "Santa Cruz",
+    "latitud": -46.55,
+    "longitud": -71.61667
+  },
+  {
+    "nombre": "Los Monos",
+    "provincia": "Santa Cruz",
+    "latitud": -46.01667,
+    "longitud": -69.6
+  },
+  {
+    "nombre": "Mata Amarilla",
+    "provincia": "Santa Cruz",
+    "latitud": -49.6,
+    "longitud": -71.21667
+  },
+  {
+    "nombre": "Mazarredo",
+    "provincia": "Santa Cruz",
+    "latitud": -47.08333,
+    "longitud": -66.7
+  },
+  {
+    "nombre": "Monte Aymond",
+    "provincia": "Santa Cruz",
+    "latitud": -52.13333,
+    "longitud": -69.53333
+  },
+  {
+    "nombre": "Monte Dinero",
+    "provincia": "Santa Cruz",
+    "latitud": -52.3,
+    "longitud": -68.55
+  },
+  {
+    "nombre": "Monte Leon",
+    "provincia": "Santa Cruz",
+    "latitud": -50.23333,
+    "longitud": -68.91667
+  },
+  {
+    "nombre": "Paso del Aguila",
+    "provincia": "Santa Cruz",
+    "latitud": -47.81667,
+    "longitud": -71.98333
+  },
+  {
+    "nombre": "Paso Gobernador Gregores",
+    "provincia": "Santa Cruz",
+    "latitud": -47.83333,
+    "longitud": -66.58333
+  },
+  {
+    "nombre": "Paso Gregores",
+    "provincia": "Santa Cruz",
+    "latitud": -47.8,
+    "longitud": -66.58333
+  },
+  {
+    "nombre": "Paso Rio Bote",
+    "provincia": "Santa Cruz",
+    "latitud": -50.3,
+    "longitud": -71.71667
+  },
+  {
+    "nombre": "Perito Moreno",
+    "provincia": "Santa Cruz",
+    "latitud": -46.6,
+    "longitud": -70.93333
+  },
+  {
+    "nombre": "Pico Truncado",
+    "provincia": "Santa Cruz",
+    "latitud": -46.8,
+    "longitud": -67.96667
+  },
+  {
+    "nombre": "Piedra Clavada",
+    "provincia": "Santa Cruz",
+    "latitud": -46.6,
+    "longitud": -68.53333
+  },
+  {
+    "nombre": "Provincia de Santa Cruz",
+    "provincia": "Santa Cruz",
+    "latitud": -49.0,
+    "longitud": -70.0
+  },
+  {
+    "nombre": "Puerto Bandera",
+    "provincia": "Santa Cruz",
+    "latitud": -50.3,
+    "longitud": -72.78333
+  },
+  {
+    "nombre": "Puerto Coig",
+    "provincia": "Santa Cruz",
+    "latitud": -50.95,
+    "longitud": -69.2
+  },
+  {
+    "nombre": "Puerto Deseado",
+    "provincia": "Santa Cruz",
+    "latitud": -47.75,
+    "longitud": -65.9
+  },
+  {
+    "nombre": "Puerto Santa Cruz",
+    "provincia": "Santa Cruz",
+    "latitud": -50.01667,
+    "longitud": -68.51667
+  },
+  {
+    "nombre": "Punta del Lago",
+    "provincia": "Santa Cruz",
+    "latitud": -49.61667,
+    "longitud": -72.06667
+  },
+  {
+    "nombre": "Punta del Monte",
+    "provincia": "Santa Cruz",
+    "latitud": -51.63333,
+    "longitud": -71.3
+  },
+  {
+    "nombre": "Rincon",
+    "provincia": "Santa Cruz",
+    "latitud": -50.3,
+    "longitud": -69.91667
+  },
+  {
+    "nombre": "Rio Bote",
+    "provincia": "Santa Cruz",
+    "latitud": -50.26667,
+    "longitud": -71.73333
+  },
+  {
+    "nombre": "Rio Chico",
+    "provincia": "Santa Cruz",
+    "latitud": -49.8,
+    "longitud": -68.61667
+  },
+  {
+    "nombre": "Rio Gallegos",
+    "provincia": "Santa Cruz",
+    "latitud": -51.63333,
+    "longitud": -69.21667
+  },
+  {
+    "nombre": "Seccion Gap",
+    "provincia": "Santa Cruz",
+    "latitud": -52.16667,
+    "longitud": -68.56667
+  },
+  {
+    "nombre": "Sindicato Dodero",
+    "provincia": "Santa Cruz",
+    "latitud": -46.06667,
+    "longitud": -67.63333
+  },
+  {
+    "nombre": "Tamel Aike",
+    "provincia": "Santa Cruz",
+    "latitud": -48.31667,
+    "longitud": -70.96667
+  },
+  {
+    "nombre": "Tapi Aike",
+    "provincia": "Santa Cruz",
+    "latitud": -51.05,
+    "longitud": -71.76667
+  },
+  {
+    "nombre": "Tehuelches",
+    "provincia": "Santa Cruz",
+    "latitud": -46.93333,
+    "longitud": -67.45
+  },
+  {
+    "nombre": "Tres Cerros",
+    "provincia": "Santa Cruz",
+    "latitud": -48.21667,
+    "longitud": -67.55
+  },
+  {
+    "nombre": "Tres Lagos",
+    "provincia": "Santa Cruz",
+    "latitud": -49.61667,
+    "longitud": -71.5
+  },
+  {
+    "nombre": "Tucu Tucu",
+    "provincia": "Santa Cruz",
+    "latitud": -48.43333,
+    "longitud": -71.85
+  },
+  {
+    "nombre": "Veintiocho de Noviembre",
+    "provincia": "Santa Cruz",
+    "latitud": -51.65,
+    "longitud": -72.3
+  },
+  {
+    "nombre": "Villa OHiggins",
+    "provincia": "Santa Cruz",
+    "latitud": -48.46521,
+    "longitud": -72.56092
+  },
+  {
+    "nombre": "Yacimiento Rio Turbio",
+    "provincia": "Santa Cruz",
+    "latitud": -51.53333,
+    "longitud": -72.3
+  }
+]

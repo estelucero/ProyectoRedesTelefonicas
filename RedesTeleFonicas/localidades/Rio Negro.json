@@ -1,0 +1,806 @@
+[
+  {
+    "nombre": "Aguada Cecilio",
+    "provincia": "Rio Negro",
+    "latitud": -40.85,
+    "longitud": -65.85
+  },
+  {
+    "nombre": "Aguada de Guerra",
+    "provincia": "Rio Negro",
+    "latitud": -41.06667,
+    "longitud": -68.41667
+  },
+  {
+    "nombre": "Aguada de Guzman",
+    "provincia": "Rio Negro",
+    "latitud": -39.98333,
+    "longitud": -68.86667
+  },
+  {
+    "nombre": "Allen",
+    "provincia": "Rio Negro",
+    "latitud": -38.96667,
+    "longitud": -67.83333
+  },
+  {
+    "nombre": "Arroyo Los Berros",
+    "provincia": "Rio Negro",
+    "latitud": -41.46667,
+    "longitud": -65.96667
+  },
+  {
+    "nombre": "Balneario El Condor",
+    "provincia": "Rio Negro",
+    "latitud": -41.08333,
+    "longitud": -62.8
+  },
+  {
+    "nombre": "Balneario Massini",
+    "provincia": "Rio Negro",
+    "latitud": -41.05,
+    "longitud": -62.85
+  },
+  {
+    "nombre": "Benjamin Zorrilla",
+    "provincia": "Rio Negro",
+    "latitud": -39.1,
+    "longitud": -65.48333
+  },
+  {
+    "nombre": "Boca de la Travesia",
+    "provincia": "Rio Negro",
+    "latitud": -40.21667,
+    "longitud": -64.06667
+  },
+  {
+    "nombre": "Boliche",
+    "provincia": "Rio Negro",
+    "latitud": -39.98333,
+    "longitud": -67.83333
+  },
+  {
+    "nombre": "Catriel",
+    "provincia": "Rio Negro",
+    "latitud": -37.86667,
+    "longitud": -67.83333
+  },
+  {
+    "nombre": "Cayuqueo",
+    "provincia": "Rio Negro",
+    "latitud": -41.6,
+    "longitud": -66.45
+  },
+  {
+    "nombre": "Cerro Abanico",
+    "provincia": "Rio Negro",
+    "latitud": -40.96667,
+    "longitud": -68.3
+  },
+  {
+    "nombre": "Cervantes",
+    "provincia": "Rio Negro",
+    "latitud": -39.05,
+    "longitud": -67.38333
+  },
+  {
+    "nombre": "Chacay Huarruca",
+    "provincia": "Rio Negro",
+    "latitud": -41.66667,
+    "longitud": -70.73333
+  },
+  {
+    "nombre": "Chelforo",
+    "provincia": "Rio Negro",
+    "latitud": -39.06667,
+    "longitud": -66.53333
+  },
+  {
+    "nombre": "Chichinales",
+    "provincia": "Rio Negro",
+    "latitud": -39.1,
+    "longitud": -66.93333
+  },
+  {
+    "nombre": "Chimpay",
+    "provincia": "Rio Negro",
+    "latitud": -39.16667,
+    "longitud": -66.15
+  },
+  {
+    "nombre": "Choele Choel",
+    "provincia": "Rio Negro",
+    "latitud": -39.26667,
+    "longitud": -65.68333
+  },
+  {
+    "nombre": "Cinco Chanares",
+    "provincia": "Rio Negro",
+    "latitud": -40.71667,
+    "longitud": -65.23333
+  },
+  {
+    "nombre": "Cinco Saltos",
+    "provincia": "Rio Negro",
+    "latitud": -38.81667,
+    "longitud": -68.06667
+  },
+  {
+    "nombre": "Cipolletti",
+    "provincia": "Rio Negro",
+    "latitud": -38.93333,
+    "longitud": -67.98333
+  },
+  {
+    "nombre": "Clemente Onelli",
+    "provincia": "Rio Negro",
+    "latitud": -41.23333,
+    "longitud": -70.01667
+  },
+  {
+    "nombre": "Coitaco",
+    "provincia": "Rio Negro",
+    "latitud": -39.55,
+    "longitud": -67.28333
+  },
+  {
+    "nombre": "Colonia Josefa",
+    "provincia": "Rio Negro",
+    "latitud": -39.73333,
+    "longitud": -65.41667
+  },
+  {
+    "nombre": "Colonia Julia y Echarren",
+    "provincia": "Rio Negro",
+    "latitud": -39.03333,
+    "longitud": -64.05
+  },
+  {
+    "nombre": "Comallo",
+    "provincia": "Rio Negro",
+    "latitud": -41.03333,
+    "longitud": -70.26667
+  },
+  {
+    "nombre": "Cona Niyeo",
+    "provincia": "Rio Negro",
+    "latitud": -41.88333,
+    "longitud": -67.0
+  },
+  {
+    "nombre": "Contraalmirante Cordero",
+    "provincia": "Rio Negro",
+    "latitud": -38.73333,
+    "longitud": -68.16667
+  },
+  {
+    "nombre": "Contraalmirante Martin Guerrico",
+    "provincia": "Rio Negro",
+    "latitud": -39.01667,
+    "longitud": -67.73333
+  },
+  {
+    "nombre": "Coronel Belisle",
+    "provincia": "Rio Negro",
+    "latitud": -39.18333,
+    "longitud": -65.98333
+  },
+  {
+    "nombre": "Coronel Eugenio del Busto",
+    "provincia": "Rio Negro",
+    "latitud": -38.95,
+    "longitud": -64.25
+  },
+  {
+    "nombre": "Coronel Juan Jose Gomez",
+    "provincia": "Rio Negro",
+    "latitud": -39.03333,
+    "longitud": -67.65
+  },
+  {
+    "nombre": "Cubanea",
+    "provincia": "Rio Negro",
+    "latitud": -40.66667,
+    "longitud": -63.5
+  },
+  {
+    "nombre": "Curaco",
+    "provincia": "Rio Negro",
+    "latitud": -39.45,
+    "longitud": -67.7
+  },
+  {
+    "nombre": "Darwin",
+    "provincia": "Rio Negro",
+    "latitud": -39.2,
+    "longitud": -65.76667
+  },
+  {
+    "nombre": "Departamento de Adolfo Alsina",
+    "provincia": "Rio Negro",
+    "latitud": -40.75,
+    "longitud": -63.75
+  },
+  {
+    "nombre": "Departamento de Avellaneda",
+    "provincia": "Rio Negro",
+    "latitud": -39.5,
+    "longitud": -66.5
+  },
+  {
+    "nombre": "Departamento de Bariloche",
+    "provincia": "Rio Negro",
+    "latitud": -41.5,
+    "longitud": -71.5
+  },
+  {
+    "nombre": "Departamento de Conesa",
+    "provincia": "Rio Negro",
+    "latitud": -40.25,
+    "longitud": -64.25
+  },
+  {
+    "nombre": "Departamento de El Cuy",
+    "provincia": "Rio Negro",
+    "latitud": -39.58333,
+    "longitud": -68.5
+  },
+  {
+    "nombre": "Departamento de General Roca",
+    "provincia": "Rio Negro",
+    "latitud": -38.5,
+    "longitud": -67.5
+  },
+  {
+    "nombre": "Departamento de Norquinco",
+    "provincia": "Rio Negro",
+    "latitud": -41.66667,
+    "longitud": -70.41667
+  },
+  {
+    "nombre": "Departamento de Nueve de Julio",
+    "provincia": "Rio Negro",
+    "latitud": -41.0,
+    "longitud": -67.25
+  },
+  {
+    "nombre": "Departamento de Pichi Mahuida",
+    "provincia": "Rio Negro",
+    "latitud": -39.5,
+    "longitud": -64.5
+  },
+  {
+    "nombre": "Departamento de Pilcaniyeu",
+    "provincia": "Rio Negro",
+    "latitud": -40.75,
+    "longitud": -70.5
+  },
+  {
+    "nombre": "Departamento de San Antonio",
+    "provincia": "Rio Negro",
+    "latitud": -41.0,
+    "longitud": -65.5
+  },
+  {
+    "nombre": "Departamento de Valcheta",
+    "provincia": "Rio Negro",
+    "latitud": -41.0,
+    "longitud": -66.25
+  },
+  {
+    "nombre": "Doctor Rogelio Cortizo",
+    "provincia": "Rio Negro",
+    "latitud": -40.73333,
+    "longitud": -65.03333
+  },
+  {
+    "nombre": "El Bolson",
+    "provincia": "Rio Negro",
+    "latitud": -41.96667,
+    "longitud": -71.51667
+  },
+  {
+    "nombre": "El Cain",
+    "provincia": "Rio Negro",
+    "latitud": -41.63333,
+    "longitud": -68.31667
+  },
+  {
+    "nombre": "El Cuy",
+    "provincia": "Rio Negro",
+    "latitud": -39.93333,
+    "longitud": -68.33333
+  },
+  {
+    "nombre": "El Hinojo",
+    "provincia": "Rio Negro",
+    "latitud": -39.25,
+    "longitud": -65.86667
+  },
+  {
+    "nombre": "Falckner",
+    "provincia": "Rio Negro",
+    "latitud": -40.5,
+    "longitud": -67.05
+  },
+  {
+    "nombre": "Ferri",
+    "provincia": "Rio Negro",
+    "latitud": -38.88333,
+    "longitud": -68.0
+  },
+  {
+    "nombre": "Fitarruin",
+    "provincia": "Rio Negro",
+    "latitud": -40.65,
+    "longitud": -69.5
+  },
+  {
+    "nombre": "Fortin Uno",
+    "provincia": "Rio Negro",
+    "latitud": -38.85,
+    "longitud": -65.28333
+  },
+  {
+    "nombre": "Fray Luis Beltran",
+    "provincia": "Rio Negro",
+    "latitud": -39.31667,
+    "longitud": -65.76667
+  },
+  {
+    "nombre": "Futa Ruin",
+    "provincia": "Rio Negro",
+    "latitud": -41.63333,
+    "longitud": -70.01667
+  },
+  {
+    "nombre": "Ganzu Laufquen",
+    "provincia": "Rio Negro",
+    "latitud": -40.73333,
+    "longitud": -68.03333
+  },
+  {
+    "nombre": "General Enrique Godoy",
+    "provincia": "Rio Negro",
+    "latitud": -39.08333,
+    "longitud": -67.15
+  },
+  {
+    "nombre": "General Fernandez Oro",
+    "provincia": "Rio Negro",
+    "latitud": -38.95,
+    "longitud": -67.91667
+  },
+  {
+    "nombre": "General Liborio Bernal",
+    "provincia": "Rio Negro",
+    "latitud": -40.83333,
+    "longitud": -63.65
+  },
+  {
+    "nombre": "General Lorenzo Vintter",
+    "provincia": "Rio Negro",
+    "latitud": -40.73333,
+    "longitud": -64.48333
+  },
+  {
+    "nombre": "General Nicolas H Palacios",
+    "provincia": "Rio Negro",
+    "latitud": -40.83333,
+    "longitud": -63.35
+  },
+  {
+    "nombre": "General Roca",
+    "provincia": "Rio Negro",
+    "latitud": -39.05,
+    "longitud": -67.53333
+  },
+  {
+    "nombre": "Guardia Mitre",
+    "provincia": "Rio Negro",
+    "latitud": -40.43333,
+    "longitud": -63.68333
+  },
+  {
+    "nombre": "H Scott",
+    "provincia": "Rio Negro",
+    "latitud": -40.71667,
+    "longitud": -65.31667
+  },
+  {
+    "nombre": "Ingeniero Jacobacci",
+    "provincia": "Rio Negro",
+    "latitud": -41.3,
+    "longitud": -69.58333
+  },
+  {
+    "nombre": "Ingeniero Luis A Huergo",
+    "provincia": "Rio Negro",
+    "latitud": -39.08333,
+    "longitud": -67.23333
+  },
+  {
+    "nombre": "Ingeniero Otto Krause",
+    "provincia": "Rio Negro",
+    "latitud": -39.1,
+    "longitud": -67.0
+  },
+  {
+    "nombre": "Juan de Garay",
+    "provincia": "Rio Negro",
+    "latitud": -38.86667,
+    "longitud": -64.56667
+  },
+  {
+    "nombre": "La Ensenada",
+    "provincia": "Rio Negro",
+    "latitud": -41.16667,
+    "longitud": -63.46667
+  },
+  {
+    "nombre": "La Loberia",
+    "provincia": "Rio Negro",
+    "latitud": -41.15,
+    "longitud": -63.16667
+  },
+  {
+    "nombre": "Lamarque",
+    "provincia": "Rio Negro",
+    "latitud": -39.4,
+    "longitud": -65.7
+  },
+  {
+    "nombre": "Las Bayas",
+    "provincia": "Rio Negro",
+    "latitud": -41.46667,
+    "longitud": -70.66667
+  },
+  {
+    "nombre": "Llama Niyeo",
+    "provincia": "Rio Negro",
+    "latitud": -41.9,
+    "longitud": -68.55
+  },
+  {
+    "nombre": "Llao Llao",
+    "provincia": "Rio Negro",
+    "latitud": -41.05353,
+    "longitud": -71.53662
+  },
+  {
+    "nombre": "Lonco Vaca",
+    "provincia": "Rio Negro",
+    "latitud": -40.11667,
+    "longitud": -69.05
+  },
+  {
+    "nombre": "Los Menucos",
+    "provincia": "Rio Negro",
+    "latitud": -40.83333,
+    "longitud": -68.13333
+  },
+  {
+    "nombre": "Los Repollos",
+    "provincia": "Rio Negro",
+    "latitud": -41.85,
+    "longitud": -71.41667
+  },
+  {
+    "nombre": "Mainque",
+    "provincia": "Rio Negro",
+    "latitud": -39.06667,
+    "longitud": -67.3
+  },
+  {
+    "nombre": "Mancha Blanca",
+    "provincia": "Rio Negro",
+    "latitud": -40.78333,
+    "longitud": -65.45
+  },
+  {
+    "nombre": "Maquinchao",
+    "provincia": "Rio Negro",
+    "latitud": -41.25,
+    "longitud": -68.73333
+  },
+  {
+    "nombre": "Mencue",
+    "provincia": "Rio Negro",
+    "latitud": -40.41667,
+    "longitud": -69.63333
+  },
+  {
+    "nombre": "Menucos",
+    "provincia": "Rio Negro",
+    "latitud": -39.61667,
+    "longitud": -67.08333
+  },
+  {
+    "nombre": "Ministro Ramos Mexia",
+    "provincia": "Rio Negro",
+    "latitud": -40.5,
+    "longitud": -67.28333
+  },
+  {
+    "nombre": "Musters",
+    "provincia": "Rio Negro",
+    "latitud": -40.6,
+    "longitud": -66.38333
+  },
+  {
+    "nombre": "Nahuel Niyeu",
+    "provincia": "Rio Negro",
+    "latitud": -40.5,
+    "longitud": -66.55
+  },
+  {
+    "nombre": "Negro Muerto",
+    "provincia": "Rio Negro",
+    "latitud": -39.78333,
+    "longitud": -65.26667
+  },
+  {
+    "nombre": "Neneo Ruca",
+    "provincia": "Rio Negro",
+    "latitud": -41.11667,
+    "longitud": -70.43333
+  },
+  {
+    "nombre": "Nirihuau",
+    "provincia": "Rio Negro",
+    "latitud": -41.11667,
+    "longitud": -71.15
+  },
+  {
+    "nombre": "Norquinco",
+    "provincia": "Rio Negro",
+    "latitud": -41.85,
+    "longitud": -70.9
+  },
+  {
+    "nombre": "Nuevo Leon",
+    "provincia": "Rio Negro",
+    "latitud": -40.75,
+    "longitud": -64.13333
+  },
+  {
+    "nombre": "Ojos de Agua",
+    "provincia": "Rio Negro",
+    "latitud": -41.66667,
+    "longitud": -69.91667
+  },
+  {
+    "nombre": "Padre Alejandro Stefenelli",
+    "provincia": "Rio Negro",
+    "latitud": -39.05,
+    "longitud": -67.53333
+  },
+  {
+    "nombre": "Pajalta",
+    "provincia": "Rio Negro",
+    "latitud": -40.75,
+    "longitud": -66.05
+  },
+  {
+    "nombre": "Paso Chacabuco",
+    "provincia": "Rio Negro",
+    "latitud": -40.65,
+    "longitud": -70.96667
+  },
+  {
+    "nombre": "Paso Flores",
+    "provincia": "Rio Negro",
+    "latitud": -40.58333,
+    "longitud": -70.63333
+  },
+  {
+    "nombre": "Paso Limay",
+    "provincia": "Rio Negro",
+    "latitud": -40.55,
+    "longitud": -70.43333
+  },
+  {
+    "nombre": "Percy H Scott",
+    "provincia": "Rio Negro",
+    "latitud": -40.83333,
+    "longitud": -65.65
+  },
+  {
+    "nombre": "Pichi Leufu",
+    "provincia": "Rio Negro",
+    "latitud": -41.13333,
+    "longitud": -70.85
+  },
+  {
+    "nombre": "Pichi Mahuida",
+    "provincia": "Rio Negro",
+    "latitud": -38.83333,
+    "longitud": -64.95
+  },
+  {
+    "nombre": "Piedra Pintada",
+    "provincia": "Rio Negro",
+    "latitud": -40.08333,
+    "longitud": -70.2
+  },
+  {
+    "nombre": "Pilahue",
+    "provincia": "Rio Negro",
+    "latitud": -40.55,
+    "longitud": -69.73333
+  },
+  {
+    "nombre": "Pilcaniyeu",
+    "provincia": "Rio Negro",
+    "latitud": -41.13333,
+    "longitud": -70.66667
+  },
+  {
+    "nombre": "Pomona",
+    "provincia": "Rio Negro",
+    "latitud": -39.46667,
+    "longitud": -65.5
+  },
+  {
+    "nombre": "Primera Angostura",
+    "provincia": "Rio Negro",
+    "latitud": -40.46667,
+    "longitud": -63.78333
+  },
+  {
+    "nombre": "Provincia de Rio Negro",
+    "provincia": "Rio Negro",
+    "latitud": -40.0,
+    "longitud": -67.0
+  },
+  {
+    "nombre": "Pueblo Buena Parada",
+    "provincia": "Rio Negro",
+    "latitud": -39.01667,
+    "longitud": -64.03333
+  },
+  {
+    "nombre": "Puerto Alegre",
+    "provincia": "Rio Negro",
+    "latitud": -41.05,
+    "longitud": -71.8
+  },
+  {
+    "nombre": "Puerto Blest",
+    "provincia": "Rio Negro",
+    "latitud": -41.03333,
+    "longitud": -71.81667
+  },
+  {
+    "nombre": "Puerto Frias",
+    "provincia": "Rio Negro",
+    "latitud": -41.07845,
+    "longitud": -71.80853
+  },
+  {
+    "nombre": "Puerto San Antonio Este",
+    "provincia": "Rio Negro",
+    "latitud": -40.81667,
+    "longitud": -64.75
+  },
+  {
+    "nombre": "Quetrequile",
+    "provincia": "Rio Negro",
+    "latitud": -41.55,
+    "longitud": -69.36667
+  },
+  {
+    "nombre": "Quinihuao",
+    "provincia": "Rio Negro",
+    "latitud": -40.16667,
+    "longitud": -69.75
+  },
+  {
+    "nombre": "Rio Colorado",
+    "provincia": "Rio Negro",
+    "latitud": -39.01667,
+    "longitud": -64.08333
+  },
+  {
+    "nombre": "San Antonio Oeste",
+    "provincia": "Rio Negro",
+    "latitud": -40.73333,
+    "longitud": -64.93333
+  },
+  {
+    "nombre": "San Carlos de Bariloche",
+    "provincia": "Rio Negro",
+    "latitud": -41.15,
+    "longitud": -71.3
+  },
+  {
+    "nombre": "Sierra Colorada",
+    "provincia": "Rio Negro",
+    "latitud": -40.58333,
+    "longitud": -67.8
+  },
+  {
+    "nombre": "Sierra Grande",
+    "provincia": "Rio Negro",
+    "latitud": -41.6,
+    "longitud": -65.36667
+  },
+  {
+    "nombre": "Sierra Paileman",
+    "provincia": "Rio Negro",
+    "latitud": -41.15,
+    "longitud": -65.93333
+  },
+  {
+    "nombre": "Teniente General Eustoquio Frias",
+    "provincia": "Rio Negro",
+    "latitud": -40.2,
+    "longitud": -64.2
+  },
+  {
+    "nombre": "Teniente Maza",
+    "provincia": "Rio Negro",
+    "latitud": -40.5,
+    "longitud": -66.76667
+  },
+  {
+    "nombre": "Tragua Tragua",
+    "provincia": "Rio Negro",
+    "latitud": -39.45,
+    "longitud": -65.58333
+  },
+  {
+    "nombre": "Trapalco",
+    "provincia": "Rio Negro",
+    "latitud": -39.56667,
+    "longitud": -66.98333
+  },
+  {
+    "nombre": "Trica Co",
+    "provincia": "Rio Negro",
+    "latitud": -39.61667,
+    "longitud": -68.0
+  },
+  {
+    "nombre": "Valcheta",
+    "provincia": "Rio Negro",
+    "latitud": -40.7,
+    "longitud": -66.15
+  },
+  {
+    "nombre": "Vicealmirante Eduardo OConnor",
+    "provincia": "Rio Negro",
+    "latitud": -40.8,
+    "longitud": -63.86667
+  },
+  {
+    "nombre": "Viedma",
+    "provincia": "Rio Negro",
+    "latitud": -40.8,
+    "longitud": -63.0
+  },
+  {
+    "nombre": "Villa Catedral",
+    "provincia": "Rio Negro",
+    "latitud": -41.16735,
+    "longitud": -71.43877
+  },
+  {
+    "nombre": "Villa Mascardi",
+    "provincia": "Rio Negro",
+    "latitud": -41.35,
+    "longitud": -71.51667
+  },
+  {
+    "nombre": "Villa Regina",
+    "provincia": "Rio Negro",
+    "latitud": -39.1,
+    "longitud": -67.06667
+  },
+  {
+    "nombre": "Zanjon de Oyuela",
+    "provincia": "Rio Negro",
+    "latitud": -40.7,
+    "longitud": -63.46667
+  }
+]

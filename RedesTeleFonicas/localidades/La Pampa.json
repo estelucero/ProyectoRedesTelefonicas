@@ -1,0 +1,824 @@
+[
+  {
+    "nombre": "Abramo",
+    "provincia": "La Pampa",
+    "latitud": -37.88333,
+    "longitud": -63.85
+  },
+  {
+    "nombre": "Adolfo Van Praet",
+    "provincia": "La Pampa",
+    "latitud": -35.01667,
+    "longitud": -64.05
+  },
+  {
+    "nombre": "Aguada Chos Malal",
+    "provincia": "La Pampa",
+    "latitud": -36.76667,
+    "longitud": -68.15
+  },
+  {
+    "nombre": "Agustoni",
+    "provincia": "La Pampa",
+    "latitud": -35.78333,
+    "longitud": -63.4
+  },
+  {
+    "nombre": "Alfredo Pena",
+    "provincia": "La Pampa",
+    "latitud": -35.93333,
+    "longitud": -63.51667
+  },
+  {
+    "nombre": "Algarrobo del Aguila",
+    "provincia": "La Pampa",
+    "latitud": -36.43333,
+    "longitud": -67.15
+  },
+  {
+    "nombre": "Alpachiri",
+    "provincia": "La Pampa",
+    "latitud": -37.36667,
+    "longitud": -63.76667
+  },
+  {
+    "nombre": "Alta Italia",
+    "provincia": "La Pampa",
+    "latitud": -35.36667,
+    "longitud": -64.13333
+  },
+  {
+    "nombre": "Anguil",
+    "provincia": "La Pampa",
+    "latitud": -36.51667,
+    "longitud": -64.01667
+  },
+  {
+    "nombre": "Anzoategui",
+    "provincia": "La Pampa",
+    "latitud": -38.96667,
+    "longitud": -63.85
+  },
+  {
+    "nombre": "Arata",
+    "provincia": "La Pampa",
+    "latitud": -35.63333,
+    "longitud": -64.33333
+  },
+  {
+    "nombre": "Ataliva Roca",
+    "provincia": "La Pampa",
+    "latitud": -37.01667,
+    "longitud": -64.28333
+  },
+  {
+    "nombre": "Atreuco",
+    "provincia": "La Pampa",
+    "latitud": -37.13333,
+    "longitud": -63.81667
+  },
+  {
+    "nombre": "Bernardo Larroude",
+    "provincia": "La Pampa",
+    "latitud": -35.03333,
+    "longitud": -63.56667
+  },
+  {
+    "nombre": "Bernasconi",
+    "provincia": "La Pampa",
+    "latitud": -37.9,
+    "longitud": -63.71667
+  },
+  {
+    "nombre": "Boeuf",
+    "provincia": "La Pampa",
+    "latitud": -35.96667,
+    "longitud": -64.45
+  },
+  {
+    "nombre": "Cachirulo",
+    "provincia": "La Pampa",
+    "latitud": -36.73333,
+    "longitud": -64.35
+  },
+  {
+    "nombre": "Carro Quemado",
+    "provincia": "La Pampa",
+    "latitud": -36.46667,
+    "longitud": -65.33333
+  },
+  {
+    "nombre": "Catrilo",
+    "provincia": "La Pampa",
+    "latitud": -36.43333,
+    "longitud": -63.4
+  },
+  {
+    "nombre": "Ceballos",
+    "provincia": "La Pampa",
+    "latitud": -35.3,
+    "longitud": -63.76667
+  },
+  {
+    "nombre": "Cereales",
+    "provincia": "La Pampa",
+    "latitud": -36.81667,
+    "longitud": -63.85
+  },
+  {
+    "nombre": "Chacharramendi",
+    "provincia": "La Pampa",
+    "latitud": -37.31667,
+    "longitud": -65.65
+  },
+  {
+    "nombre": "Chamaico",
+    "provincia": "La Pampa",
+    "latitud": -35.05,
+    "longitud": -64.96667
+  },
+  {
+    "nombre": "Chical Co",
+    "provincia": "La Pampa",
+    "latitud": -36.58333,
+    "longitud": -67.8
+  },
+  {
+    "nombre": "Colonia Baron",
+    "provincia": "La Pampa",
+    "latitud": -36.15,
+    "longitud": -63.83333
+  },
+  {
+    "nombre": "Colonia Butalo",
+    "provincia": "La Pampa",
+    "latitud": -36.2,
+    "longitud": -67.1
+  },
+  {
+    "nombre": "Colonia Catriel",
+    "provincia": "La Pampa",
+    "latitud": -37.85,
+    "longitud": -67.83333
+  },
+  {
+    "nombre": "Colonia Chica",
+    "provincia": "La Pampa",
+    "latitud": -37.98333,
+    "longitud": -67.81667
+  },
+  {
+    "nombre": "Colonia Emilio Mitre",
+    "provincia": "La Pampa",
+    "latitud": -36.41667,
+    "longitud": -66.48333
+  },
+  {
+    "nombre": "Colonia La Carlota",
+    "provincia": "La Pampa",
+    "latitud": -36.3,
+    "longitud": -63.91667
+  },
+  {
+    "nombre": "Colonia La Pastoril",
+    "provincia": "La Pampa",
+    "latitud": -36.36667,
+    "longitud": -66.25
+  },
+  {
+    "nombre": "Conhello",
+    "provincia": "La Pampa",
+    "latitud": -36.01667,
+    "longitud": -64.6
+  },
+  {
+    "nombre": "Coronel Hilario Lagos",
+    "provincia": "La Pampa",
+    "latitud": -35.01667,
+    "longitud": -63.93333
+  },
+  {
+    "nombre": "Cotita",
+    "provincia": "La Pampa",
+    "latitud": -37.7,
+    "longitud": -64.06667
+  },
+  {
+    "nombre": "Cuchillo Co",
+    "provincia": "La Pampa",
+    "latitud": -38.33333,
+    "longitud": -64.61667
+  },
+  {
+    "nombre": "Damian Maisonave",
+    "provincia": "La Pampa",
+    "latitud": -35.03333,
+    "longitud": -64.38333
+  },
+  {
+    "nombre": "Departamento de Atreuco",
+    "provincia": "La Pampa",
+    "latitud": -37.0,
+    "longitud": -63.75
+  },
+  {
+    "nombre": "Departamento de Caleu Caleu",
+    "provincia": "La Pampa",
+    "latitud": -38.58333,
+    "longitud": -64.0
+  },
+  {
+    "nombre": "Departamento de Catrilo",
+    "provincia": "La Pampa",
+    "latitud": -36.5,
+    "longitud": -63.75
+  },
+  {
+    "nombre": "Departamento de Chalileo",
+    "provincia": "La Pampa",
+    "latitud": -36.41667,
+    "longitud": -66.58333
+  },
+  {
+    "nombre": "Departamento de Chapaleufu",
+    "provincia": "La Pampa",
+    "latitud": -35.16667,
+    "longitud": -63.75
+  },
+  {
+    "nombre": "Departamento de Chical Co",
+    "provincia": "La Pampa",
+    "latitud": -36.41667,
+    "longitud": -67.58333
+  },
+  {
+    "nombre": "Departamento de Conhello",
+    "provincia": "La Pampa",
+    "latitud": -36.0,
+    "longitud": -64.5
+  },
+  {
+    "nombre": "Departamento de Cura Co",
+    "provincia": "La Pampa",
+    "latitud": -38.16667,
+    "longitud": -66.5
+  },
+  {
+    "nombre": "Departamento de Guatrache",
+    "provincia": "La Pampa",
+    "latitud": -37.5,
+    "longitud": -63.75
+  },
+  {
+    "nombre": "Departamento de Hucal",
+    "provincia": "La Pampa",
+    "latitud": -38.0,
+    "longitud": -64.0
+  },
+  {
+    "nombre": "Departamento de Leventue",
+    "provincia": "La Pampa",
+    "latitud": -36.5,
+    "longitud": -65.5
+  },
+  {
+    "nombre": "Departamento de Lihuel Calel",
+    "provincia": "La Pampa",
+    "latitud": -38.25,
+    "longitud": -65.08333
+  },
+  {
+    "nombre": "Departamento de Limay Mahuida",
+    "provincia": "La Pampa",
+    "latitud": -37.33333,
+    "longitud": -66.5
+  },
+  {
+    "nombre": "Departamento de Maraco",
+    "provincia": "La Pampa",
+    "latitud": -35.75,
+    "longitud": -63.75
+  },
+  {
+    "nombre": "Departamento de Puelen",
+    "provincia": "La Pampa",
+    "latitud": -37.25,
+    "longitud": -67.66667
+  },
+  {
+    "nombre": "Departamento de Quemu Quemu",
+    "provincia": "La Pampa",
+    "latitud": -36.25,
+    "longitud": -63.75
+  },
+  {
+    "nombre": "Departamento de Rancul",
+    "provincia": "La Pampa",
+    "latitud": -35.5,
+    "longitud": -64.75
+  },
+  {
+    "nombre": "Departamento de Realico",
+    "provincia": "La Pampa",
+    "latitud": -35.25,
+    "longitud": -64.25
+  },
+  {
+    "nombre": "Departamento de Toay",
+    "provincia": "La Pampa",
+    "latitud": -36.58333,
+    "longitud": -64.8
+  },
+  {
+    "nombre": "Departamento de Trenel",
+    "provincia": "La Pampa",
+    "latitud": -35.66667,
+    "longitud": -64.25
+  },
+  {
+    "nombre": "Departamento de Utracan",
+    "provincia": "La Pampa",
+    "latitud": -37.25,
+    "longitud": -65.0
+  },
+  {
+    "nombre": "Doblas",
+    "provincia": "La Pampa",
+    "latitud": -37.15,
+    "longitud": -64.01667
+  },
+  {
+    "nombre": "Dorila",
+    "provincia": "La Pampa",
+    "latitud": -35.78333,
+    "longitud": -63.7
+  },
+  {
+    "nombre": "Eduardo Castex",
+    "provincia": "La Pampa",
+    "latitud": -35.9,
+    "longitud": -64.3
+  },
+  {
+    "nombre": "El Durazno",
+    "provincia": "La Pampa",
+    "latitud": -36.7,
+    "longitud": -65.28333
+  },
+  {
+    "nombre": "El Odre",
+    "provincia": "La Pampa",
+    "latitud": -36.96667,
+    "longitud": -66.2
+  },
+  {
+    "nombre": "El Retiro",
+    "provincia": "La Pampa",
+    "latitud": -36.3,
+    "longitud": -67.75
+  },
+  {
+    "nombre": "Embajador Martini",
+    "provincia": "La Pampa",
+    "latitud": -35.41667,
+    "longitud": -64.3
+  },
+  {
+    "nombre": "Epu Pel",
+    "provincia": "La Pampa",
+    "latitud": -37.56667,
+    "longitud": -64.28333
+  },
+  {
+    "nombre": "Euskadi",
+    "provincia": "La Pampa",
+    "latitud": -37.6,
+    "longitud": -66.35
+  },
+  {
+    "nombre": "Falucho",
+    "provincia": "La Pampa",
+    "latitud": -35.18333,
+    "longitud": -64.1
+  },
+  {
+    "nombre": "Gamay",
+    "provincia": "La Pampa",
+    "latitud": -37.43333,
+    "longitud": -64.38333
+  },
+  {
+    "nombre": "Gaviotas",
+    "provincia": "La Pampa",
+    "latitud": -38.95,
+    "longitud": -63.61667
+  },
+  {
+    "nombre": "General Acha",
+    "provincia": "La Pampa",
+    "latitud": -37.38333,
+    "longitud": -64.6
+  },
+  {
+    "nombre": "General Manuel J Campos",
+    "provincia": "La Pampa",
+    "latitud": -37.46667,
+    "longitud": -63.6
+  },
+  {
+    "nombre": "General Pico",
+    "provincia": "La Pampa",
+    "latitud": -35.66667,
+    "longitud": -63.73333
+  },
+  {
+    "nombre": "Gobernador Duval",
+    "provincia": "La Pampa",
+    "latitud": -38.71667,
+    "longitud": -66.4
+  },
+  {
+    "nombre": "Guatrache",
+    "provincia": "La Pampa",
+    "latitud": -37.66667,
+    "longitud": -63.53333
+  },
+  {
+    "nombre": "Hidalgo",
+    "provincia": "La Pampa",
+    "latitud": -37.16667,
+    "longitud": -63.53333
+  },
+  {
+    "nombre": "Hucal",
+    "provincia": "La Pampa",
+    "latitud": -37.76667,
+    "longitud": -64.03333
+  },
+  {
+    "nombre": "Huelen",
+    "provincia": "La Pampa",
+    "latitud": -36.11667,
+    "longitud": -63.73333
+  },
+  {
+    "nombre": "Ingeniero Foster",
+    "provincia": "La Pampa",
+    "latitud": -35.7,
+    "longitud": -65.08333
+  },
+  {
+    "nombre": "Ingeniero Luiggi",
+    "provincia": "La Pampa",
+    "latitud": -35.41667,
+    "longitud": -64.48333
+  },
+  {
+    "nombre": "Intendente Alvear",
+    "provincia": "La Pampa",
+    "latitud": -35.23333,
+    "longitud": -63.58333
+  },
+  {
+    "nombre": "Jacinto Arauz",
+    "provincia": "La Pampa",
+    "latitud": -38.06667,
+    "longitud": -63.43333
+  },
+  {
+    "nombre": "La Asturiana",
+    "provincia": "La Pampa",
+    "latitud": -37.85,
+    "longitud": -65.36667
+  },
+  {
+    "nombre": "La Copelina",
+    "provincia": "La Pampa",
+    "latitud": -37.26667,
+    "longitud": -67.58333
+  },
+  {
+    "nombre": "La Humada",
+    "provincia": "La Pampa",
+    "latitud": -36.35,
+    "longitud": -68.0
+  },
+  {
+    "nombre": "La Maruja",
+    "provincia": "La Pampa",
+    "latitud": -35.66667,
+    "longitud": -64.96667
+  },
+  {
+    "nombre": "La Tulia",
+    "provincia": "La Pampa",
+    "latitud": -36.46667,
+    "longitud": -67.55
+  },
+  {
+    "nombre": "Lihuel Calel",
+    "provincia": "La Pampa",
+    "latitud": -38.03333,
+    "longitud": -65.55
+  },
+  {
+    "nombre": "Limarna",
+    "provincia": "La Pampa",
+    "latitud": -36.88333,
+    "longitud": -67.75
+  },
+  {
+    "nombre": "Limay Mahuida",
+    "provincia": "La Pampa",
+    "latitud": -37.2,
+    "longitud": -66.7
+  },
+  {
+    "nombre": "Loboco",
+    "provincia": "La Pampa",
+    "latitud": -35.8,
+    "longitud": -64.93333
+  },
+  {
+    "nombre": "Lonquimay",
+    "provincia": "La Pampa",
+    "latitud": -36.46667,
+    "longitud": -63.61667
+  },
+  {
+    "nombre": "Los Jagueles",
+    "provincia": "La Pampa",
+    "latitud": -36.66667,
+    "longitud": -67.58333
+  },
+  {
+    "nombre": "Loventue",
+    "provincia": "La Pampa",
+    "latitud": -36.18333,
+    "longitud": -65.3
+  },
+  {
+    "nombre": "Luan Toro",
+    "provincia": "La Pampa",
+    "latitud": -36.2,
+    "longitud": -65.1
+  },
+  {
+    "nombre": "Macachin",
+    "provincia": "La Pampa",
+    "latitud": -37.15,
+    "longitud": -63.65
+  },
+  {
+    "nombre": "Mariano Miro",
+    "provincia": "La Pampa",
+    "latitud": -35.0,
+    "longitud": -63.81667
+  },
+  {
+    "nombre": "Mauricio Mayer",
+    "provincia": "La Pampa",
+    "latitud": -36.23333,
+    "longitud": -64.03333
+  },
+  {
+    "nombre": "Metileo",
+    "provincia": "La Pampa",
+    "latitud": -35.75,
+    "longitud": -63.93333
+  },
+  {
+    "nombre": "Miguel Cane",
+    "provincia": "La Pampa",
+    "latitud": -36.16667,
+    "longitud": -63.5
+  },
+  {
+    "nombre": "Miguel Riglos",
+    "provincia": "La Pampa",
+    "latitud": -36.85,
+    "longitud": -63.7
+  },
+  {
+    "nombre": "Monte Nievas",
+    "provincia": "La Pampa",
+    "latitud": -35.86667,
+    "longitud": -64.15
+  },
+  {
+    "nombre": "Naico",
+    "provincia": "La Pampa",
+    "latitud": -36.93333,
+    "longitud": -64.4
+  },
+  {
+    "nombre": "Ojeda",
+    "provincia": "La Pampa",
+    "latitud": -35.33333,
+    "longitud": -64.0
+  },
+  {
+    "nombre": "Parera",
+    "provincia": "La Pampa",
+    "latitud": -35.13333,
+    "longitud": -64.53333
+  },
+  {
+    "nombre": "Paso de los Algarrobos",
+    "provincia": "La Pampa",
+    "latitud": -36.68333,
+    "longitud": -66.9
+  },
+  {
+    "nombre": "Peru",
+    "provincia": "La Pampa",
+    "latitud": -37.63333,
+    "longitud": -64.15
+  },
+  {
+    "nombre": "Pichi Huinca",
+    "provincia": "La Pampa",
+    "latitud": -35.63333,
+    "longitud": -64.76667
+  },
+  {
+    "nombre": "Provincia de La Pampa",
+    "provincia": "La Pampa",
+    "latitud": -37.0,
+    "longitud": -66.0
+  },
+  {
+    "nombre": "Puelches",
+    "provincia": "La Pampa",
+    "latitud": -38.15,
+    "longitud": -65.91667
+  },
+  {
+    "nombre": "Puelen",
+    "provincia": "La Pampa",
+    "latitud": -37.36667,
+    "longitud": -67.61667
+  },
+  {
+    "nombre": "Quehue",
+    "provincia": "La Pampa",
+    "latitud": -37.13333,
+    "longitud": -64.51667
+  },
+  {
+    "nombre": "Quemu Quemu",
+    "provincia": "La Pampa",
+    "latitud": -36.05,
+    "longitud": -63.55
+  },
+  {
+    "nombre": "Quetrequen",
+    "provincia": "La Pampa",
+    "latitud": -35.05,
+    "longitud": -64.53333
+  },
+  {
+    "nombre": "Rancul",
+    "provincia": "La Pampa",
+    "latitud": -35.05,
+    "longitud": -64.7
+  },
+  {
+    "nombre": "Realico",
+    "provincia": "La Pampa",
+    "latitud": -35.03333,
+    "longitud": -64.25
+  },
+  {
+    "nombre": "Relmo",
+    "provincia": "La Pampa",
+    "latitud": -36.25,
+    "longitud": -63.45
+  },
+  {
+    "nombre": "Remeco",
+    "provincia": "La Pampa",
+    "latitud": -37.63333,
+    "longitud": -63.65
+  },
+  {
+    "nombre": "Ricardo Lavalle",
+    "provincia": "La Pampa",
+    "latitud": -35.13333,
+    "longitud": -64.16667
+  },
+  {
+    "nombre": "Rolon",
+    "provincia": "La Pampa",
+    "latitud": -37.18333,
+    "longitud": -63.4
+  },
+  {
+    "nombre": "Rucanelo",
+    "provincia": "La Pampa",
+    "latitud": -36.05,
+    "longitud": -64.81667
+  },
+  {
+    "nombre": "Sarah",
+    "provincia": "La Pampa",
+    "latitud": -35.01667,
+    "longitud": -63.7
+  },
+  {
+    "nombre": "Speluzzi",
+    "provincia": "La Pampa",
+    "latitud": -35.53333,
+    "longitud": -63.8
+  },
+  {
+    "nombre": "Telen",
+    "provincia": "La Pampa",
+    "latitud": -36.26667,
+    "longitud": -65.5
+  },
+  {
+    "nombre": "Teniente General Emilio Mitre",
+    "provincia": "La Pampa",
+    "latitud": -36.13333,
+    "longitud": -64.93333
+  },
+  {
+    "nombre": "Toay",
+    "provincia": "La Pampa",
+    "latitud": -36.66667,
+    "longitud": -64.35
+  },
+  {
+    "nombre": "Tomas M de Anchorena",
+    "provincia": "La Pampa",
+    "latitud": -36.85,
+    "longitud": -63.51667
+  },
+  {
+    "nombre": "Trebolares",
+    "provincia": "La Pampa",
+    "latitud": -35.58333,
+    "longitud": -63.58333
+  },
+  {
+    "nombre": "Trenel",
+    "provincia": "La Pampa",
+    "latitud": -35.7,
+    "longitud": -64.13333
+  },
+  {
+    "nombre": "Trili",
+    "provincia": "La Pampa",
+    "latitud": -35.9,
+    "longitud": -63.65
+  },
+  {
+    "nombre": "Unanue",
+    "provincia": "La Pampa",
+    "latitud": -37.53333,
+    "longitud": -64.35
+  },
+  {
+    "nombre": "Uriburu",
+    "provincia": "La Pampa",
+    "latitud": -36.5,
+    "longitud": -63.83333
+  },
+  {
+    "nombre": "Utracan",
+    "provincia": "La Pampa",
+    "latitud": -37.26667,
+    "longitud": -64.56667
+  },
+  {
+    "nombre": "Valle Daza",
+    "provincia": "La Pampa",
+    "latitud": -37.06667,
+    "longitud": -65.4
+  },
+  {
+    "nombre": "Vertiz",
+    "provincia": "La Pampa",
+    "latitud": -35.43333,
+    "longitud": -63.9
+  },
+  {
+    "nombre": "Victorica",
+    "provincia": "La Pampa",
+    "latitud": -36.21667,
+    "longitud": -65.45
+  },
+  {
+    "nombre": "Villa Mirasol",
+    "provincia": "La Pampa",
+    "latitud": -36.06667,
+    "longitud": -63.88333
+  },
+  {
+    "nombre": "Winifreda",
+    "provincia": "La Pampa",
+    "latitud": -36.25,
+    "longitud": -64.23333
+  }
+]

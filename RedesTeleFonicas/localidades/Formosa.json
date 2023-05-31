@@ -1,0 +1,722 @@
+[
+    {
+    "nombre": "Apayerey",
+    "provincia": "Formosa",
+    "latitud": -24.98333,
+    "longitud": -58.7
+    },
+    {
+    "nombre": "Bartolome de las Casas",
+    "provincia": "Formosa",
+    "latitud": -25.4,
+    "longitud": -59.56667
+    },
+    {
+    "nombre": "Bouvier",
+    "provincia": "Formosa",
+    "latitud": -25.45,
+    "longitud": -57.58333
+    },
+    {
+    "nombre": "Cabo Primero Lugones",
+    "provincia": "Formosa",
+    "latitud": -24.28333,
+    "longitud": -59.83333
+    },
+    {
+    "nombre": "Campo Alegre",
+    "provincia": "Formosa",
+    "latitud": -25.13333,
+    "longitud": -60.33333
+    },
+    {
+    "nombre": "Chiriguanos",
+    "provincia": "Formosa",
+    "latitud": -24.1,
+    "longitud": -61.45
+    },
+    {
+    "nombre": "Clorinda",
+    "provincia": "Formosa",
+    "latitud": -25.28333,
+    "longitud": -57.71667
+    },
+    {
+    "nombre": "Colonia Aborigen La Primavera",
+    "provincia": "Formosa",
+    "latitud": -25.18333,
+    "longitud": -58.13333
+    },
+    {
+    "nombre": "Colonia Alto Alegre",
+    "provincia": "Formosa",
+    "latitud": -25.55,
+    "longitud": -59.85
+    },
+    {
+    "nombre": "Colonia Buena Vista",
+    "provincia": "Formosa",
+    "latitud": -25.01667,
+    "longitud": -58.43333
+    },
+    {
+    "nombre": "Colonia Dalmacia",
+    "provincia": "Formosa",
+    "latitud": -25.85,
+    "longitud": -57.9
+    },
+    {
+    "nombre": "Colonia Kilometro 503",
+    "provincia": "Formosa",
+    "latitud": -25.38333,
+    "longitud": -60.3
+    },
+    {
+    "nombre": "Colonia Perin",
+    "provincia": "Formosa",
+    "latitud": -25.55,
+    "longitud": -60.03333
+    },
+    {
+    "nombre": "Colonia Villafane",
+    "provincia": "Formosa",
+    "latitud": -26.2,
+    "longitud": -59.08333
+    },
+    {
+    "nombre": "Comandante Fontana",
+    "provincia": "Formosa",
+    "latitud": -25.33333,
+    "longitud": -59.68333
+    },
+    {
+    "nombre": "Departamento de Bermejo",
+    "provincia": "Formosa",
+    "latitud": -24.33333,
+    "longitud": -61.5
+    },
+    {
+    "nombre": "Departamento de Formosa",
+    "provincia": "Formosa",
+    "latitud": -26.0,
+    "longitud": -58.5
+    },
+    {
+    "nombre": "Departamento de Laishi",
+    "provincia": "Formosa",
+    "latitud": -26.5,
+    "longitud": -58.75
+    },
+    {
+    "nombre": "Departamento de Matacos",
+    "provincia": "Formosa",
+    "latitud": -23.83333,
+    "longitud": -62.16667
+    },
+    {
+    "nombre": "Departamento de Patino",
+    "provincia": "Formosa",
+    "latitud": -24.75,
+    "longitud": -60.0
+    },
+    {
+    "nombre": "Departamento de Pilagas",
+    "provincia": "Formosa",
+    "latitud": -25.08333,
+    "longitud": -58.75
+    },
+    {
+    "nombre": "Departamento de Pilcomayo",
+    "provincia": "Formosa",
+    "latitud": -25.5,
+    "longitud": -58.08333
+    },
+    {
+    "nombre": "Departamento de Pirane",
+    "provincia": "Formosa",
+    "latitud": -25.66667,
+    "longitud": -59.16667
+    },
+    {
+    "nombre": "Departamento de Ramon Lista",
+    "provincia": "Formosa",
+    "latitud": -23.0,
+    "longitud": -62.16667
+    },
+    {
+    "nombre": "Doctor Carlos Montag",
+    "provincia": "Formosa",
+    "latitud": -25.55,
+    "longitud": -59.8
+    },
+    {
+    "nombre": "Doctor Ezequiel Ramos Mejia",
+    "provincia": "Formosa",
+    "latitud": -24.11667,
+    "longitud": -61.41667
+    },
+    {
+    "nombre": "El Alambrado",
+    "provincia": "Formosa",
+    "latitud": -23.25,
+    "longitud": -62.16667
+    },
+    {
+    "nombre": "El Chanaral",
+    "provincia": "Formosa",
+    "latitud": -22.51667,
+    "longitud": -62.3
+    },
+    {
+    "nombre": "El Chorro",
+    "provincia": "Formosa",
+    "latitud": -23.18333,
+    "longitud": -62.3
+    },
+    {
+    "nombre": "El Cogoi",
+    "provincia": "Formosa",
+    "latitud": -24.76667,
+    "longitud": -59.21667
+    },
+    {
+    "nombre": "El Colorado",
+    "provincia": "Formosa",
+    "latitud": -26.3,
+    "longitud": -59.36667
+    },
+    {
+    "nombre": "El Gato",
+    "provincia": "Formosa",
+    "latitud": -26.18333,
+    "longitud": -58.93333
+    },
+    {
+    "nombre": "El Porteno",
+    "provincia": "Formosa",
+    "latitud": -24.71667,
+    "longitud": -59.58333
+    },
+    {
+    "nombre": "El Rosado",
+    "provincia": "Formosa",
+    "latitud": -22.76667,
+    "longitud": -62.3
+    },
+    {
+    "nombre": "El Totoral",
+    "provincia": "Formosa",
+    "latitud": -23.31667,
+    "longitud": -62.01667
+    },
+    {
+    "nombre": "Espinillo",
+    "provincia": "Formosa",
+    "latitud": -24.96667,
+    "longitud": -58.56667
+    },
+    {
+    "nombre": "Establecimiento Primera Vista",
+    "provincia": "Formosa",
+    "latitud": -25.15,
+    "longitud": -58.2
+    },
+    {
+    "nombre": "Estanislao del Campo",
+    "provincia": "Formosa",
+    "latitud": -25.05,
+    "longitud": -60.1
+    },
+    {
+    "nombre": "Ex Fortin Lamadrid",
+    "provincia": "Formosa",
+    "latitud": -23.9,
+    "longitud": -60.73333
+    },
+    {
+    "nombre": "Formosa",
+    "provincia": "Formosa",
+    "latitud": -26.18333,
+    "longitud": -58.18333
+    },
+    {
+    "nombre": "Fortin Pilcomayo",
+    "provincia": "Formosa",
+    "latitud": -23.86667,
+    "longitud": -60.88333
+    },
+    {
+    "nombre": "Fortin Sargento Primero Leyes",
+    "provincia": "Formosa",
+    "latitud": -24.55,
+    "longitud": -59.38333
+    },
+    {
+    "nombre": "Fortin Soledad",
+    "provincia": "Formosa",
+    "latitud": -24.13333,
+    "longitud": -60.7
+    },
+    {
+    "nombre": "General Enrique Mosconi",
+    "provincia": "Formosa",
+    "latitud": -23.21667,
+    "longitud": -62.3
+    },
+    {
+    "nombre": "General Francisco Basiliano Bosch",
+    "provincia": "Formosa",
+    "latitud": -24.4,
+    "longitud": -61.01667
+    },
+    {
+    "nombre": "Gran Guardia",
+    "provincia": "Formosa",
+    "latitud": -25.86667,
+    "longitud": -58.88333
+    },
+    {
+    "nombre": "Herradura",
+    "provincia": "Formosa",
+    "latitud": -26.48333,
+    "longitud": -58.3
+    },
+    {
+    "nombre": "Ibarreta",
+    "provincia": "Formosa",
+    "latitud": -25.21667,
+    "longitud": -59.85
+    },
+    {
+    "nombre": "Ingeniero Enrique H Faure",
+    "provincia": "Formosa",
+    "latitud": -23.96667,
+    "longitud": -61.71667
+    },
+    {
+    "nombre": "Ingeniero Guillermo N Juarez",
+    "provincia": "Formosa",
+    "latitud": -23.9,
+    "longitud": -61.85
+    },
+    {
+    "nombre": "Juan G Bazan",
+    "provincia": "Formosa",
+    "latitud": -24.55,
+    "longitud": -60.83333
+    },
+    {
+    "nombre": "Kilometro 100",
+    "provincia": "Formosa",
+    "latitud": -26.51667,
+    "longitud": -58.81667
+    },
+    {
+    "nombre": "Kilometro 213",
+    "provincia": "Formosa",
+    "latitud": -26.18333,
+    "longitud": -59.35
+    },
+    {
+    "nombre": "Kilometro 642",
+    "provincia": "Formosa",
+    "latitud": -24.95,
+    "longitud": -60.95
+    },
+    {
+    "nombre": "La Florencia",
+    "provincia": "Formosa",
+    "latitud": -24.2,
+    "longitud": -62.01667
+    },
+    {
+    "nombre": "La Frontera",
+    "provincia": "Formosa",
+    "latitud": -25.4,
+    "longitud": -58.18333
+    },
+    {
+    "nombre": "Laguna Gallo",
+    "provincia": "Formosa",
+    "latitud": -25.26667,
+    "longitud": -58.73333
+    },
+    {
+    "nombre": "Laguna Naick Neck",
+    "provincia": "Formosa",
+    "latitud": -25.21667,
+    "longitud": -58.11667
+    },
+    {
+    "nombre": "Las Choyas",
+    "provincia": "Formosa",
+    "latitud": -24.91667,
+    "longitud": -59.78333
+    },
+    {
+    "nombre": "Las Mochas",
+    "provincia": "Formosa",
+    "latitud": -24.81667,
+    "longitud": -59.83333
+    },
+    {
+    "nombre": "Los Matacos",
+    "provincia": "Formosa",
+    "latitud": -25.48333,
+    "longitud": -59.45
+    },
+    {
+    "nombre": "Lucero Cue",
+    "provincia": "Formosa",
+    "latitud": -25.23333,
+    "longitud": -58.03333
+    },
+    {
+    "nombre": "Madera Barrios",
+    "provincia": "Formosa",
+    "latitud": -25.6,
+    "longitud": -58.4
+    },
+    {
+    "nombre": "Mariano Boedo",
+    "provincia": "Formosa",
+    "latitud": -26.11667,
+    "longitud": -58.48333
+    },
+    {
+    "nombre": "Mision Franciscana Tacaagle",
+    "provincia": "Formosa",
+    "latitud": -24.98333,
+    "longitud": -58.83333
+    },
+    {
+    "nombre": "Mision Pilaga",
+    "provincia": "Formosa",
+    "latitud": -23.58333,
+    "longitud": -61.18333
+    },
+    {
+    "nombre": "Mision San Andres",
+    "provincia": "Formosa",
+    "latitud": -23.03333,
+    "longitud": -61.98333
+    },
+    {
+    "nombre": "Mision Tacaagle",
+    "provincia": "Formosa",
+    "latitud": -24.93333,
+    "longitud": -58.76667
+    },
+    {
+    "nombre": "Mision Yacare",
+    "provincia": "Formosa",
+    "latitud": -24.08333,
+    "longitud": -62.31667
+    },
+    {
+    "nombre": "Mistol Marcado",
+    "provincia": "Formosa",
+    "latitud": -23.05,
+    "longitud": -61.96667
+    },
+    {
+    "nombre": "Mojon de Fierro",
+    "provincia": "Formosa",
+    "latitud": -26.05,
+    "longitud": -58.05
+    },
+    {
+    "nombre": "Monte Lindo Chico",
+    "provincia": "Formosa",
+    "latitud": -25.5,
+    "longitud": -58.4
+    },
+    {
+    "nombre": "Obraje",
+    "provincia": "Formosa",
+    "latitud": -25.71667,
+    "longitud": -59.63333
+    },
+    {
+    "nombre": "Obraje Kilometro 72",
+    "provincia": "Formosa",
+    "latitud": -25.91667,
+    "longitud": -59.75
+    },
+    {
+    "nombre": "Obraje La Sucursal",
+    "provincia": "Formosa",
+    "latitud": -25.78333,
+    "longitud": -59.71667
+    },
+    {
+    "nombre": "Palma Sola",
+    "provincia": "Formosa",
+    "latitud": -25.25,
+    "longitud": -57.98333
+    },
+    {
+    "nombre": "Palo Santo",
+    "provincia": "Formosa",
+    "latitud": -25.56667,
+    "longitud": -59.35
+    },
+    {
+    "nombre": "Paraiso",
+    "provincia": "Formosa",
+    "latitud": -25.2,
+    "longitud": -57.96667
+    },
+    {
+    "nombre": "Pescado Negro",
+    "provincia": "Formosa",
+    "latitud": -23.38333,
+    "longitud": -61.78333
+    },
+    {
+    "nombre": "Pilaga Tercero",
+    "provincia": "Formosa",
+    "latitud": -25.5,
+    "longitud": -58.98333
+    },
+    {
+    "nombre": "Pirane",
+    "provincia": "Formosa",
+    "latitud": -25.71667,
+    "longitud": -59.1
+    },
+    {
+    "nombre": "Posta Cambio a Zalazar",
+    "provincia": "Formosa",
+    "latitud": -24.2,
+    "longitud": -60.2
+    },
+    {
+    "nombre": "Posta General San Martin",
+    "provincia": "Formosa",
+    "latitud": -24.43333,
+    "longitud": -59.65
+    },
+    {
+    "nombre": "Posta i",
+    "provincia": "Formosa",
+    "latitud": -25.76667,
+    "longitud": -58.08333
+    },
+    {
+    "nombre": "Posta Kilometro 45 Sargento Cabral",
+    "provincia": "Formosa",
+    "latitud": -24.38333,
+    "longitud": -60.31667
+    },
+    {
+    "nombre": "Potrero de los Caballos",
+    "provincia": "Formosa",
+    "latitud": -26.5,
+    "longitud": -58.66667
+    },
+    {
+    "nombre": "Pozo de la Yegua",
+    "provincia": "Formosa",
+    "latitud": -24.15,
+    "longitud": -61.95
+    },
+    {
+    "nombre": "Pozo de los Chanchos",
+    "provincia": "Formosa",
+    "latitud": -23.26667,
+    "longitud": -62.08333
+    },
+    {
+    "nombre": "Pozo de Maza",
+    "provincia": "Formosa",
+    "latitud": -23.56667,
+    "longitud": -61.7
+    },
+    {
+    "nombre": "Pozo del Mortero",
+    "provincia": "Formosa",
+    "latitud": -24.4,
+    "longitud": -61.03333
+    },
+    {
+    "nombre": "Presidente Irigoyen",
+    "provincia": "Formosa",
+    "latitud": -26.18333,
+    "longitud": -58.81667
+    },
+    {
+    "nombre": "Primera Punta",
+    "provincia": "Formosa",
+    "latitud": -25.13333,
+    "longitud": -58.38333
+    },
+    {
+    "nombre": "Provincia de Formosa",
+    "provincia": "Formosa",
+    "latitud": -25.0,
+    "longitud": -60.0
+    },
+    {
+    "nombre": "Puerto Dalmacia",
+    "provincia": "Formosa",
+    "latitud": -25.86667,
+    "longitud": -57.88333
+    },
+    {
+    "nombre": "Puerto Galileo",
+    "provincia": "Formosa",
+    "latitud": -25.08333,
+    "longitud": -57.85
+    },
+    {
+    "nombre": "Puerto Pilcomayo",
+    "provincia": "Formosa",
+    "latitud": -25.36667,
+    "longitud": -57.65
+    },
+    {
+    "nombre": "Puerto Velaz",
+    "provincia": "Formosa",
+    "latitud": -26.65,
+    "longitud": -58.63333
+    },
+    {
+    "nombre": "Punta Pora",
+    "provincia": "Formosa",
+    "latitud": -25.21667,
+    "longitud": -58.51667
+    },
+    {
+    "nombre": "Riacho Eh Eh",
+    "provincia": "Formosa",
+    "latitud": -25.38333,
+    "longitud": -58.3
+    },
+    {
+    "nombre": "Riacho Lindo",
+    "provincia": "Formosa",
+    "latitud": -26.41667,
+    "longitud": -58.55
+    },
+    {
+    "nombre": "San Francisco de Laishi",
+    "provincia": "Formosa",
+    "latitud": -26.23333,
+    "longitud": -58.63333
+    },
+    {
+    "nombre": "San Hilario",
+    "provincia": "Formosa",
+    "latitud": -26.03333,
+    "longitud": -58.65
+    },
+    {
+    "nombre": "San Juan",
+    "provincia": "Formosa",
+    "latitud": -25.16667,
+    "longitud": -57.93333
+    },
+    {
+    "nombre": "San Martin Numero Uno",
+    "provincia": "Formosa",
+    "latitud": -24.53333,
+    "longitud": -59.9
+    },
+    {
+    "nombre": "Seccion San Nicolas",
+    "provincia": "Formosa",
+    "latitud": -25.66667,
+    "longitud": -58.16667
+    },
+    {
+    "nombre": "Segunda Punta",
+    "provincia": "Formosa",
+    "latitud": -25.05,
+    "longitud": -58.38333
+    },
+    {
+    "nombre": "Selva Maria",
+    "provincia": "Formosa",
+    "latitud": -23.03333,
+    "longitud": -62.1
+    },
+    {
+    "nombre": "Siete Palmas",
+    "provincia": "Formosa",
+    "latitud": -25.21667,
+    "longitud": -58.33333
+    },
+    {
+    "nombre": "Sombrero Negro",
+    "provincia": "Formosa",
+    "latitud": -23.45,
+    "longitud": -61.46667
+    },
+    {
+    "nombre": "Tacaagle",
+    "provincia": "Formosa",
+    "latitud": -24.96667,
+    "longitud": -58.81667
+    },
+    {
+    "nombre": "Teniente Brown",
+    "provincia": "Formosa",
+    "latitud": -24.8,
+    "longitud": -60.46667
+    },
+    {
+    "nombre": "Teniente General Juan Carlos Sanchez",
+    "provincia": "Formosa",
+    "latitud": -25.35,
+    "longitud": -58.3
+    },
+    {
+    "nombre": "Teniente General Rosendo M Fraga",
+    "provincia": "Formosa",
+    "latitud": -23.75,
+    "longitud": -62.15
+    },
+    {
+    "nombre": "Tres Horquetas",
+    "provincia": "Formosa",
+    "latitud": -26.2,
+    "longitud": -58.4
+    },
+    {
+    "nombre": "Tres Lagunas",
+    "provincia": "Formosa",
+    "latitud": -25.25,
+    "longitud": -58.45
+    },
+    {
+    "nombre": "Tres Marias",
+    "provincia": "Formosa",
+    "latitud": -26.33333,
+    "longitud": -58.2
+    },
+    {
+    "nombre": "Tres Pitos",
+    "provincia": "Formosa",
+    "latitud": -26.35,
+    "longitud": -58.43333
+    },
+    {
+    "nombre": "Tucumancito",
+    "provincia": "Formosa",
+    "latitud": -22.81667,
+    "longitud": -62.11667
+    },
+    {
+    "nombre": "Villa Escolar",
+    "provincia": "Formosa",
+    "latitud": -26.61667,
+    "longitud": -58.66667
+    },
+    {
+    "nombre": "Villa Zavaleta",
+    "provincia": "Formosa",
+    "latitud": -22.53333,
+    "longitud": -62.26667
+    }
+]
